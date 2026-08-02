@@ -23,3 +23,5 @@ Nó là mxh ý tưởng đến dự án. Hay là nơi để chắc lọc ý tư�
 - cách đánh giá dự án ra sao và nhu cầu thực của nhóm nhận lợi ích trực tiếp
 - nếu một dự án mà nhóm người họ đang cần nhưng lưởng lự hoặc đang sử dụng spdv hiện tại chưa muốn chuyển đổi
 - nguồn đánh giá cộng đồng có thực sự đáng tin cậy với nhà đầu tư
+# Cuối buổi 
+Mọi người đều mong dự án ra sớm, sớm pilot một 

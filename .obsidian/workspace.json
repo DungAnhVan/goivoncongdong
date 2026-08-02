@@ -98,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 217.6768684387207
   },
   "right": {
     "id": "4701bfbe5aa6edf9",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gội vốn cộng đồng là gì.md",
+                "file": "Báo cáo buổi meet ngày 2-8.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -196,11 +196,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 462.1456298828125
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
