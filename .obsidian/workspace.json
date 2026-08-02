@@ -200,8 +200,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 462.1456298828125,
-    "collapsed": true
+    "width": 462.1456298828125
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,7 +214,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0d4d34b67eff7a22",
+  "active": "cf3de3945f973502",
   "lastOpenFiles": [
     "README.md",
     "Báo cáo buổi meet ngày 2-8.md",

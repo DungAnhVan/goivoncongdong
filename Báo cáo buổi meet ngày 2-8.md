@@ -1,4 +1,4 @@
-[[Gọi vốn cộng đồng]][[Gọi vốn cộng đồng]]Trong buổi gặp mặt đã triển khai được các mục sau
+Trong buổi gặp mặt đã triển khai được các mục sau
 - nói về dự án là gì
 - nêu các vấn đề thực tế đang cần dự án này
 - các lổ hỏng mà dự án đang gặp
@@ -20,4 +20,6 @@ Dự án [[Gọi vốn cộng đồng]] có thể là một sàn ý tưởng và
 Nó là mxh ý tưởng đến dự án. Hay là nơi để chắc lọc ý tưởng hay và nhiều người đang cần. 
 - cuộc thảo luận xoay quanh vai trò của nền tảng
 - phân loại người dùng họ thuộc nhóm nào
-- cách đánh giá dự án ra sao và nhu cầu thực của nhom
+- cách đánh giá dự án ra sao và nhu cầu thực của nhóm nhận lợi ích trực tiếp
+- nếu một dự án mà nhóm người họ đang cần nhưng lưởng lự hoặc đang sử dụng spdv hiện tại chưa muốn chuyển đổi
+- nguồn đánh giá cộng đồng có thực sự đáng tin cậy với nhà đầu tư
