@@ -1,4 +1,4 @@
-Trong buổi gặp mặt đã triển khai được các mục sau
+[[Gọi vốn cộng đồng]][[Gọi vốn cộng đồng]]Trong buổi gặp mặt đã triển khai được các mục sau
 - nói về dự án là gì
 - nêu các vấn đề thực tế đang cần dự án này
 - các lổ hỏng mà dự án đang gặp
@@ -11,4 +11,13 @@ Nhà chống lũ (thuộc quỹ sông) họ đang cần các nhà đâu tư, và
 - Nguồn vốn lớn
 - Cần chính sách hỗ trợ
 - Và nhu cầu có thật
-Với nhà đầu tư họ cần lợi nhuận, với nhà sáng lập dự án họ cần vốn, vậy người hoặc định chính sách họ co
+Với nhà đầu tư họ cần lợi nhuận, với nhà sáng lập dự án họ cần vốn, vậy người hoặch định chính sách họ có thể đưa ra cầu nối với ngân sách nhà nước. lợi ích và ưu đãi vốn vay khi nhà đầu tư họ tham gia góp vốn. 
+Những ưu đãi như là lãi xuất cho vay thấp, ưu đãi thuê tài sản công vvv.
+
+# Thảo luận về lổ hổng 
+
+Dự án [[Gọi vốn cộng đồng]] có thể là một sàn ý tưởng và nó hỗ trợ rút ngắn ý tưởng thành sản phẩm dịch vụ thực tế. Qua đó người sáng lập dự án có thể được các nhà đầu tư tiếp cần nhanh và minh bạch hơn. Tuy nhiên sàn ý tưởng có thể là nơi mọi ý tưởng được nêu ra, nó có thể làm cho chất lượng giảm xuống nếu cộng đồng không có tiêu chuẩn riêng.
+Nó là mxh ý tưởng đến dự án. Hay là nơi để chắc lọc ý tưởng hay và nhiều người đang cần. 
+- cuộc thảo luận xoay quanh vai trò của nền tảng
+- phân loại người dùng họ thuộc nhóm nào
+- cách đánh giá dự án ra sao và nhu cầu thực của nhom
