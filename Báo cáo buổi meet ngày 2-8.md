@@ -24,4 +24,7 @@ Nó là mxh ý tưởng đến dự án. Hay là nơi để chắc lọc ý tư�
 - nếu một dự án mà nhóm người họ đang cần nhưng lưởng lự hoặc đang sử dụng spdv hiện tại chưa muốn chuyển đổi
 - nguồn đánh giá cộng đồng có thực sự đáng tin cậy với nhà đầu tư
 # Cuối buổi 
-Mọi người đều mong dự án ra sớm, sớm pilot một 
+Mọi người đều mong dự án ra sớm, sớm một pilot đầu tiên. 
+Mong muốn thêm mọi người, tầng lớp tham gia góp ý.  
+Chưa có sự phân công, phụ trách rõ ràng nào
+Chưa thu xếp buổi gặp mặt tiếp theo
