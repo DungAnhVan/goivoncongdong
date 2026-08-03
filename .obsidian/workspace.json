@@ -11,10 +11,14 @@
             "id": "e32423c9a273e47f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Nguồn/Tóm tắt buổi thảo luận ngày 2-8.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Tóm tắt buổi thảo luận ngày 2-8"
             }
           }
         ]
@@ -157,6 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Nguồn/Tóm tắt buổi thảo luận ngày 2-8.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -194,19 +199,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7470ae36c5f3219c",
+  "active": "e32423c9a273e47f",
   "lastOpenFiles": [
+    "Mở rộng/Liên kết mô hình khác.md",
+    "Mở rộng/Giả thuyết.md",
+    "Nguồn/Tài liệu.md",
     "README.md",
     "Nguồn/Nguồn tham khảo.md",
     "Nguồn/Phản hồi từ mọi người.md",
     "Nguồn/Daily Note.md",
-    "Nguồn/Tài liệu.md",
     "Mở rộng/Liên tưởng.md",
     "Mở rộng/Góc nhìn khác.md",
-    "Mở rộng/Giải thuyết.md",
     "Mở rộng/Phản biện.md",
     "Mở rộng/Ý chưa hoàn thiện.md",
-    "Mở rộng/Liên kết mô hình khác.md",
     "Vấn đề/Câu hỏi đang mở.md",
     "Vấn đề/Mâu thuẫn trong mô hình.md",
     "Thực làm/Quyết định tiếp tục, điều chỉnh hoặc dừng.md",
@@ -228,6 +233,6 @@
     "2026-08-03.md",
     "Nguồn",
     "Untitled.canvas",
-    "Nguồn/Tóm tắc buổi thảo luận ngày 2-8.md"
+    "Nguồn/Tóm tắt buổi thảo luận ngày 2-8.md"
   ]
 }
