@@ -118,19 +118,44 @@
 
 **Ví dụ:** Mô hình Kiva cho vay nhỏ để mở rộng hoạt động kinh doanh thể hiện khá trực tiếp logic “trao năng lực”: người ủng hộ không chỉ bù một khoản thiếu mà góp vào tài sản sinh kế, trong khi người vay giữ vai trò tác nhân kinh tế và cam kết hoàn trả. [^16]
 
+# 10. Công bằng theo khả năng, nhu cầu và ảnh hưởng
 
 
+**Định nghĩa:** Bình đẳng không luôn có nghĩa mọi người góp bằng nhau hoặc nhận bằng nhau. Một cơ chế công bằng phải xét khả năng đóng góp, mức nhu cầu, mức hưởng lợi và mức ảnh hưởng đến quyết định.
+
+**Nguồn và bối cảnh:** _Công vụ_ mô tả phân phối theo nhu cầu; truyền thống hợp tác xã phân biệt bình đẳng và công bằng; các thực hành tỷ lệ như _dasvandh_ định chuẩn đóng góp theo phần thu nhập thay vì một số tiền tuyệt đối. [^17]
+
+**Mệnh đề cốt lõi:** _Không được để mức tiền đóng góp trở thành thước đo duy nhất của tư cách, tiếng nói hoặc phẩm giá._
+
+**Ánh xạ:** Có thể dùng mức đóng góp linh hoạt, tài trợ đối ứng ưu tiên các khoản nhỏ, quyền biểu quyết “một thành viên–một phiếu”, giới hạn quyền chi phối của nhà tài trợ lớn và cơ chế miễn phí cho người góp công sức.
+
+**Ví dụ:** Chiến dịch bệ tượng Nữ thần Tự do thành công không phải vì một nhà tài trợ mua quyền sở hữu biểu tượng, mà vì hàng chục nghìn khoản nhỏ được công nhận như thành phần chính trị–biểu tượng của toàn bộ công trình. [^18]
+
+# 11. Hiệp hội tự nguyện và quyền quyết định gần cộng đồng
 
 
+**Định nghĩa:** Những người chịu ảnh hưởng nên có khả năng tham gia định hình quy tắc, thay vì chỉ chuyển tiền cho một trung tâm xa cách.
+
+**Nguồn và bối cảnh:** Tocqueville xem hiệp hội công dân là trường học của tự quản; ICA định nghĩa hợp tác xã là hiệp hội tự trị của những người tự nguyện liên kết để đáp ứng nhu cầu chung thông qua doanh nghiệp đồng sở hữu và kiểm soát dân chủ. Các nguyên tắc ICA còn nhấn mạnh thành viên tự nguyện, kiểm soát dân chủ và quan tâm đến cộng đồng. [^19]
+
+**Mệnh đề cốt lõi:** _Quyền quyết định nên được đặt ở cấp gần nhất có đủ kiến thức và chịu hậu quả của quyết định._
+
+**Ánh xạ:** Crowdfunding cộng đồng có thể bổ sung hội đồng người ủng hộ, bỏ phiếu về các thay đổi lớn, ngân sách tham gia, kiểm toán cộng đồng và quyền rút lại cam kết trước một thay đổi trọng yếu.
+
+**Ví dụ:** Một dự án nhà sinh hoạt cộng đồng do cư dân tài trợ nên để cư dân quyết định công năng, tiêu chí tiếp cận và chi phí vận hành; nếu toàn bộ quyết định nằm ở nền tảng hoặc một nhà tài trợ lớn, đó là “crowdfunded” về tiền nhưng không về quyền lực.
 
 
+# 12. Ngưỡng bảo đảm và phối hợp tập thể
 
+**Định nghĩa:** Người góp chỉ bị ràng buộc nếu tổng cam kết đạt mức tối thiểu khiến dự án khả thi. Nếu không đạt, tiền được trả lại.
 
+**Nguồn và bối cảnh:** Hợp đồng bảo đảm giải quyết nỗi sợ rằng khoản đóng góp cá nhân sẽ bị lãng phí nếu những người khác không tham gia. Tabarrok phát triển “dominant assurance contract”, bổ sung tiền thưởng hoàn trả để giảm cả rủi ro người đi đầu và động cơ đi nhờ. Kickstarter áp dụng hình thức all-or-nothing: người ủng hộ chỉ bị tính tiền nếu dự án đạt mục tiêu trước thời hạn. [^20]
 
+**Mệnh đề cốt lõi:** _Không nên thu tiền cho một phương án không còn khả năng hoàn thành ở quy mô đã cam kết._
 
+**Ánh xạ:** Mục tiêu tài trợ phải được suy ra từ chi phí tối thiểu khả thi, không phải một con số marketing. Các mốc mở rộng có thể bổ sung tính năng sau khi ngưỡng cốt lõi đã đạt.
 
-
-
+**Ví dụ:** Kickstarter giải thích all-or-nothing là cách bảo vệ người sáng tạo khỏi việc phải triển khai với ngân sách thiếu, bảo vệ người ủng hộ khỏi một dự án không đủ nguồn lực và tạo tính khẩn trương cho phối hợp. [^21]
 
 
 
@@ -167,3 +192,13 @@ Ref
 [^15]: https://www.sefaria.org/Mishneh_Torah%2C_Gifts_to_the_Poor.10.7
 
 [^16]: https://www.kiva.org/about/how
+
+[^17]: https://www.biblegateway.com/passage/?search=Acts+2%3A44-45&version=KJV&
+
+[^18]: https://www.nps.gov/stli/learn/historyculture/joseph-pulitzer.htm
+
+[^19]: https://www.gutenberg.org/files/815/815-h/815-h.htm
+
+[^20]: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4682
+
+[^21]: https://help.kickstarter.com/hc/en-us/articles/115005047893-Why-is-funding-all-or-nothing
