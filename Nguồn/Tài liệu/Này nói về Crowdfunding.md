@@ -7,4 +7,19 @@ Báo cáo này cho rằng một nền tảng tư tưởng vững chắc cho crow
 3. **Lớp phối hợp:** cần cơ chế giải quyết vấn đề “tôi sợ người khác không góp”, “tôi góp nhưng dự án không đủ tiền”, và “tôi có thể hưởng lợi mà không cần đóng góp”.
 4. **Lớp quản trị:** tiền được huy động phải được ghi nhận, bảo quản, phân bổ, báo cáo và sử dụng theo những cam kết đã được cộng đồng chấp thuận.
 
+> **Crowdfunding chính đáng là hành vi tự nguyện qua đó nhiều người cùng cấu thành một thiện ích, đóng góp theo khả năng, bảo vệ phẩm giá của nhau, phối hợp quanh một ngưỡng khả thi, và trao nguồn lực cho một người quản trị có trách nhiệm giải trình.**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 [^1]: https://documents1.worldbank.org/curated/en/409841468327411701/pdf/840000WP0Box380crowdfunding0study00.pdf?utm_source=chatgpt.com
