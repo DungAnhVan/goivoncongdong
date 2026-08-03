@@ -4,347 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "0a08a6f78b28d149",
+        "id": "51de9520c29a1cff",
         "type": "tabs",
         "children": [
           {
-            "id": "775a2ff0b0fb6f10",
+            "id": "e32423c9a273e47f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "a0278f16ee4fa067",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nguồn/Nguồn tham khảo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Nguồn tham khảo"
-            }
-          },
-          {
-            "id": "0629a743198af482",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nguồn/Phản hồi từ mọi người.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Phản hồi từ mọi người"
-            }
-          },
-          {
-            "id": "a844d3641040a888",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nguồn/Daily Note.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Daily Note"
-            }
-          },
-          {
-            "id": "3bef71334984bbd3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nguồn/Tài liệu.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tài liệu"
-            }
-          },
-          {
-            "id": "18eb851c51fbc02a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mở rộng/Liên tưởng.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Liên tưởng"
-            }
-          },
-          {
-            "id": "b2af3334cde1ad87",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mở rộng/Góc nhìn khác.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Góc nhìn khác"
-            }
-          },
-          {
-            "id": "d89a04d4c284dbd7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mở rộng/Giải thuyết.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Giải thuyết"
-            }
-          },
-          {
-            "id": "9d0fbc3083887d6f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mở rộng/Phản biện.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Phản biện"
-            }
-          },
-          {
-            "id": "8fd447e2e726e84e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mở rộng/Ý chưa hoàn thiện.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ý chưa hoàn thiện"
-            }
-          },
-          {
-            "id": "ddff8de466d5e627",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mở rộng/Liên kết mô hình khác.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Liên kết mô hình khác"
-            }
-          },
-          {
-            "id": "d0d30eeedd4beec8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vấn đề/Câu hỏi đang mở.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Câu hỏi đang mở"
-            }
-          },
-          {
-            "id": "c115c5cb8ea46de7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vấn đề/Mâu thuẫn trong mô hình.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mâu thuẫn trong mô hình"
-            }
-          },
-          {
-            "id": "bd46d9f3b7c06231",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vấn đề/Lỗ hổng niềm tin.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lỗ hổng niềm tin"
-            }
-          },
-          {
-            "id": "601d07833bda767a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vấn đề/Nhu cầu chưa được chứng minh..md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Nhu cầu chưa được chứng minh."
-            }
-          },
-          {
-            "id": "864b456dd10396af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vấn đề/Rủi ro.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Rủi ro"
-            }
-          },
-          {
-            "id": "8fb157edb46113e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vấn đề/Những khái niệm chưa rõ.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Những khái niệm chưa rõ"
-            }
-          },
-          {
-            "id": "88e59cb397837f59",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Thực làm/Dự án pilot.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dự án pilot"
-            }
-          },
-          {
-            "id": "8a47f33a0bcf8bf7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Thực làm/Khảo sát.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Khảo sát"
-            }
-          },
-          {
-            "id": "2ac6bd6b0bd21213",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Thực làm/Phỏng vấn.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Phỏng vấn"
-            }
-          },
-          {
-            "id": "4490cb07c9a4da77",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Thực làm/Công việc được giao.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Công việc được giao"
-            }
-          },
-          {
-            "id": "af21b6bfb7acad1b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Thực làm/Tiến độ.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tiến độ"
-            }
-          },
-          {
-            "id": "e80ffce997e294a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kết quả thử nghiệm.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Kết quả thử nghiệm"
-            }
-          },
-          {
-            "id": "8f17ff62dd298fe3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Thực làm/Quyết định tiếp tục, điều chỉnh hoặc dừng.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Quyết định tiếp tục, điều chỉnh hoặc dừng"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 23
+        ]
       }
     ],
     "direction": "vertical"
@@ -484,7 +157,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Thực làm/Quyết định tiếp tục, điều chỉnh hoặc dừng.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -522,10 +194,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0d4d34b67eff7a22",
+  "active": "e32423c9a273e47f",
   "lastOpenFiles": [
-    "Kết quả thử nghiệm.md",
+    "README.md",
+    "Nguồn/Nguồn tham khảo.md",
+    "Nguồn/Phản hồi từ mọi người.md",
+    "Nguồn/Daily Note.md",
+    "Nguồn/Tài liệu.md",
+    "Mở rộng/Liên tưởng.md",
+    "Mở rộng/Góc nhìn khác.md",
+    "Mở rộng/Giải thuyết.md",
+    "Mở rộng/Phản biện.md",
+    "Mở rộng/Ý chưa hoàn thiện.md",
+    "Mở rộng/Liên kết mô hình khác.md",
+    "Vấn đề/Câu hỏi đang mở.md",
+    "Vấn đề/Mâu thuẫn trong mô hình.md",
     "Thực làm/Quyết định tiếp tục, điều chỉnh hoặc dừng.md",
+    "Thực làm/Kết quả thử nghiệm.md",
     "Thực làm/Tiến độ.md",
     "Thực làm/Công việc được giao.md",
     "Thực làm/Phỏng vấn.md",
@@ -538,24 +223,11 @@
     "Vấn đề/Rủi ro.md",
     "Vấn đề/Nhu cầu chưa được chứng minh..md",
     "Vấn đề/Lỗ hổng niềm tin.md",
-    "Vấn đề/Mâu thuẫn trong mô hình.md",
-    "Vấn đề/Câu hỏi đang mở.md",
-    "Mở rộng/Liên kết mô hình khác.md",
     "Vấn đề",
-    "Mở rộng/Ý chưa hoàn thiện.md",
-    "Mở rộng/Phản biện.md",
-    "Mở rộng/Giải thuyết.md",
-    "Mở rộng/Góc nhìn khác.md",
-    "Mở rộng/Liên tưởng.md",
-    "Nguồn/Tài liệu.md",
     "Mở rộng",
-    "Nguồn/Daily Note.md",
-    "Nguồn/Phản hồi từ mọi người.md",
-    "Nguồn/Nguồn tham khảo.md",
     "2026-08-03.md",
     "Nguồn",
     "Untitled.canvas",
-    "Tóm tắc buổi thảo luận ngày 2-8.md",
-    "Các câu hỏi cần được trả lời.md"
+    "Tóm tắc buổi thảo luận ngày 2-8.md"
   ]
 }
