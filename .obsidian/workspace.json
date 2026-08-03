@@ -180,8 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,7 +194,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e32423c9a273e47f",
+  "active": "7470ae36c5f3219c",
   "lastOpenFiles": [
     "README.md",
     "Nguồn/Nguồn tham khảo.md",
@@ -229,6 +228,6 @@
     "2026-08-03.md",
     "Nguồn",
     "Untitled.canvas",
-    "Tóm tắc buổi thảo luận ngày 2-8.md"
+    "Nguồn/Tóm tắc buổi thảo luận ngày 2-8.md"
   ]
 }
