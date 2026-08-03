@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Báo cáo buổi meet ngày 2-8.md",
+                "file": "Gọi vốn cộng đồng.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Báo cáo buổi meet ngày 2-8"
+              "title": "Gọi vốn cộng đồng"
             }
           },
           {
@@ -55,16 +55,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Báo cáo buổi meet ngày 2-8.md",
+                "file": "Tóm tắc buổi thảo luận ngày 2-8.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Báo cáo buổi meet ngày 2-8"
+              "title": "Tóm tắc buổi thảo luận ngày 2-8"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -204,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Báo cáo buổi meet ngày 2-8.md",
+                "file": "Gọi vốn cộng đồng.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -224,12 +224,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -243,13 +242,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1e3ebb39c25d945d",
+  "active": "cf3de3945f973502",
   "lastOpenFiles": [
-    "Buổi thảo luận sắp tới.md",
-    "Các câu hỏi cần được trả lời.md",
-    "Báo cáo buổi meet ngày 2-8.md",
-    "README.md",
+    "Tóm tắc buổi thảo luận ngày 2-8.md",
     "Gọi vốn cộng đồng.md",
+    "Các câu hỏi cần được trả lời.md",
+    "Buổi thảo luận sắp tới.md",
+    "README.md",
     "Brain Storm.md"
   ]
 }
