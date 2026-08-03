@@ -57,21 +57,113 @@
 
 **Nguồn và bối cảnh:** Qur’an 2:261 dùng hình ảnh một hạt sinh bảy bông, mỗi bông một trăm hạt, để diễn tả sức sinh sôi của việc chi tiêu vì mục đích thiêng liêng. Trong Do Thái giáo, _tzedakah_ cùng gốc nghĩa với công chính; Maimonides đặt nghĩa vụ này ở vị trí trung tâm của đời sống đạo đức. Trong _Công vụ Tông đồ_, cộng đồng Kitô hữu sơ kỳ chia sẻ tài sản và phân phối “theo nhu cầu của mỗi người”. [^7]
 
+**Mệnh đề cốt lõi:** _Crowdfunding không nên chỉ dựa vào cảm xúc nhất thời; nó có thể thể chế hóa một nghĩa vụ chia sẻ công bằng._
+
+**Ánh xạ:** Các cơ chế định kỳ, quỹ tương trợ, tỷ lệ đóng góp theo thu nhập, quỹ đối ứng và ngân sách cộng đồng có thể ổn định việc tài trợ hơn những chiến dịch phụ thuộc vào sự lan truyền ngẫu nhiên.
+
+**Ví dụ:** Truyền thống Sikh về _dasvandh_ khuyến khích dành một phần thu nhập cho hoạt động cộng đồng và tôn giáo; SGPC mô tả _dasvandh_ như một thực hành đóng góp và cung cấp cơ chế thực hiện trực tuyến. Đây là ví dụ việc một chuẩn mực tỷ lệ được đưa vào hạ tầng số hiện đại. [^8]
+
+
+# 6. Tương trợ — cộng đồng là năng lực tự cứu có tổ chức
+
+
+**Định nghĩa:** Tương trợ khác bố thí một chiều: các thành viên cùng tạo một cơ chế mà bất kỳ người nào cũng có thể là người hỗ trợ hôm nay và người cần hỗ trợ ngày mai.
+
+**Nguồn và bối cảnh:** Kropotkin trong _Mutual Aid_ phản bác quan niệm xem cạnh tranh tàn nhẫn là động lực duy nhất của tiến hóa và lịch sử; ông nhấn mạnh hợp tác và tương trợ như lực sinh tồn quan trọng. Tocqueville quan sát rằng hiệp hội tự nguyện có thể thay thế sự lệ thuộc vào các cá nhân quyền thế và giúp công dân nhận ra lợi ích riêng gắn với lợi ích cộng đồng. Truyền thống hợp tác xã hiện đại chính thức hóa tự lực, trách nhiệm, dân chủ, bình đẳng, công bằng và đoàn kết. [^9]
+
+**Mệnh đề cốt lõi:** _Crowdfunding bền vững không chỉ chuyển nguồn lực đến một người nhận; nó làm tăng khả năng tự tổ chức của cộng đồng._
+
+**Ánh xạ:** Quỹ quay vòng, nhóm cho vay ngang hàng, quỹ khẩn cấp của thành viên, mô hình “đã nhận thì sau này góp lại” và sở hữu hợp tác phù hợp với logic tương trợ hơn chiến dịch từ thiện đơn lẻ.
+
+**Ví dụ:** Kiva cho phép nhiều người góp các khoản nhỏ vào một khoản vay cho doanh nhân; người vay hoàn trả để dòng vốn có thể tiếp tục được cho vay. Về cấu trúc, đây là sự kết hợp giữa tương trợ, tín dụng và trách nhiệm hồi đáp, dù Kiva lưu ý vẫn có rủi ro mất vốn. [^10]
+
+
+# 7. Niềm tin là hạ tầng sơ cấp
+
+
+**Định nghĩa:** Niềm tin không phải phần trang trí tâm lý đặt trên một hệ thống tài chính; nó là điều kiện để những người không thể tự kiểm tra mọi sự kiện vẫn đồng ý phối hợp.
+
+**Nguồn và bối cảnh:** Trong _Luận Ngữ_ 12.7, khi được hỏi điều cần cho quản trị, Khổng Tử nêu lương thực, binh bị và lòng tin; nếu phải bỏ dần, lòng tin là điều cuối cùng không thể thiếu: “without trust, the people are lost.” Niềm tin ở đây không đồng nghĩa nhẹ dạ; nó phát sinh từ tín nghĩa, sự nhất quán giữa lời nói và hành động. [^11]
+
+**Mệnh đề cốt lõi:** _Không có độ tin cậy của người khởi xướng, mục tiêu và cơ chế, đám đông không thể tồn tại như một chủ thể phối hợp._
+
+**Ánh xạ:** Hồ sơ người sáng lập, bằng chứng năng lực, mẫu thử, ngân sách, đối tác xác nhận, lịch sử cập nhật và phản hồi công khai đều là cơ sở của tín nhiệm. Nghiên cứu của Mollick trên hàng chục nghìn dự án Kickstarter cho thấy mạng lưới cá nhân và các tín hiệu về chất lượng dự án liên quan đến khả năng thành công. [^12]
+
+**Ví dụ:** Một chiến dịch sản phẩm có mẫu hoạt động, bảng chi phí và lịch sản xuất thực tế thường tạo niềm tin khác với một chiến dịch chỉ có hình ảnh kết xuất và tuyên bố tham vọng, dù hai bên yêu cầu cùng một số tiền.
+
+
+# 8. Văn bản hóa, chứng cứ và trách nhiệm giải trình
+
+
+**Định nghĩa:** Lời hứa liên quan đến tiền, thời hạn và nghĩa vụ tương lai phải được ghi thành điều khoản có thể kiểm tra.
+
+**Nguồn và bối cảnh:** Qur’an 2:282 yêu cầu các nghĩa vụ nợ có thời hạn phải được ghi lại công bằng, không bỏ sót, với bằng chứng và nhân chứng nhằm giảm nghi ngờ. Dù hình thức pháp lý của thế kỷ VII khác nền tảng số, nguyên tắc rất rõ: lòng tin đạo đức cần được hỗ trợ bởi hồ sơ. [^13]
+
+**Mệnh đề cốt lõi:** _Cam kết càng liên quan đến tương lai, càng cần ngân sách, mốc tiến độ, quyền kiểm tra và thủ tục xử lý sai lệch._
+
+**Ánh xạ:** Mọi chiến dịch nên có bảng sử dụng vốn, điều kiện giải ngân, định nghĩa hoàn thành, lịch báo cáo, chính sách thay đổi và thủ tục nếu không thể giao hàng. Kickstarter khuyến nghị người sáng tạo cập nhật thường xuyên, giải thích trì hoãn và duy trì nỗ lực thiện chí; nền tảng cũng có thể hạn chế đặc quyền của những người không thực hiện phần thưởng và không thông tin cho người ủng hộ. [^14]
+
+**Ví dụ:** Một chiến dịch 500.000 USD có thể giải ngân theo ba mốc—nguyên mẫu, sản xuất thử, sản xuất đại trà—thay vì chuyển toàn bộ ngay khi đạt mục tiêu. Sự minh bạch ở đây là thiết kế kiểm soát rủi ro, không chỉ là truyền thông.
+
+# 9. Phẩm giá và năng lực tự lập
+
+
+**Định nghĩa:** Hình thức hỗ trợ cao hơn không chỉ lấp thiếu hụt trước mắt mà còn làm người nhận có khả năng hành động, sản xuất và tự quyết lớn hơn.
+
+**Nguồn và bối cảnh:** Trong _Mishneh Torah, Gifts to the Poor_ 10:7, Maimonides đặt mức cao nhất của _tzedakah_ ở việc hỗ trợ người có nguy cơ nghèo bằng quà tặng, khoản vay, quan hệ đối tác hoặc công việc để họ không phải lệ thuộc vào cứu trợ. [^15]
+
+**Mệnh đề cốt lõi:** _Đầu ra ưu tiên của crowdfunding là năng lực lâu dài của người thụ hưởng, không phải sự lệ thuộc lâu dài vào chiến dịch._
+
+**Ánh xạ:** Với doanh nhân, nên tài trợ thiết bị, vốn lưu động, thị trường và kỹ năng; với cộng đồng, nên tài trợ hạ tầng và năng lực vận hành; với nghệ sĩ, nên hỗ trợ quyền sở hữu công cụ, tệp khán giả và hệ thống phân phối.
+
+**Ví dụ:** Mô hình Kiva cho vay nhỏ để mở rộng hoạt động kinh doanh thể hiện khá trực tiếp logic “trao năng lực”: người ủng hộ không chỉ bù một khoản thiếu mà góp vào tài sản sinh kế, trong khi người vay giữ vai trò tác nhân kinh tế và cam kết hoàn trả. [^16]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
 Ref
 
-[^1]: https://iep.utm.edu/aristotle-politics/?utm_source=chatgpt.com
+[^1]: https://iep.utm.edu/aristotle-politics
 
-[^2]: https://www.nps.gov/stli/learn/historyculture/joseph-pulitzer.htm?utm_source=chatgpt.com
+[^2]: https://www.nps.gov/stli/learn/historyculture/joseph-pulitzer.htm
 
-[^3]: https://suttacentral.net/sn12.2/en/sujato?utm_source=chatgpt.com
+[^3]: https://suttacentral.net/sn12.2/en/sujato
 
-[^4]: https://haubooks.org/wp-content/uploads/2020/11/Marcel-Mauss-The-Gift-Expanded-Edition-Selected-Annotated-and-Translated-by-Jane-Guyer.pdf?utm_source=chatgpt.com
+[^4]: https://haubooks.org/wp-content/uploads/2020/11/Marcel-Mauss-The-Gift-Expanded-Edition-Selected-Annotated-and-Translated-by-Jane-Guyer.pdf
 
 [^5]: https://help.kickstarter.com/hc/en-us/articles/115004996453-What-is-Kickstarter?utm_source=chatgpt.com
 
 [^6]: https://www.holy-bhagavad-gita.org/chapter/17/verse/20/?utm_source=chatgpt.com
 
-[^7]: [https://quran.com/al-baqarah/261?utm_source=chatgpt.com](https://quran.com/al-baqarah/261?utm_source=chatgpt.com)
+[^7]: https://quran.com/al-baqarah/261
+
+[^8]: https://sgpc.net/daswandh-donations/
+
+[^9]: https://www.gutenberg.org/ebooks/4341
+
+[^10]: https://www.kiva.org/about/how
+
+[^11]: https://ctext.org/analects
+
+[^12]: https://www.sciencedirect.com/science/article/pii/S088390261300058X
+
+[^13]: https://quran.com/al-baqarah/282
+
+[^14]: https://updates.kickstarter.com/what-should-creators-do-if-theyre-having-problems-completing-their-project/
+
+[^15]: https://www.sefaria.org/Mishneh_Torah%2C_Gifts_to_the_Poor.10.7
+
+[^16]: https://www.kiva.org/about/how
