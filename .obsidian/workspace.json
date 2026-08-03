@@ -22,17 +22,133 @@
             }
           },
           {
-            "id": "1e3ebb39c25d945d",
+            "id": "a0278f16ee4fa067",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Nguồn/Nguồn tham khảo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Nguồn tham khảo"
+            }
+          },
+          {
+            "id": "0629a743198af482",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nguồn/Phản hồi từ mọi người.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Phản hồi từ mọi người"
+            }
+          },
+          {
+            "id": "a844d3641040a888",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nguồn/Daily Note.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Daily Note"
+            }
+          },
+          {
+            "id": "3bef71334984bbd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nguồn/Tài liệu.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tài liệu"
+            }
+          },
+          {
+            "id": "18eb851c51fbc02a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mở rộng/Liên tưởng.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Liên tưởng"
+            }
+          },
+          {
+            "id": "b2af3334cde1ad87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mở rộng/Góc nhìn khác.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Góc nhìn khác"
+            }
+          },
+          {
+            "id": "d89a04d4c284dbd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mở rộng/Giải thuyết.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Giải thuyết"
+            }
+          },
+          {
+            "id": "9d0fbc3083887d6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mở rộng/Phản biện.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Phản biện"
+            }
+          },
+          {
+            "id": "8fd447e2e726e84e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mở rộng/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -51,7 +167,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byModifiedTime",
                 "autoReveal": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -172,7 +288,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Mở rộng/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -213,13 +329,22 @@
   },
   "active": "0d4d34b67eff7a22",
   "lastOpenFiles": [
-    "Tóm tắc buổi thảo luận ngày 2-8.md",
-    "Untitled.canvas",
-    "Các câu hỏi cần được trả lời.md",
+    "Mở rộng/Phản biện.md",
+    "Mở rộng/Untitled.md",
+    "Mở rộng/Giải thuyết.md",
+    "Mở rộng/Góc nhìn khác.md",
+    "Mở rộng/Liên tưởng.md",
+    "Nguồn/Tài liệu.md",
+    "Mở rộng",
+    "Nguồn/Daily Note.md",
+    "Nguồn/Phản hồi từ mọi người.md",
+    "Nguồn/Nguồn tham khảo.md",
     "2026-08-03.md",
+    "Nguồn",
+    "Untitled.canvas",
+    "Tóm tắc buổi thảo luận ngày 2-8.md",
+    "Các câu hỏi cần được trả lời.md",
     "Gọi vốn cộng đồng.md",
-    "Buổi thảo luận sắp tới.md",
+    "Nguồn/Buổi thảo luận sắp tới.md",
     "README.md",
-    "Brain Storm.md"
-  ]
-}
+  
