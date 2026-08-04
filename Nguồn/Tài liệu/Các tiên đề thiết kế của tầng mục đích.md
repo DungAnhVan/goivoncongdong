@@ -13,3 +13,6 @@ Người gây quỹ phải trả lời: "Nếu không có khoản tiền này, �
 # Tiên đề về tính tỷ lệ.
 
 Mức độ kiểm tra phải tỷ lệ với số tiền, độ khó đảo ngược, tính dễ tổn thương của người hưởng lợi và mức độ bất cân xứng thông tin. Một chiến dịch nhỏ không cần bộ máy kiểm toán như quỹ đầu tư, nhưng một chiến dịch y tế lớn không thể chỉ dựa và hình ảnh cảm xúc. 
+
+
+**Tiên đề về bằng chứng hai tầng.** Phải phân biệt **proof of use** - chứng minh tiền đã được chi vào đâu - và **proof of outcome** - chứng minh việc chi tiền đã tạo ra thay đổi gì. Hóa đơn không tự động chứng mình tác động; một câu chuyện thành công cũng không tự động chứng minh việc dùng tiền đúng cam kết. 
