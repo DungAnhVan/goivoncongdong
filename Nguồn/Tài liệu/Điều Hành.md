@@ -14,11 +14,16 @@ Từ Ostrom, lý thuyết đại diện, hương ước Việt Nam và các thi�
 Từ bốn mệnh đề ấy, có thể phát triển mười hai tiên đề thiết kế:
 
 
-| Miền     | Tiên đề cốt lõi                                                                                                                                                                |
-| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Mục đích | Không huy động cộng đồng cho một thiện ích không thể định nghĩa; không gọi là công ích nếu không chỉ ra ai hưởng lợi; không gọi là tác động nếu không có tiêu chuẩn chứng minh |
-|          |                                                                                                                                                                                |
+| Miền      | Tiên đề cốt lõi                                                                                                                                                                                                     |
+| --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Mục đích  | Không huy động cộng đồng cho một thiện ích không thể định nghĩa; không gọi là công ích nếu không chỉ ra ai hưởng lợi; không gọi là tác động nếu không có tiêu chuẩn chứng minh                                      |
+| Quan hệ   | Mỗi khoản góp phải khai báo bản thất quan hệ; sự ghi nhận phải tôn vinh chứ không ép buộc; nghĩa vụ đáp lại phải được xác định trước chứ không để trở thành món nợ đạo đực mô hồ.                                   |
+| Điều phối | Cơ chế gọi vốn phải phù hợp với công nghệ sản xuất của dự án; người góp phải biết điề gì xảy ra nếu thiếu tiền; độ rộng của ủng hộ phải có giá trị bên cạnh độ lớn của tiền.                                        |
+| Quản trị  | Tiền phải bị ràng buộc bởi hiến chương chiến dịch; người giữ tiền là người quản thác chứ không phải chủ sở hữu vô điều kiện; mọi thất bại, thay đổi mục tiêu, phần dư và tranh chấp phải có quy tắc xử lý từ trước. |
 
+# Khung khái niệm và phương pháp
+
+**Định nghĩa làm việc.** Gọi vốn cộng đồng là một cơ chế trong đó một số lượng tương đối lớn người cam kết những khoản tài nguyên tương đối phân tán - tiên, thời gian, tín dụng, dữ liệu, sức lao động hoặc uy tín - cho một dự án, cá nhân, tổ chức hoặc hàng hóa chung, thường thông qua một thiết chế trung gian giúp công bố lời mời, tập hợp cam kết và thực thi một số điều kiện. Trong nghiên cứu kinh điển về crowdfunding, Belleflamme, Lambert và Schwienbacher mô tả mô hình này như việc huy động những khoản nhỏ từ một công chúng rộng thay vì một nhóm nhỏ nhà tài trợ chuyên nghiệp; Mollick nhận mạnh vai trò của nền tảng Internet và sự vắng mặt tương đối của trung gian tài chính truyền thống.  
 
 
 
