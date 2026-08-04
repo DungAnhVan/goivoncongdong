@@ -66,7 +66,7 @@ khổng học bổ sung một giới hạn đạo đức cho việc nhân danh c
 | Khả năng thực hiện           | Kinh phí tối thiểu, năng lực, thời gian và phụ thuộc chính là gì?                                                             |
 | Khả năng chứng minh          | Dữ liệu, chứng từ, sản phẩm, hình ảnh, xác nhận độc lập hoặc chỉ số nào chứng minh tiền đã được dùng và kết quả đã xuất hiện? |
 
-Đây là sự kết hợp giữa đạo đức thiện ích chung, lý thuyết hàng hóa công và yêu cầu về tín hiệu chất lượng trong crowdfunding. Nghiên cứu của Mollick cho tháy chất lượng dự án và mạng lưới cá nhận liên hệ với khả năng gọi vốn thành công;
+Đây là sự kết hợp giữa đạo đức thiện ích chung, lý thuyết hàng hóa công và yêu cầu về tín hiệu chất lượng trong crowdfunding. Nghiên cứu của Mollick cho tháy chất lượng dự án và mạng lưới cá nhận liên hệ với khả năng gọi vốn thành công; nghiên cuus trên 122 dựa án ở các nên tảng Việt Nam giai đoạn 2014-2016 cũng cho thấy tín hiệu chất lượng dự án và thông tin bổ sung về người sáng lập có liên hệ với thành công gây quỹ. [^12]
 
 
 
@@ -98,3 +98,5 @@ khổng học bổ sung một giới hạn đạo đức cho việc nhân danh c
 [^10]: https://www.newadvent.org/summa/2090.htm
 
 [^11]: https://ctext.org/analects
+
+[^12]: https://www.researchgate.net/publication/259133171_The_Dynamics_of_Crowdfunding_An_Exploratory_Study
