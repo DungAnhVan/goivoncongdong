@@ -34,7 +34,31 @@ Vì người dùng chưa chỉ định một loại crowdfunding cụ thể, bá
 
 **Phả hệ lịch sủ thong báo cáo là phả hệ chức năng, không phải tuyên bố đồng nhất thể chế.** Liturgy ở Athens, wagf Hồi giáo, phường hội, hội tương tế, tontine, rotating saving and credit association, họ-hui, hương ước và chiến dịch dựng bệ Tượng Nữ thần Tự Do không phải "nền tảng crowdfunding" theo nghĩa hiện đại. Chúng được đưa và vì từng giải quyết một hoặc nhiều chức năng mà crowdfunding hiện đại cũng phải giải quyết: xác lập mục tiêu chung, tạo nghĩa vụ đóng góp, ghi nhận danh dự, luân chuyển quỹ, quản lý người giữ tiền, báo cáo hoặc trừng phạt vi phạm. [^8]
 
-Ở tần bản thể luận, một "quỹ cộng đồng" nên được hiểu không phải là một đống tiền, mà là một 
+Ở tần bản thể luận, một "quỹ cộng đồng" nên được hiểu không phải là một đống tiền, mà là một **vật thể thiết chế gồm bốn thành phân:**
+
+							$F = T+R+C+G$
+Trong đó:
+
+- $T$ là telos: Mục đích và trạng thái tương lại hứa hẹn;
+- $R$ là quan hệ: quyền, kỳ vọng, danh dự và nghĩa vụ giữa các bên;
+- $C$ là điều kiện phối hợp: ngưỡng, thời hạn, matching, hoàn tiền và quy tắc cam kết;
+- $G$ là quản trị: ghi nhận, lưu ký, phân bổ, báo cáo, giám sát và khắc phục.
+
+
+Nếu thiếu $T$, huy động trở thành sự chiếm dụng chú ý. Nếu thiếu $R$, nó trở thành giao dịch bị mô tả sai. Nếu thiếu $C$, nó phụ thuộc vào may rủi phối hợp. Nếu thiếu $G$, nó trở thành chuyển giao tài sản không có trách nhiệm giải trình. 
+
+
+
+
+
+
+
+
+
+
+
+
+
 [^1]: https://classics.mit.edu/Aristotle/politics.3.three.html
 
 [^2]: https://ctext.org/analects
