@@ -47,10 +47,10 @@ Trong đó:
 
 Nếu thiếu $T$, huy động trở thành sự chiếm dụng chú ý. Nếu thiếu $R$, nó trở thành giao dịch bị mô tả sai. Nếu thiếu $C$, nó phụ thuộc vào may rủi phối hợp. Nếu thiếu $G$, nó trở thành chuyển giao tài sản không có trách nhiệm giải trình. 
 
+# Tầng mục đích: thiện ích chung có thể kiểm cứng
+**Khái niệm hạt nhân là tính chính đang hướng đích.** Tiền cộng đồng chỉ có thể được biện minh bởi một jmucj tiêu đủ rõ để người góp hiểu họ đang giúp tạo ra trạng thái nào, cho ai và bằng cách nào. Aristotle cho rằng các hình thức chính trị đúng đắn hướng đến lợi ích chung, còn những hình thức hướng đến lợi ích riêng của người cai trị là sự biến chất; trong Nicomachean Ethics, các cộng đồng được hình thành vì một lợi ích nào đó và công lý liên hệ với lợi ích chung. [^9]
 
-
-
-
+Aquinas đưa trực giác này vào lý thuyết luật: luật phải là sự sắp đặt của lý trí hướng đến thiện ích chung, do người có trách nhiệm đối với côn
 
 
 
@@ -74,3 +74,5 @@ Nếu thiếu $T$, huy động trở thành sự chiếm dụng chú ý. Nếu t
 [^7]: https://gesd.free.fr/sampub.pdf
 
 [^8]: https://iupress.istanbul.edu.tr/en/journal/jpfs/article/liturji-kamu-mallarinin-hizmetlerinin-harcamalarinin-tarihsel-ve-antik-bir-kokeni-ve-gelisimi
+
+[^9]: https://classics.mit.edu/Aristotle/politics.3.three.html
