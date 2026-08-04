@@ -360,7 +360,19 @@ Báo cáo cũng không giả định mọi cộng đồng đều hòa hợp. C�
 
 **Thư mục ưu tiên—văn bản triết học và nguồn sơ cấp.** Aristotle, _Politics_, đặc biệt Quyển III về lợi ích chung và các hình thức chính trị đúng đắn; Aristotle, _Nicomachean Ethics_, các phần về công lý, cộng đồng và đức hào phóng.[^42]Thomas Aquinas, _Summa Theologiae_, I–II, Question 90, về luật như sự sắp đặt hướng tới thiện ích chung.[^43] _Luận Ngữ_, đặc biệt các đoạn về _thứ_, _nghĩa_, tín và nguyên tắc không áp đặt cho người khác điều mình không mong muốn.[^44]Marcel Mauss, _Essai sur le don / The Gift_, về nghĩa vụ cho, nhận và đáp lại.[^45]
 
+**Thư mục ưu tiên—lý thuyết xã hội và hành vi.** Émile Durkheim, _The Division of Labor in Society_, về đoàn kết cơ học và hữu cơ.[^46]  Mark Granovetter, “Economic Action and Social Structure: The Problem of Embeddedness,” _American Journal of Sociology_, 1985.[^47]  George Akerlof và Rachel Kranton, “Economics and Identity,” _Quarterly Journal of Economics_, 2000.[^48]  James Andreoni, “Impure Altruism and Donations to Public Goods,” _Economic Journal_, 1990.[^49]  Urs Fischbacher, Simon Gächter và Ernst Fehr, “Are People Conditionally Cooperative?”, _Economics Letters_, 2001. [^50]
 
+**Thư mục ưu tiên—hàng hóa công, hành động tập thể và thiết kế cơ chế.** Paul Samuelson, “The Pure Theory of Public Expenditure,” 1954.[^51]  Mancur Olson, _The Logic of Collective Action_, 1965.[^52]  Thomas Palfrey và Howard Rosenthal, “Participation and the Provision of Discrete Public Goods,” 1984.[^53]  Mark Bagnoli và Barton Lipman, “Provision of Public Goods: Fully Implementing the Core through Private Contributions,” 1989.  Robertas Zubrickas, “The Provision Point Mechanism with Refund Bonuses.”  Vitalik Buterin, Zoë Hitzig và E. Glen Weyl, nghiên cứu về quadratic funding cho hàng hóa công phi tập trung. 
+
+**Thư mục ưu tiên—quản trị thể chế.** Elinor Ostrom, _Governing the Commons_ và bài diễn văn Nobel “Beyond Markets and States: Polycentric Governance of Complex Economic Systems.”  Michael Jensen và William Meckling, “Theory of the Firm: Managerial Behavior, Agency Costs and Ownership Structure,” 1976.  Tài liệu Bộ Tư pháp Việt Nam về lịch sử, chức năng và giới hạn của hương ước, lệ làng; Nghị định 19/2019/NĐ-CP về họ, hụi, biêu, phường; Nghị định 61/2023/NĐ-CP về hương ước, quy ước cộng đồng dân cư. 
+
+**Thư mục ưu tiên—nghiên cứu crowdfunding.** Paul Belleflamme, Thomas Lambert và Armin Schwienbacher, “Crowdfunding: Tapping the Right Crowd,” _Journal of Business Venturing_, 2014.  Ethan Mollick, “The Dynamics of Crowdfunding: An Exploratory Study,” _Journal of Business Venturing_, 2014.  Ajay Agrawal, Christian Catalini và Avi Goldfarb, nghiên cứu về địa lý, mạng xã hội và crowdfunding.  Các nghiên cứu Việt Nam về chất lượng dự án, tín hiệu người sáng lập, niềm tin, giá trị chia sẻ, tương tác và ý định tham gia crowdfunding. 
+
+**Thư mục ưu tiên—tài liệu nền tảng và cơ quan chính thức.** Kickstarter Creator Handbook về mục tiêu tối thiểu, all-or-nothing, thực hiện phần thưởng và cập nhật cho backers.  Kiva Due Diligence về sàng lọc và giám sát Lending Partners.  GoFundMe Terms, Giving Guarantee và quy trình báo cáo sử dụng sai mục đích.  SEC, Regulation Crowdfunding, về trung gian, công bố thông tin và nghĩa vụ báo cáo đối với crowdfunding chứng khoán. 
+
+Kết luận cô đọng nhất của toàn bộ chính điển là:
+
+> **Một nền tảng gọi vốn cộng đồng không chỉ phải chứng minh rằng nhiều người đã trả tiền. Nó phải chứng minh rằng một mục đích đáng được cùng theo đuổi đã được định nghĩa; những người tham gia biết họ đang bước vào quan hệ gì; cơ chế đã biến thiện chí thành phối hợp mà không thao túng; và tài sản sau khi được tập hợp vẫn thuộc về lời hứa chung hơn là ý chí riêng của người đang nắm giữ nó.**
 
 
 
@@ -467,3 +479,19 @@ Báo cáo cũng không giả định mọi cộng đồng đều hòa hợp. C�
 [^44]: https://ctext.org/analects
 
 [^45]: https://files.libcom.org/files/Mauss%20-%20The%20Gift.pdf
+
+[^46]: https://durkheim.uchicago.edu/Summaries/dl.html
+
+[^47]: https://www.jstor.org/stable/2780199
+
+[^48]: https://academic.oup.com/qje/article-abstract/115/3/715/1828151
+
+[^49]: https://academic.oup.com/ej/article-abstract/100/401/464/5190270
+
+[^50]: https://ideas.repec.org/a/eee/ecolet/v71y2001i3p397-404.html
+
+[^51]: https://gesd.free.fr/sampub.pdf
+
+[^52]: https://en.wikipedia.org/wiki/The_Logic_of_Collective_Action
+
+[^53]: https://authors.library.caltech.edu/records/wp12c-t9x22/latest
