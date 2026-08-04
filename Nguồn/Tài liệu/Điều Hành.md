@@ -32,9 +32,9 @@ Vì người dùng chưa chỉ định một loại crowdfunding cụ thể, bá
 **"Công ích" cũng không đồng nhất với "hàng hóa công" theo nghĩa kỹ thuật.** Trong mô hình của Samuelson, hàng hóa tiêu dùng tập thể là hàng hóa mà việc một người tiêu dùng không làm giảm lượng khả dụng cho người khác. Nhưng trên nền tảng crowdfunding, nhiều dự án được gọi là "công ích" thực ra là hàng hóa địa phương, hàng hóa câu lạc bộ, hỗ trợ cho một nhóm xác định, cứu trợ cá nhân, tài sản cộng đồng hoặc hoạt động tạo ngoại tác tích cực. Vì vậy, báo cáo dùng "thiện ích công cộng có thể kiểm chứng" theo nghĩa rộng hơn định nghĩa Samuelson, đồng thời yêu cầu nền tảng phải công bố chính xác loại lợi ích đang được tạo ra. [^7]
 
 
+**Phả hệ lịch sủ thong báo cáo là phả hệ chức năng, không phải tuyên bố đồng nhất thể chế.** Liturgy ở Athens, wagf Hồi giáo, phường hội, hội tương tế, tontine, rotating saving and credit association, họ-hui, hương ước và chiến dịch dựng bệ Tượng Nữ thần Tự Do không phải "nền tảng crowdfunding" theo nghĩa hiện đại. Chúng được đưa và vì từng giải quyết một hoặc nhiều chức năng mà crowdfunding hiện đại cũng phải giải quyết: xác lập mục tiêu chung, tạo nghĩa vụ đóng góp, ghi nhận danh dự, luân chuyển quỹ, quản lý người giữ tiền, báo cáo hoặc trừng phạt vi phạm. [^8]
 
-
-
+Ở tần bản thể luận, một "quỹ cộng đồng" nên được hiểu không phải là một đống tiền, mà là một 
 [^1]: https://classics.mit.edu/Aristotle/politics.3.three.html
 
 [^2]: https://ctext.org/analects
@@ -48,3 +48,5 @@ Vì người dùng chưa chỉ định một loại crowdfunding cụ thể, bá
 [^6]: https://www.sec.gov/resources-small-businesses/glossary
 
 [^7]: https://gesd.free.fr/sampub.pdf
+
+[^8]: https://iupress.istanbul.edu.tr/en/journal/jpfs/article/liturji-kamu-mallarinin-hizmetlerinin-harcamalarinin-tarihsel-ve-antik-bir-kokeni-ve-gelisimi
