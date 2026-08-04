@@ -23,7 +23,15 @@ Từ bốn mệnh đề ấy, có thể phát triển mười hai tiên đề th
 
 # Khung khái niệm và phương pháp
 
-**Định nghĩa làm việc.** Gọi vốn cộng đồng là một cơ chế trong đó một số lượng tương đối lớn người cam kết những khoản tài nguyên tương đối phân tán - tiên, thời gian, tín dụng, dữ liệu, sức lao động hoặc uy tín - cho một dự án, cá nhân, tổ chức hoặc hàng hóa chung, thường thông qua một thiết chế trung gian giúp công bố lời mời, tập hợp cam kết và thực thi một số điều kiện. Trong nghiên cứu kinh điển về crowdfunding, Belleflamme, Lambert và Schwienbacher mô tả mô hình này như việc huy động những khoản nhỏ từ một công chúng rộng thay vì một nhóm nhỏ nhà tài trợ chuyên nghiệp; Mollick nhận mạnh vai trò của nền tảng Internet và sự vắng mặt tương đối của trung gian tài chính truyền thống.  
+**Định nghĩa làm việc.** Gọi vốn cộng đồng là một cơ chế trong đó một số lượng tương đối lớn người cam kết những khoản tài nguyên tương đối phân tán - tiên, thời gian, tín dụng, dữ liệu, sức lao động hoặc uy tín - cho một dự án, cá nhân, tổ chức hoặc hàng hóa chung, thường thông qua một thiết chế trung gian giúp công bố lời mời, tập hợp cam kết và thực thi một số điều kiện. Trong nghiên cứu kinh điển về crowdfunding, Belleflamme, Lambert và Schwienbacher mô tả mô hình này như việc huy động những khoản nhỏ từ một công chúng rộng thay vì một nhóm nhỏ nhà tài trợ chuyên nghiệp; Mollick nhận mạnh vai trò của nền tảng Internet và sự vắng mặt tương đối của trung gian tài chính truyền thống.  [^5]
+
+Tuy nhiên, "crowdfunding" không phải một quan hệ pháp lý duy nhất. Nó có thể là quyên góp không hoàn lại, tài trợ đổi phần thưởng, đặt trước sản phẩm, cho vay, góp vốn sở hữu, tài trợ thành viên, bảo trợ định kỳ hoặc huy động cho một hàng hóa công. SEC cũng phân biệt crowdfunding chưng khoán với các hình thức dựa trên quyên góp và phần thưởng; các hình thức chứng khoán kéo theo nghĩa vụ công bố thông tin, trung gian đăng ký và bảo vệ nhà đàu tư khác biệt rõ rệt. [^6]
+
+Vì người dùng chưa chỉ định một loại crowdfunding cụ thể, báo cáo này không giả định rằng, mọi cơ chế đều phải giống nhau. Ngược lại, một trong các kết luận trung tâm là: **một nền tảng tốt phải phân loại lời hứa trước khi tối ưu hóa hành vi đóng góp**. Một chiến dịch cứu trợ khẩn cấp không thể bị quản trị giống một đợt đặt trước sản phẩm; một khoản vay công đồng không thể đưuọc mô tả bằng ngôn ngữ "quà tặng"; và một đợt bán chứng khoán không thể dựa chủ yếu vào danh dự hoặc thiện chí. 
+
+**"Công ích" cũng không đồng nhất với "hàng hóa công" theo nghĩa kỹ thuật.** Trong mô hình của Samuelson, hàng hóa tiêu dùng tập thể là hàng hóa mà việc một người tiêu dùng không làm giảm lượng khả dụng cho người khác. Nhưng trên nền tảng crowdfunding, nhiều dự án được gọi là "công ích" thực ra là hàng hóa địa phương, hàng hóa câu lạc bộ, hỗ trợ cho một nhóm xác định, cứu trợ cá nhân, tài sản cộng đồng hoặc hoạt động tạo ngoại tác tích cực. Vì vậy, báo cáo dùng "thiện ích công cộng có thể kiểm chứng" theo nghĩa rộng hơn định nghĩa Samuelson, đồng thời yêu cầu nền tảng phải công bố chính xác loại lợi ích đang được tạo ra. [^7]
+
+
 
 
 
@@ -34,3 +42,9 @@ Từ bốn mệnh đề ấy, có thể phát triển mười hai tiên đề th
 [^3]: https://authors.library.caltech.edu/records/wp12c-t9x22/latest
 
 [^4]: https://www.nobelprize.org/prizes/economic-sciences/2009/ostrom/lecture/
+
+[^5]: https://www.sciencedirect.com/science/article/abs/pii/S0883902613000694
+
+[^6]: https://www.sec.gov/resources-small-businesses/glossary
+
+[^7]: https://gesd.free.fr/sampub.pdf
