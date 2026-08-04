@@ -8,8 +8,8 @@
     "outboundEnabled": true,
     "inboundEnabled": true,
     "auth": {
-      "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzg1ODUzNjQ5LCJpYXQiOjE3ODU4NTAwNDksImp0aSI6ImE0MzRmYzZmZjI3MTQxOWI4MzhmNDU4YWFjMmQ0NmQ1IiwidXNlcl9pZCI6ImM4ZjJmZWYwLTc0MzQtNDIyZS1hZWYxLWY5ZTVhNmJiZmU0ZSIsImNsaWVudF90eXBlIjoib2F1dGhfY2xpZW50Iiwib2F1dGhfY2xpZW50X2lkIjoib2JzaWRpYW4ifQ.XxhjJcOjuz_RkT4dl8Z1ww4vibFCt_ZBoXdkY6LInGc",
-      "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc4ODQ0MjA0OSwiaWF0IjoxNzg1ODUwMDQ5LCJqdGkiOiIwODkxZDNkYWRjNzI0ZGFhYmRjZTgzZjRkMDE0MjA0OSIsInVzZXJfaWQiOiJjOGYyZmVmMC03NDM0LTQyMmUtYWVmMS1mOWU1YTZiYmZlNGUiLCJjbGllbnRfdHlwZSI6Im9hdXRoX2NsaWVudCIsIm9hdXRoX2NsaWVudF9pZCI6Im9ic2lkaWFuIn0.z902K79lpurP0ph7NLwnXzc-xfFkwNvX5Xz1kL-QWZk",
+      "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzg1ODU3MjQ5LCJpYXQiOjE3ODU4NTM2NDksImp0aSI6IjI3MTNkYjU4NjBjMTQ4YmJhNGZhZjAxMjkzZmFkMmRlIiwidXNlcl9pZCI6ImM4ZjJmZWYwLTc0MzQtNDIyZS1hZWYxLWY5ZTVhNmJiZmU0ZSIsImNsaWVudF90eXBlIjoib2F1dGhfY2xpZW50Iiwib2F1dGhfY2xpZW50X2lkIjoib2JzaWRpYW4ifQ.IjFNub-sZTPFH_8y810q1gulZynrBR_RrCIffA5MArw",
+      "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc4ODQ0NTY0OSwiaWF0IjoxNzg1ODUzNjQ5LCJqdGkiOiJhMTJkMTkxZjcyY2Y0ODNhOGQ2NDkzOTA0MzBiMTVlYSIsInVzZXJfaWQiOiJjOGYyZmVmMC03NDM0LTQyMmUtYWVmMS1mOWU1YTZiYmZlNGUiLCJjbGllbnRfdHlwZSI6Im9hdXRoX2NsaWVudCIsIm9hdXRoX2NsaWVudF9pZCI6Im9ic2lkaWFuIn0.-a8fBzNvpNh_jEBHrfgLDwo1Ku1TpditODMrmK5kZIk",
       "userEmail": "vanquantumschool@gmail.com"
     },
     "bannerDismissed": true
@@ -23,10 +23,6 @@
       "Vấn đề/Các câu hỏi cần được trả lời.md": {
         "contentHash": "b20ef45b80f9641703dd45c0b933b086bd2548cac7153161e0e797b3fc5b3cf0",
         "mtime": 1785772732554
-      },
-      "Nguồn/Tài liệu/Điều Hành.md": {
-        "contentHash": "34eb4fe830d64fb06026fe1faca11154bb5ea477d75b3f44022422bf18560db9",
-        "mtime": 1785853356031
       },
       "Nguồn/Tài liệu/Này nói về Crowdfunding.md": {
         "contentHash": "f4ec8eacfb31defbff0c9500a4b7f38bfe9149b9b002510055ca772d47d39a1a",
@@ -60,9 +56,9 @@
         "contentHash": "0eb50dba3cd8f8c3e1956dff23df3414dd3e73b9cabf851b4448a1c6110a7066",
         "mtime": 1785846939898
       },
-      "Nguồn/Tài liệu/Tầng mục đích.md": {
-        "contentHash": "6a8a840663fc14dd0a4b10896d25cc5108aa41231a2189e2e3ce0ceac8018716",
-        "mtime": 1785848424234
+      "Nguồn/Tài liệu/Chánh điển nền tảng cho gọi vốn cộng đồng.md": {
+        "contentHash": "b2f9fc47d9b031b8df2caf507147bb5e28929ee4345d23f53c4f4d5493b160ee",
+        "mtime": 1785853774489
       }
     },
     "exportsUpdatedAfter": ""

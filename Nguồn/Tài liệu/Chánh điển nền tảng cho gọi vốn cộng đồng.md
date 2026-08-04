@@ -1,3 +1,8 @@
+
+> ***Từ thiện ích, nghĩa vụ tương hỗ đến hiến pháp của quỹ***
+
+# Tóm tắt điều hành
+
 Gọi vốn cộng đồng không nên được hiểu đơn thuần là kỹ thuật thu nhiều khoản tiền nhỏ qua Internet. Ở tầng sâu hơn, nó là một **thiết chế biến một tương lai chung được hứa hẹn thành những cam kết hiện tại**, rồi biến các cam kết ấy thành nguồn lực có điều kiện. Một chiến dịch chỉ thực sự là "cộng đồng" khi nó kết hợp được bốn yếu tố: một mục địch chung có thể biện minh; một quan hệ xã hội được tạo ra giữa người góp và người nhận; một cơ chế khiến các cam kết rời rạc có thể phối hợp; và một cấu trúc quản trị giữ tiền, phân bổ tiền, chứng minh việc sử dụng tiền và xử lý thất bại.
 Từ Aristotle và Thomas Aquinas có thể rút ra nguyên lý tính **chính đang theo thiện ích chung**: quyền kêu gọi tài nguyên của nhiều người không phát sinh chỉ vì người khởi xướng có một ý tưởng hấp dẫn; nó phát sinh khi mục đích có thể được trình bày như một lợi ích chung, những người bị tác động được nhận diện, và việc sử dụng tài nguyên hướng về mục đích đã công bố. Aristitle phân biệt những hình thức cai trị vì lợi ích chung với những thức phục vụ lợi ích riêng; Aquinas cho rằng luật đúng nghĩa phải được hướng đến thiện ích chung và được công bố cho cộng đồng [^1]
 
@@ -8,8 +13,9 @@ Từ Olson, lý thuyết hàng hóa công, trò chơi ngưỡng đóng góp và 
 Từ Ostrom, lý thuyết đại diện, hương ước Việt Nam và các thiết chế lịch sử như waqf, hội trương tế, họ-hui có thể rút ra nguyên lý **quỹ là tài sản được ủy thác cho một cam kết, không phải tài sản tự do của người gây quỹ**. TÍnh chính đáng phải tiếp tục tồn tại sau thòi điểm nhận tiền, thông qua sổ sách, tài khoản lưu ký hoặc tách biệt, ngân sách có mục đich, giải ngân theo mốc, báo cáo có chứng cứ, quyền giám sát, quy trình khiếu nại và quy tắc hoàn trả hoặc xử lý phần dư. [^4]
 
 
-> [!NOTE]
-> **Mục đích có trước tiền; quan hệ có trước giao dịch; điều kiện có trước cam kết; hiến pháp có trước giải ngân.**
+
+> Mục đích có trước tiền; quan hệ có trước giao dịch; điều kiện có trước cam kết; hiến pháp có trước giải ngân.
+> 
 
 Từ bốn mệnh đề ấy, có thể phát triển mười hai tiên đề thiết kế:
 
@@ -23,7 +29,9 @@ Từ bốn mệnh đề ấy, có thể phát triển mười hai tiên đề th
 
 # Khung khái niệm và phương pháp
 
-**Định nghĩa làm việc.** Gọi vốn cộng đồng là một cơ chế trong đó một số lượng tương đối lớn người cam kết những khoản tài nguyên tương đối phân tán - tiên, thời gian, tín dụng, dữ liệu, sức lao động hoặc uy tín - cho một dự án, cá nhân, tổ chức hoặc hàng hóa chung, thường thông qua một thiết chế trung gian giúp công bố lời mời, tập hợp cam kết và thực thi một số điều kiện. Trong nghiên cứu kinh điển về crowdfunding, Belleflamme, Lambert và Schwienbacher mô tả mô hình này như việc huy động những khoản nhỏ từ một công chúng rộng thay vì một nhóm nhỏ nhà tài trợ chuyên nghiệp; Mollick nhận mạnh vai trò của nền tảng Internet và sự vắng mặt tương đối của trung gian tài chính truyền thống.  [^5]
+**Định nghĩa làm việc.** 
+
+Gọi vốn cộng đồng là một cơ chế trong đó một số lượng tương đối lớn người cam kết những khoản tài nguyên tương đối phân tán - tiền, thời gian, tín dụng, dữ liệu, sức lao động hoặc uy tín - cho một dự án, cá nhân, tổ chức hoặc hàng hóa chung, thường thông qua một thiết chế trung gian giúp công bố lời mời, tập hợp cam kết và thực thi một số điều kiện. Trong nghiên cứu kinh điển về crowdfunding, Belleflamme, Lambert và Schwienbacher mô tả mô hình này như việc huy động những khoản nhỏ từ một công chúng rộng thay vì một nhóm nhỏ nhà tài trợ chuyên nghiệp; Mollick nhận mạnh vai trò của nền tảng Internet và sự vắng mặt tương đối của trung gian tài chính truyền thống.  [^5]
 
 Tuy nhiên, "crowdfunding" không phải một quan hệ pháp lý duy nhất. Nó có thể là quyên góp không hoàn lại, tài trợ đổi phần thưởng, đặt trước sản phẩm, cho vay, góp vốn sở hữu, tài trợ thành viên, bảo trợ định kỳ hoặc huy động cho một hàng hóa công. SEC cũng phân biệt crowdfunding chưng khoán với các hình thức dựa trên quyên góp và phần thưởng; các hình thức chứng khoán kéo theo nghĩa vụ công bố thông tin, trung gian đăng ký và bảo vệ nhà đàu tư khác biệt rõ rệt. [^6]
 
