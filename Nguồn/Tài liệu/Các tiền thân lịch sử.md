@@ -4,7 +4,7 @@ Waqf trong truyền thống Hồi giáo là tài sản được dành riêng lâ
 
 Trong lịch sử Việt Nam, hương ước và lệ làng hoạt động như những văn bản chuẩn tắc do cộng đồng làng xã kiến tạo để điều chỉnh quan hệ, bảo vệ sản xuất, đê điều, rừng, môi trường, an ninh và phong tục. Bộ Tư pháp mô tả đây là một sản phẩm văn hóa - pháp lý của cộng đồng cư dân, đồng thời nhấn mạnh cả giá trị tự quản lẫn nguy cơ áp đặt, cục bộ và xung đột với pháp luật nhà nước. [^3]
 
-Chiến dịch gây quỹ cho bệ Tượng Nữ thần Tự do năm 1885 là một trường hợp gần với crowdfunding hiện đại hơn. Joseph Pulitzer dùng báo chí để mời các khoản đóng gop
+Chiến dịch gây quỹ cho bệ Tượng Nữ thần Tự do năm 1885 là một trường hợp gần với crowdfunding hiện đại hơn. Joseph Pulitzer dùng báo chí để mời các khoản đóng góp nhỏ và công bố tên người góp; hơn 100,000 USD được huy động trong khoảng sáu tháng, với khoảng 120,000 người tham gia theo hồ sơ của các tổ chức lịch sử liên quan. Cơ chế này kết hợp một mục tiêu hữu hình, ngưỡng kinh phí, truyền thông đại chúng, đóng góp nhỏ và ghi nhận công khai. [^4]
 
 
 
@@ -14,3 +14,5 @@ Chiến dịch gây quỹ cho bệ Tượng Nữ thần Tự do năm 1885 là m�
 [^2]: https://pmc.ncbi.nlm.nih.gov/articles/PMC7567918/
 
 [^3]: https://nxbtuphap.moj.gov.vn/Pages/chi-tiet-tin-tuc.aspx?ItemID=19&l=Gioithieusach
+
+[^4]: https://www.statueofliberty.org/statue-of-liberty/overview-history/
