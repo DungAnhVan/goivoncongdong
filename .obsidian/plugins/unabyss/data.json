@@ -7,11 +7,7 @@
     "exportDeleteBehaviour": "leave",
     "outboundEnabled": true,
     "inboundEnabled": true,
-    "auth": {
-      "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzg1ODYxNDc2LCJpYXQiOjE3ODU4NTc4NzYsImp0aSI6ImZiMmVlOGFiNGZkMzQ4ZDZiNmY2NjQ5N2JhN2RiZDFiIiwidXNlcl9pZCI6ImM4ZjJmZWYwLTc0MzQtNDIyZS1hZWYxLWY5ZTVhNmJiZmU0ZSIsImNsaWVudF90eXBlIjoib2F1dGhfY2xpZW50Iiwib2F1dGhfY2xpZW50X2lkIjoib2JzaWRpYW4ifQ.sKXPDswiZ5O8RMfhrGqV99F4MOD11OaK2NIkqtHx5pI",
-      "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc4ODQ0OTg3NiwiaWF0IjoxNzg1ODU3ODc2LCJqdGkiOiIyZjE5NmUzYTc4M2Y0ZTg1OWJiZDkzMDU5YTlhY2I2YiIsInVzZXJfaWQiOiJjOGYyZmVmMC03NDM0LTQyMmUtYWVmMS1mOWU1YTZiYmZlNGUiLCJjbGllbnRfdHlwZSI6Im9hdXRoX2NsaWVudCIsIm9hdXRoX2NsaWVudF9pZCI6Im9ic2lkaWFuIn0.fg3ZSkNwBSEKhLEGS1P44R8bB9OatG5MaP6YyN9im54",
-      "userEmail": "vanquantumschool@gmail.com"
-    },
+    "auth": null,
     "bannerDismissed": true
   },
   "manifestCache": {
