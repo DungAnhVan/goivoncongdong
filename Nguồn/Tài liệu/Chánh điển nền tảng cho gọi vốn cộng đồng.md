@@ -234,6 +234,147 @@ Khi chuyển sang crowdfunding, “ranh giới” là ai có quyền góp, hư�
 
 **Các trường hợp nền tảng hiện đại.** Kickstarter kết hợp all-or-nothing với nghĩa vụ của creator phải nỗ lực hoàn thành dự án, giao phần thưởng và giao tiếp trung thực với backers; tuy nhiên, đây không phải một hệ thống bảo đảm mọi dự án sẽ thành công.[^35]
 
+Kiva sử dụng quy trình thẩm định đối tác cho vay, bao gồm sàng lọc, xem xét tổ chức, năng lực vận hành, thông tin quản trị và đánh giá tác động; mức độ thẩm định có thể thay đổi theo quy mô và hồ sơ đối tác. Mô hình này minh họa quản trị nhiều lớp: người cho vay không trực tiếp giám sát mọi người vay mà dựa vào nền tảng và các đối tác địa phương đã được đánh giá.[^36]
+
+GoFundMe duy trì quy trình báo cáo và điều tra nghi ngờ sử dụng sai mục đích, cùng Giving Guarantee có thể bảo vệ và hoàn tiền cho người quyên góp trong các trường hợp đủ điều kiện. Đồng thời, điều khoản nền tảng cho thấy người dùng không nên suy diễn rằng nền tảng có thể bảo đảm trước mọi tuyên bố hoặc mọi kết quả của người gây quỹ. Sự kết hợp giữa cảnh báo giới hạn trách nhiệm và cơ chế khắc phục là thực tế phổ biến, nhưng một nền tảng hướng đến “core canon” mạnh hơn nên đưa kiểm soát phòng ngừa vào trước giải ngân thay vì chỉ dựa vào điều tra sau sự cố. [^37]
+
+Trong equity crowdfunding, mức bảo vệ phải cao hơn vì người góp kỳ vọng lợi ích tài chính và chịu rủi ro đầu tư. Quy định Crowdfunding của Hoa Kỳ yêu cầu giao dịch đi qua một trung gian đăng ký, quy định việc công bố thông tin và đặt ra nghĩa vụ báo cáo; tính đến khung hiện hành được SEC mô tả, doanh nghiệp có thể huy động tối đa 5 triệu USD trong 12 tháng theo Regulation CF, dù các đề xuất năm 2026 đang yêu cầu tăng giới hạn và chưa tự thân làm thay đổi quy định hiện hành.[^38]
+
+**Luồng quản trị đề xuất.**
+
+flowchart TD
+    A[Người khởi xướng] --> B[Hiến chương chiến dịch có phiên bản]
+    B --> C[Thẩm định danh tính, năng lực, xung đột lợi ích]
+    C --> D[Nhận cam kết]
+    D --> E[Đơn vị lưu ký hoặc escrow tách biệt]
+
+    E --> F{Điều kiện giải ngân đã đạt?}
+    F -->|Chưa| G[Tiếp tục giữ hoặc hoàn tiền]
+    F -->|Đã đạt| H[Giải ngân theo hạng mục hoặc mốc]
+
+    H --> I[Chứng từ sử dụng]
+    H --> J[Bằng chứng đầu ra]
+    H --> K[Đo lường kết quả]
+
+    I --> L[Dashboard cộng đồng]
+    J --> L
+    K --> L
+
+    L --> M{Có sai lệch trọng yếu?}
+    M -->|Không| N[Giải ngân mốc tiếp theo]
+    M -->|Có| O[Đóng băng và yêu cầu giải trình]
+
+    O --> P[Đánh giá bởi nền tảng, cộng đồng hoặc bên độc lập]
+    P --> Q[Chấp thuận điều chỉnh]
+    P --> R[Hoàn tiền hoặc chuyển mục đích theo quy tắc]
+    P --> S[Chế tài, bồi hoàn, loại khỏi nền tảng]
+
+
+Kiến trúc này phản ánh logic ủy quyền–giám sát của lý thuyết đại diện, quản trị đa tâm của Ostrom và thực hành thẩm định, lưu ký, báo cáo của các nền tảng và cơ chế pháp lý hiện đại. [^39]
+
+**Các tiên đề thiết kế của tầng quản trị.**
+
+**Tiên đề hiến pháp có trước tiền.** Không chiến dịch nào được nhận tiền trước khi mục tiêu, ngân sách, điều kiện thất bại, quyền thay đổi và nghĩa vụ báo cáo được đóng thành một phiên bản hiến chương.
+
+**Tiên đề quản thác.** Người gây quỹ không sở hữu tiền theo nghĩa được tự do đổi mục đích. Họ nắm quyền sử dụng có giới hạn để thực hiện cam kết.
+
+**Tiên đề tách biệt tài sản.** Tiền của nhiều chiến dịch và tiền vận hành của người gây quỹ không nên hòa vào một số dư không thể truy vết.
+
+**Tiên đề giải ngân tương xứng với bằng chứng.** Quy mô giải ngân tiếp theo phải phụ thuộc vào mức độ hoàn thành và bằng chứng của giai đoạn trước, trừ cứu trợ khẩn cấp nơi trì hoãn gây thiệt hại lớn hơn.
+
+**Tiên đề thay đổi phải có tính hiến định.** Không phải mọi thay đổi đều cần bỏ phiếu toàn cộng đồng, nhưng ngưỡng thay đổi phải định trước. Thay đổi nhỏ có thể chỉ cần thông báo; thay đổi trọng yếu về mục tiêu, người hưởng lợi hoặc ngân sách phải cần đồng thuận hoặc quyền rút lui.
+
+**Tiên đề quyền dư thừa.** Phần tiền dư, lãi phát sinh, tài sản mua từ quỹ, dữ liệu tạo ra và tài sản trí tuệ phải có chủ thể quyền rõ ràng. “Không quy định” mặc nhiên trao quyền cho người đang kiểm soát.
+
+**Tiên đề giám sát đa tâm.** Không đặt toàn bộ quyền xác minh vào nền tảng, người khởi xướng hoặc cộng đồng. Hệ thống mạnh kết hợp tự báo cáo, giám sát người góp, xác minh đối tác, kiểm toán chọn mẫu và cơ quan pháp lý.
+
+**Tiên đề chế tài tăng dần nhưng không vô hạn.** Sai sót nhỏ cần cơ hội khắc phục; gian lận hoặc chiếm dụng cần đóng băng, bồi hoàn và loại trừ. Chế tài phải dự đoán được và có quyền kháng nghị.
+
+## Chính điển thiết kế, bảng đối chiếu và thư mục ưu tiên
+
+**Bảng đối chiếu từ khái niệm đến cơ chế.**
+
+|Khái niệm chính điển|Vấn đề được giải quyết|Tiền thân triết học hoặc lịch sử|Cơ chế nền tảng tương ứng|Chỉ số hoặc dấu hiệu thất bại|
+|---|---|---|---|---|
+|Thiện ích chung|Dùng ngôn ngữ cộng đồng để phục vụ lợi ích riêng|Aristotle; Aquinas|Public-benefit statement; danh sách bên hưởng lợi và bên chịu rủi ro|Mục tiêu mơ hồ; người sáng lập là bên hưởng lợi duy nhất nhưng không công bố|
+|Reciprocity / tương hỗ|Người góp và người nhận có kỳ vọng không khớp|Khổng học; Mauss|Khai báo loại quan hệ; giao thức đáp lại|Người góp tưởng là đầu tư nhưng thực tế là tặng; người nhận bị đòi nghĩa vụ ngoài cam kết|
+|Liberality / hào phóng đúng cách|Cho sai người, sai lúc, sai mức|Đạo đức đức hạnh Aristotle|Gợi ý khoản góp theo khả năng; không ép mức tối đa|Giao diện gây tội lỗi; vay nợ để quyên góp|
+|Đoàn kết|Huy động nhất thời nhưng không tạo cộng đồng|Durkheim; friendly societies|Tư cách thành viên; cập nhật; nghi thức ghi nhận|Cộng đồng biến mất ngay sau khi thu tiền|
+|Embeddedness|Đánh giá giao dịch ngoài mạng lưới tín nhiệm|Granovetter; ROSCA; họ–hụi|Mạng lưới xác nhận; lịch sử uy tín; referrer accountability|Ưu ái người có mạng lưới lớn; vòng tròn thông đồng|
+|Căn tính|Người tham gia không thấy mình thuộc về mục đích|Akerlof–Kranton|Identity framing dựa trên sứ mệnh; nhóm tài trợ|Bộ lạc hóa; loại trừ người ngoài; áp lực tuân phục|
+|Warm glow và danh dự|Thiếu động lực cảm xúc và biểu tượng|Liturgy Athens; chiến dịch Pulitzer|Thư cảm ơn; huy hiệu; ghi danh tùy chọn|Tối ưu cảm xúc thay vì tác động; thi đua số tiền|
+|Free rider|Mọi người chờ người khác trả chi phí|Olson; hàng hóa công|Selective benefits; membership; matching; recurring pledge|Nhiều người xem nhưng rất ít người góp dù đồng thuận cao|
+|Hợp tác có điều kiện|Người góp không biết người khác có tham gia không|Kinh tế học hành vi|Thanh tiến độ xác thực; số người góp; seed commitment|Social proof giả; số tiền nội bộ không phân biệt|
+|Provision point|Dự án thiếu kinh phí vẫn giữ tiền|Palfrey–Rosenthal; Bagnoli–Lipman|All-or-nothing; escrow; refund|Dự án nửa vời; mục tiêu bị đặt thấp giả tạo|
+|Độ rộng ủng hộ|Nhà tài trợ lớn chi phối hàng hóa chung|Quadratic funding|Matching theo số người và căn bậc hai; giới hạn matching|Sybil attack; chia nhỏ danh tính; thông đồng|
+|Quản thác|Người gây quỹ coi tiền là tài sản tùy nghi|Waqf; agency theory|Tài khoản tách biệt; quyền chi hạn chế|Trộn tài sản; chi ngoài ngân sách|
+|Hiến pháp cộng đồng|Quy tắc thay đổi tùy ý sau khi thu tiền|Hương ước; Ostrom|Campaign charter có phiên bản; quyền tham gia sửa đổi|Đổi mục tiêu âm thầm; điều khoản hồi tố|
+|Giám sát đa tâm|Một bên vừa giữ tiền vừa tự xác nhận|Ostrom; sổ waqf; hội tương tế|Tự báo cáo + cộng đồng + kiểm toán + nền tảng|Chứng từ do một bên tự tạo; không có kênh tố cáo|
+|Quyền khắc phục|Phát hiện sai phạm nhưng không biết xử lý|Luật hợp đồng; quy chế nền tảng|Đóng băng, hoàn tiền, chuyển người thụ hưởng, kháng nghị|Chỉ có “report” nhưng không có thời hạn hoặc chuẩn xử lý|
+
+**Mười hai điều của “core canon” đề xuất.**
+
+**Mục đích**
+
+1. **Không có quyền huy động trước khi có nghĩa vụ giải thích.** Người xin tài nguyên phải chịu gánh nặng chứng minh về mục tiêu, nhu cầu, khả năng và tác động dự kiến.
+    
+2. **Công ích phải có biên giới.** Phải xác định ai thuộc cộng đồng hưởng lợi, ai không thuộc, ai chịu ngoại tác và ai có quyền lên tiếng.
+    
+3. **Mọi lời hứa tác động phải có điều kiện phản bác.** Một tuyên bố không thể bị chứng minh sai cũng không thể được xác nhận là thành công.
+    
+
+**Quan hệ**
+
+4. **Đóng góp là sự gia nhập một quan hệ, không chỉ là chuyển tiền.** Loại quan hệ và quyền tương ứng phải được công bố trước.
+    
+5. **Ghi nhận phải phục vụ phẩm giá, không phục vụ cưỡng chế.** Danh dự là động lực hợp lệ khi tự nguyện; sự xấu hổ công khai không phải là thiết kế cộng đồng chính đáng.
+    
+6. **Sự đáp lại phải hữu hạn và xác định.** Không để quà tặng tạo quyền lực vô thời hạn của người cho đối với người nhận.
+    
+
+**Điều phối**
+
+7. **Thiện chí phải được chuyển thành cam kết có điều kiện.** Khi thành công phụ thuộc quy mô, tiền chỉ nên trở thành không thể đảo ngược khi điều kiện quy mô được đáp ứng.
+    
+8. **Cơ chế phải phù hợp với cách thiện ích được sản xuất.** Không dùng all-or-nothing cho lợi ích hoàn toàn chia nhỏ; không dùng keep-it-all cho dự án vô dụng nếu thiếu chi phí cố định.
+    
+9. **Cộng đồng không đồng nhất với tổng tiền.** Với hàng hóa chung, số người độc lập ủng hộ phải có trọng lượng bên cạnh quy mô tài sản.
+    
+
+**Quản trị**
+
+10. **Quỹ là lời hứa được vật chất hóa.** Mỗi đơn vị tiền phải luôn truy được về nguồn, trạng thái, quyền chi, đích đến và bằng chứng.
+    
+11. **Người giữ tiền là quản thác của mục đích.** Quyền kiểm soát kỹ thuật không tạo quyền sở hữu đạo đức hoặc quyền đổi mục tiêu.
+    
+12. **Thất bại phải được quản trị trước khi nó xảy ra.** Hoàn tiền, phần dư, thay đổi, trì hoãn, giải thể và tranh chấp là các trạng thái bình thường cần được viết vào hiến chương, không phải ngoại lệ xử lý tùy hứng.
+    
+
+**Kiến trúc nền tảng tối thiểu suy ra từ canon.** Một nền tảng muốn triển khai các tiên đề trên nên có: bộ phân loại mô hình gọi vốn; trình tạo hiến chương chiến dịch; thẩm định theo rủi ro; cam kết có điều kiện; escrow hoặc tách biệt tài sản; ngân sách theo mốc; dashboard phân biệt tiền cam kết, đã thu và đã giải ngân; kho bằng chứng; nhật ký thay đổi; quyền đồng thuận hoặc rút lui khi thay đổi trọng yếu; kênh tố cáo; quy trình điều tra có thời hạn; và sổ danh tiếng lưu cả thành công, chậm trễ, khắc phục lẫn vi phạm. Cấu trúc này phù hợp với bằng chứng rằng niềm tin, giá trị chia sẻ, tương tác và cam kết có quan hệ với ý định crowdfunding tại Việt Nam, đồng thời phản ánh các yếu tố như kỳ vọng kết quả, ảnh hưởng xã hội, điều kiện hỗ trợ và niềm tin được ghi nhận trong các nghiên cứu người dùng tại Thành phố Hồ Chí Minh.[^40]
+
+**Những điều không nên xây.** Không nên dùng một nút “ủng hộ” chung cho quyên góp, đặt trước, vay và đầu tư; không dùng thanh tiến độ nếu số liệu không xác thực; không cho phép đổi mục tiêu sau khi đạt quỹ mà không có quyền rút lui; không coi việc công khai hóa đơn là đủ để chứng minh tác động; không để người gây quỹ tự giữ và tự xác nhận toàn bộ dòng tiền; không mặc định công khai tên và số tiền; không dùng matching theo số tài khoản nếu không có chống Sybil; không chỉ có điều khoản miễn trách nhiệm mà thiếu cơ chế phòng ngừa và khắc phục.
+
+**Các giả định và khoảng trống.** Báo cáo chưa được ràng buộc bởi một quốc gia pháp lý cụ thể, một loại tài sản thanh toán, mô hình lợi nhuận nền tảng hoặc mức độ phi tập trung. Các ví dụ về Regulation Crowdfunding của Hoa Kỳ chỉ minh họa nguyên tắc quản trị chứng khoán, không phải tư vấn pháp lý cho Việt Nam. Khung pháp luật chuyên biệt cho các dạng crowdfunding tại Việt Nam có thể khác nhau tùy việc hoạt động được xem là quyên góp, thương mại điện tử, trung gian thanh toán, cho vay, phát hành chứng khoán, hoạt động từ thiện hay hợp đồng dân sự. Việc sử dụng blockchain, smart contract hoặc DAO không tự động giải quyết vấn đề quản trị: mã có thể thực thi quy tắc giải ngân, nhưng không tự xác nhận tính đúng đắn của hóa đơn, danh tính, tác động ngoài đời hoặc tính chính đáng của mục tiêu.
+
+Báo cáo cũng không giả định mọi cộng đồng đều hòa hợp. Cộng đồng có thể có bất bình đẳng quyền lực, thông đồng, kỳ thị và bắt giữ thể chế. Vì vậy, tự quản phải được ghép với quyền cá nhân, luật bên ngoài, bảo vệ người yếu thế và cơ chế kháng nghị. Chính nguồn Việt Nam về hương ước cũng nhấn mạnh hai mặt: khả năng gắn kết và tự quản một mặt, nguy cơ cục bộ, áp đặt và xung đột với “phép nước” mặt khác.[^41]
+
+**Thư mục ưu tiên—văn bản triết học và nguồn sơ cấp.** Aristotle, _Politics_, đặc biệt Quyển III về lợi ích chung và các hình thức chính trị đúng đắn; Aristotle, _Nicomachean Ethics_, các phần về công lý, cộng đồng và đức hào phóng.[^42]Thomas Aquinas, _Summa Theologiae_, I–II, Question 90, về luật như sự sắp đặt hướng tới thiện ích chung.[^43] _Luận Ngữ_, đặc biệt các đoạn về _thứ_, _nghĩa_, tín và nguyên tắc không áp đặt cho người khác điều mình không mong muốn.[^44]Marcel Mauss, _Essai sur le don / The Gift_, về nghĩa vụ cho, nhận và đáp lại.[^45]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -306,3 +447,23 @@ Khi chuyển sang crowdfunding, “ranh giới” là ai có quyền góp, hư�
 [^34]: https://moj.gov.vn/UserControls/News/pFormPrint.aspx?ItemID=2643&ListId=75a8df79-a725-4fd5-9592-517f443c27b6&SiteId=b11f9e79-d495-439f-98e6-4bd81e36adc9&SiteRootID=b71e67e4-9250-47a7-96d6-64e9cb69ccf3&UrlListProcess=%2Fqt%2Ftintuc%2FLists%2FNghienCuuTraoDoi
 
 [^35]: https://help.kickstarter.com/hc/en-us/articles/115005028834-What-is-a-creator-obligated-to-do-once-their-project-is-funded
+
+[^36]: https://www.kiva.org/about/due-diligence/lending-partners
+
+[^37]: https://www.gofundme.com/c/terms
+
+[^38]: https://www.sec.gov/resources-small-businesses/exempt-offerings/regulation-crowdfunding
+
+[^39]: https://www.sciencedirect.com/science/article/pii/0304405X7690026X
+
+[^40]: https://submit-jabes.ueh.edu.vn/index.php/jabes/vi/user/setLocale/en?source=submit-jabes.ueh.edu.vn%2Findex.php%2Fjabes%2Fvi%2Farticle%2Fview%2F904
+
+[^41]: https://nxbtuphap.moj.gov.vn/Pages/chi-tiet-tin-tuc.aspx?ItemID=19&l=Gioithieusach
+
+[^42]: https://classics.mit.edu/Aristotle/politics.3.three.html
+
+[^43]: https://www.newadvent.org/summa/2090.htm
+
+[^44]: https://ctext.org/analects
+
+[^45]: https://files.libcom.org/files/Mauss%20-%20The%20Gift.pdf
