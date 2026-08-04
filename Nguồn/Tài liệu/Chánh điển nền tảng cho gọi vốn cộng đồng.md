@@ -76,7 +76,117 @@ khổng học bổ sung một giới hạn đạo đức cho việc nhân danh c
 
 Đây là sự kết hợp giữa đạo đức thiện ích chung, lý thuyết hàng hóa công và yêu cầu về tín hiệu chất lượng trong crowdfunding. Nghiên cứu của Mollick cho tháy chất lượng dự án và mạng lưới cá nhận liên hệ với khả năng gọi vốn thành công; nghiên cứu trên 122 dựa án ở các nên tảng Việt Nam giai đoạn 2014-2016 cũng cho thấy tín hiệu chất lượng dự án và thông tin bổ sung về người sáng lập có liên hệ với thành công gây quỹ. [^12]
 
+**Các tiên đề thiết kế của tầng mục đích.**
 
+**Tiên đề mục đích có trước huy động.** Nền tảng không nên cho phép chiến dịch bắt đầu từ một con số tiền rồi mới tạo câu chuyện biện minh. Trình tự đúng là: xác định trạng thái cần tạo ra; chứng minh nhu cầu; chọn cơ chế sản xuất; sau đó mới tính ngân sách.
+
+**Tiên đề phân loại thiện ích.** Mọi chiến dịch phải tự định danh là cứu trợ cá nhân, lợi ích nhóm, hàng hóa địa phương, sản phẩm đặt trước, hàng hóa công, khoản vay hay đầu tư. Nhãn phân loại quyết định loại bằng chứng, quyền của người góp và cơ chế giải ngân.
+
+**Tiên đề về phản thực.** Người gây quỹ phải trả lời: “Nếu không có khoản tiền này, điều gì sẽ không xảy ra?” Không có phản thực, nền tảng không thể phân biệt tài trợ cần thiết với việc thay thế các nguồn vốn đã có.
+
+**Tiên đề về tính tỷ lệ.** Mức độ kiểm tra phải tỷ lệ với số tiền, độ khó đảo ngược, tính dễ tổn thương của người hưởng lợi và mức độ bất cân xứng thông tin. Một chiến dịch nhỏ không cần bộ máy kiểm toán như quỹ đầu tư, nhưng một chiến dịch y tế lớn không thể chỉ dựa vào hình ảnh cảm xúc.
+
+**Tiên đề về bằng chứng hai tầng.** Phải phân biệt **proof of use**—chứng minh tiền đã được chi vào đâu—và **proof of outcome**—chứng minh việc chi tiền đã tạo ra thay đổi gì. Hóa đơn không tự động chứng minh tác động; một câu chuyện thành công cũng không tự động chứng minh việc dùng tiền đúng cam kết.
+
+
+## Tầng quan hệ: quà tặng, danh dự, nghĩa vụ và căn tính
+
+Một khoản đóng góp có ít nhất ba lớp giá trị: giá trị vật chất được chuyển giao, giá trị biểu tượng của việc đứng về phía một mục đích, và giá trị quan hệ phát sinh giữa người góp, người nhận và những người góp khác. Đây là lý do mô hình thuần túy “người dùng bấm nút—tiền được chuyển” không thể mô tả đầy đủ crowdfunding.
+
+**Mauss và món quà không bao giờ hoàn toàn “miễn phí”.** Trong _The Gift_, Mauss phân tích ba nghĩa vụ liên kết nhau: nghĩa vụ cho, nghĩa vụ nhận và nghĩa vụ đáp lại. Quà tặng tạo quan hệ, danh dự và kỳ vọng; việc từ chối nhận hoặc không đáp lại có thể được hiểu là từ chối quan hệ. [^14]
+
+Bài học thiết kế không phải là mọi người nhận tiền đều phải hoàn trả vật chất. Bài học là nền tảng phải **làm rõ hình thức đáp lại chính đáng**. Trong quyên góp từ thiện, sự đáp lại có thể là xác nhận, cập nhật và báo cáo. Trong reward crowdfunding, đó là phần thưởng hoặc sản phẩm. Trong quỹ tương trợ, đó là cam kết sẵn sàng giúp thành viên khác khi đến lượt. Trong khoản vay, đó là hoàn vốn theo điều kiện. Trong equity crowdfunding, đó là quyền tài sản và thông tin của nhà đầu tư. Khi nền tảng gọi tất cả là “ủng hộ”, nó che giấu những khác biệt có ý nghĩa đạo đức và pháp lý.
+
+**Đoàn kết không phải chỉ là cảm xúc đồng nhất.** Durkheim phân biệt đoàn kết dựa trên tương đồng với đoàn kết nảy sinh từ sự phụ thuộc chức năng giữa những người khác nhau. Đối với một nền tảng, cộng đồng bền vững không nhất thiết phải có chung lý lịch, tín ngưỡng hoặc lối sống; họ có thể liên kết vì mỗi người thực hiện một vai trò khác nhau trong một dự án chung. Điều này cho phép thiết kế căn tính cộng đồng quanh một sứ mệnh và một thực hành, thay vì quanh sự loại trừ người ngoài. [^15]
+
+**Embeddedness—tính gắn nhúng xã hội.** Granovetter lập luận rằng hành động kinh tế bị ràng buộc bởi các quan hệ xã hội đang diễn ra; tách giao dịch khỏi mạng lưới tín nhiệm, danh tiếng và quan hệ là một sự hiểu sai nghiêm trọng. Nghiên cứu crowdfunding cũng cho thấy mạng lưới cá nhân và quan hệ xã hội thường có vai trò đặc biệt ở giai đoạn đầu của chiến dịch, ngay cả khi nền tảng Internet làm giảm trở ngại địa lý. [^16]
+
+Điều này giải thích vì sao những người đầu tiên góp vốn thường không phải là “đám đông vô danh”, mà là gia đình, bạn bè, đồng nghiệp, cộng đồng chuyên môn hoặc thành viên đã có quan hệ với người khởi xướng. Nhưng nó cũng tạo rủi ro: chiến dịch của người có mạng lưới mạnh được coi là đáng tin hơn ngay cả khi tác động không tốt hơn; người yếu thế nhưng không có mạng lưới có thể bị hệ thống xếp hạng bỏ lại.
+
+**Căn tính và chuẩn mực.** Akerlof và Kranton đưa căn tính vào hàm lợi ích kinh tế: con người lựa chọn một phần dựa trên việc họ thuộc loại người nào và người thuộc nhóm ấy “nên” hành xử ra sao. Một nền tảng có thể huy động căn tính “người bảo trợ nghệ thuật”, “công dân địa phương”, “cựu học sinh”, “người làm nguồn mở” hoặc “thành viên quỹ tương trợ”. Nhưng căn tính cũng có thể tạo áp lực tuân phục, chủ nghĩa bộ lạc và phân biệt người trong–người ngoài. [^17]
+
+**Warm glow và danh dự.** Andreoni cho rằng người cho có thể đồng thời quan tâm đến kết quả cho người khác và trải nghiệm thỏa mãn từ chính hành vi cho đi. Điều này giúp giải thích tác dụng của huy hiệu, thư cảm ơn, bảng danh dự, cập nhật cá nhân hóa và nghi thức ghi nhận. Tuy nhiên, “warm glow” không nên thay thế đánh giá tác động: một trải nghiệm cho đi dễ chịu có thể tồn tại ngay cả khi dự án kém hiệu quả.[^18]
+
+**Các hội tương tế, ROSCA và họ–hụi.** Rotating savings and credit associations tập hợp các khoản đóng góp định kỳ vào một quỹ rồi luân phiên trao toàn bộ hoặc phần lớn quỹ cho từng thành viên. Chúng giải quyết vấn đề tiếp cận một khoản vốn lớn thông qua quan hệ lặp lại, danh tiếng, quan sát lẫn nhau và kỳ vọng rằng mỗi thành viên vừa là người cho vừa có thể là người nhận. [^19]
+
+Ở Việt Nam, “họ, hụi, biêu, phường” có vị trí đủ quan trọng để được điều chỉnh riêng bởi Nghị định 19/2019/NĐ-CP, ban hành ngày 19 tháng 2 năm 2019 và có hiệu lực ngày 5 tháng 4 năm 2019. Sự tồn tại của khung pháp lý này cho thấy các thiết chế dựa trên tín nhiệm cộng đồng vẫn cần quy tắc về thành viên, quyền, nghĩa vụ, chứng từ và tranh chấp; quan hệ gần gũi không loại bỏ rủi ro người giữ quỹ hoặc thành viên vi phạm cam kết. [^20]
+
+Các friendly societies tại Anh và các phường hội, hội huynh đệ trong lịch sử châu Âu cũng cung cấp hỗ trợ khi ốm đau, qua đời hoặc mất thu nhập. Chúng kết hợp đóng góp định kỳ, tư cách thành viên, sổ sách và quyền hưởng lợi có điều kiện—một hình thức “bảo hiểm xã hội từ dưới lên” trước khi nhà nước phúc lợi hiện đại phát triển đầy đủ.[^21]
+
+Tontine là một cấu trúc khác: tài sản của nhiều người được góp vào một quỹ, trong đó lợi ích của những người còn lại tăng lên khi thành viên rời khỏi hoặc qua đời, tùy cấu trúc cụ thể. Tontine từng được dùng cho tài chính công và tương trợ, nhưng cấu trúc lợi ích của nó cũng minh họa một quy luật quan trọng: **thiết kế quỹ không chỉ phân bổ tiền; nó tạo ra động cơ đối với sự tồn tại, rút lui và hành vi của thành viên**. [^22]
+
+**Các tiên đề thiết kế của tầng quan hệ.**
+
+**Tiên đề khai báo quan hệ.** Trước nút “đóng góp”, nền tảng phải nói rõ người dùng đang thực hiện hành vi nào: tặng, đặt trước, cho vay, đầu tư, nộp phí thành viên hay cam kết tương trợ. Không dùng ngôn ngữ đạo đức của quà tặng để che rủi ro thương mại; không dùng ngôn ngữ đầu tư nếu không có quyền đầu tư.
+
+**Tiên đề đáp lại xác định trước.** Mọi chiến dịch phải có một “giao thức đáp lại”: xác nhận đóng góp, nhịp cập nhật, phần thưởng, quyền biểu quyết, hoàn vốn hoặc báo cáo. Sự im lặng kéo dài sau khi nhận tiền là vi phạm quan hệ ngay cả trước khi có bằng chứng biển thủ.
+
+**Tiên đề danh dự tự nguyện.** Người góp phải được chọn công khai tên, công khai ẩn danh, chỉ hiển thị nhóm hoặc hoàn toàn ẩn danh. Bảng xếp hạng số tiền không nên là chế độ mặc định vì dễ chuyển ghi nhận thành cạnh tranh địa vị và gây áp lực lên người có ít khả năng tài chính.
+
+**Tiên đề không biến quà thành nợ bí mật.** Người nhận không nên bị buộc phải thể hiện lòng biết ơn vô thời hạn, cung cấp dữ liệu cá nhân quá mức hoặc chấp nhận sự can thiệp ngoài những gì đã công bố. Một khoản đóng góp chỉ tạo ra những quyền đã được xác lập, không tạo quyền sở hữu đạo đức đối với người thụ hưởng.
+
+**Tiên đề căn tính mở.** Cộng đồng nên được định nghĩa bằng cam kết và hành vi—“người cùng bảo vệ dòng sông”, “người bảo trợ tri thức mở”—thay vì huyết thống, địa vị hoặc sự đồng nhất. Điều này giữ sức mạnh động viên của căn tính nhưng giảm rủi ro khép kín.
+
+**Tiên đề cập nhật như nghi lễ tương hỗ.** Báo cáo không chỉ là nghĩa vụ kế toán. Nó là hành động xã hội xác nhận rằng người góp vẫn hiện diện trong câu chuyện của dự án. Cập nhật đều đặn, kể cả khi chưa có thành công, duy trì quan hệ tốt hơn sự im lặng rồi xuất hiện với một báo cáo hoàn chỉnh muộn màng. Kickstarter cũng yêu cầu nhà sáng tạo duy trì giao tiếp với người ủng hộ và coi việc hoàn thành dự án, gửi phần thưởng là phần cốt lõi của quá trình thực hiện. [^23]
+
+## Tầng điều phối: từ thiện chí phân tán đến cam kết có điều kiện
+
+Vấn đề điều phối xuất hiện khi nhiều người đều có thể muốn một kết quả chung nhưng không ai chắc người khác sẽ đóng góp đủ. Một người có thể đồng ý rằng thư viện cộng đồng là tốt nhưng vẫn chờ hàng xóm trả tiền; một người khác có thể sẵn sàng đóng nếu thấy đã có đủ người tham gia; người thứ ba có thể không đóng vì sợ dự án chỉ huy động được một nửa ngân sách rồi vẫn tiêu hết tiền.
+
+**Free rider không phải là khuyết điểm đạo đức cá nhân đơn giản.** Trong logic hành động tập thể của Olson, việc một nhóm có lợi ích chung không tự động dẫn đến hành động chung, đặc biệt khi thành viên không thể bị loại khỏi lợi ích sau khi hàng hóa được tạo ra. Nhóm lớn thường gặp khó khăn hơn do tác động biên của từng người nhỏ và chi phí tổ chức cao; selective incentives—lợi ích hoặc nghĩa vụ chỉ áp dụng cho người tham gia—có thể giúp vượt qua vấn đề này. [^24]
+
+Tuy nhiên, không nên áp dụng “free rider” cho mọi crowdfunding. Trong pre-order, người không góp không nhận sản phẩm nên tính không loại trừ thấp hơn. Trong quyên góp y tế cho một cá nhân, người góp chủ yếu tạo lợi ích cho người thụ hưởng, không phải cùng tiêu dùng một hàng hóa công. Trong phần mềm nguồn mở hoặc không gian công cộng, người không góp vẫn có thể hưởng lợi, nên free-riding rõ hơn. Cơ chế phải được chọn theo cấu trúc lợi ích thực tế, không theo một công thức duy nhất.
+
+**Hợp tác có điều kiện.** Thí nghiệm của Fischbacher, Gächter và Fehr cho thấy khoảng một phần ba người tham gia được phân loại là free riders hoàn toàn, trong khi khoảng một nửa thể hiện hợp tác có điều kiện—họ sẵn sàng góp nhiều hơn khi người khác góp nhiều hơn. Kết quả này không phải một hằng số phổ quát cho mọi xã hội, nhưng nó chỉ ra rằng quan sát được hành vi của người khác có thể là thành phần thiết kế thiết yếu.[^25]
+
+Do đó, thanh tiến độ, số người góp, matching fund và cam kết của người khởi xướng có thể làm nhiều hơn việc “trang trí”: chúng cung cấp thông tin về việc liệu những người khác có đang hợp tác hay không. Nhưng social proof phải có tính toàn vẹn. Nền tảng không được dùng người góp giả, số tiền nội bộ không công bố, bộ đếm được làm tròn gây hiểu nhầm hoặc “đóng góp vừa xảy ra” giả tạo.
+
+**Provision point—ngưỡng cung cấp.** Palfrey và Rosenthal mô hình hóa hàng hóa công rời rạc: mỗi người có thể đóng một khoản cố định; nếu đủ số đóng góp, hàng hóa được cung cấp; nếu không, hàng hóa không được cung cấp. Biến thể hoàn tiền khi thất bại tạo một tập cân bằng rộng hơn so với cơ chế không hoàn tiền. [^26]
+
+Bagnoli và Lipman phát triển sâu hơn cơ chế provision point có hoàn trả, cho thấy trong những điều kiện nhất định có thể đạt cung cấp hiệu quả thông qua đóng góp tư nhân. Điều quan trọng về mặt trực giác là: nếu một dự án chỉ có giá trị khi đủ tiền để hoàn thành, giữ lại khoản góp khi không đạt ngưỡng làm người tham gia đối mặt với trạng thái xấu nhất—họ mất tiền nhưng không nhận được hàng hóa. Hoàn tiền loại bỏ một phần rủi ro đó. [^27]
+
+Kickstarter áp dụng nguyên tắc all-or-nothing: thẻ của người ủng hộ chỉ bị tính tiền nếu chiến dịch đạt mục tiêu trước khi thời hạn kết thúc. Kickstarter giải thích rằng mục tiêu nên tương ứng với số tiền tối thiểu cần thiết để tạo sản phẩm đã hứa và thực hiện phần thưởng.[^28]
+
+Nhưng all-or-nothing không phải lúc nào cũng đúng. Nếu mỗi đồng tiền đều có thể tạo một đơn vị lợi ích độc lập—chẳng hạn mua thêm từng suất ăn hoặc từng bộ dụng cụ cứu trợ—keep-it-all có thể hợp lý. Nếu dự án có một chi phí cố định không thể chia nhỏ—chẳng hạn xây một cây cầu đạt chuẩn—giải ngân dưới ngưỡng có thể lãng phí. **Câu hỏi tiên quyết không phải “cơ chế nào chuyển đổi tốt hơn?”, mà là “công nghệ sản xuất của thiện ích có liên tục hay rời rạc?”**
+
+**Refund bonus.** Zubrickas đề xuất bổ sung phần thưởng hoàn tiền: khi dự án không đạt ngưỡng, người góp nhận lại khoản của mình cộng một phần bonus. Cạnh tranh để nhận bonus có thể giảm vấn đề tất cả cùng chờ người khác hành động và giúp chọn cân bằng đạt ngưỡng. Tuy nhiên, bonus phải có nguồn tài trợ bên ngoài hoặc ngân sách xác định trước; nếu lấy từ tiền của chính người góp, nó có thể chỉ tái phân phối rủi ro.[^29]
+
+**Quadratic funding và chống tài phiệt.** Trong tài trợ tuyến tính, một người góp 10.000 đơn vị có trọng lượng gấp 100 lần một người góp 100 đơn vị. Quadratic funding làm tăng giá trị của độ rộng ủng hộ bằng cách tính matching dựa trên tổng căn bậc hai của các khoản góp. Một biểu diễn đơn giản là:
+
+$$
+[ M_p \propto \left(\sum_i \sqrt{c_{ip}}\right)^2 - \sum_i c_{ip} ]
+$$
+
+Trong đó (c_{ip}) là khoản người (i) góp cho dự án (p), còn (M_p) là phần matching. Cấu trúc này có thể dành nhiều matching hơn cho một dự án được đông người ủng hộ bằng khoản nhỏ so với dự án có cùng tổng tiền nhưng chỉ một vài nhà tài trợ lớn. Buterin, Hitzig và Weyl trình bày cơ chế này như một phương án gần tối ưu cho tài trợ hàng hóa công phi tập trung; Gitcoin đã sử dụng quadratic funding để khuếch đại dự án có nền ủng hộ rộng.[^30]
+
+Nhược điểm là Sybil attack: một người có thể tạo nhiều danh tính để giả mạo độ rộng ủng hộ. Vì vậy, quadratic funding không thể tách khỏi xác minh tính duy nhất, giới hạn matching, phát hiện thông đồng và bảo vệ quyền riêng tư. Đây là ví dụ điển hình cho nguyên lý: **công thức phân bổ và hệ thống căn tính là một thiết kế thống nhất**.
+
+**Luồng điều phối đề xuất.**
+
+
+flowchart LR
+    A[Hiến chương mục đích và ngân sách] --> B[Phân loại công nghệ dự án]
+    B -->|Chi phí cố định, không chia nhỏ| C[Ngưỡng all-or-nothing]
+    B -->|Lợi ích tăng theo từng đơn vị| D[Keep-it-all có giới hạn]
+    B -->|Nhiều mốc độc lập| E[Ngưỡng và giải ngân theo giai đoạn]
+
+    C --> F[Cam kết có điều kiện]
+    D --> G[Thu tiền và công bố biên tác động]
+    E --> H[Cam kết cho từng mốc]
+
+    F --> I{Đạt ngưỡng?}
+    I -->|Không| J[Hủy cam kết hoặc hoàn tiền]
+    I -->|Có| K[Chuyển sang lưu ký và thực hiện]
+
+    G --> K
+    H --> L{Đạt mốc?}
+    L -->|Không| M[Dừng, hoàn phần chưa dùng]
+    L -->|Có| K
+
+    K --> N[Theo dõi, báo cáo, nghiệm thu]
+
+
+Sơ đồ là sự tổng hợp từ lý thuyết provision point, crowdfunding all-or-nothing và quản trị theo mốc; nó không hàm ý rằng mọi chiến dịch phải đi qua cùng một nhánh.[^31]
 
 
 
@@ -110,3 +220,39 @@ khổng học bổ sung một giới hạn đạo đức cho việc nhân danh c
 [^12]: https://www.researchgate.net/publication/259133171_The_Dynamics_of_Crowdfunding_An_Exploratory_Study
 
 [^13]: https://iupress.istanbul.edu.tr/en/journal/jpfs/article/liturji-kamu-mallarinin-hizmetlerinin-harcamalarinin-tarihsel-ve-antik-bir-kokeni-ve-gelisimi
+
+[^14]: https://files.libcom.org/files/Mauss%20-%20The%20Gift.pdf
+
+[^15]: https://durkheim.uchicago.edu/Summaries/dl.html
+
+[^16]: https://www.jstor.org/stable/2780199
+
+[^17]: https://academic.oup.com/qje/article-abstract/115/3/715/1828151
+
+[^18]: https://academic.oup.com/ej/article-abstract/100/401/464/5190270
+
+[^19]: https://www.philadelphiafed.org/-/media/frbp/assets/community-development/discussion-papers/discussionpaper-ROSCAs.pdf
+
+[^20]: https://vanban.chinhphu.vn/default.aspx?docid=196233&pageid=27160
+
+[^21]: [****](https://www.cambridge.org/core/journals/journal-of-policy-history/article/social-policy-by-other-means-mutual-aid-and-the-origins-of-the-modern-welfare-state-in-britain-during-the-nineteenth-and-twentieth-centuries/C5EAF4FA66DD04B953A84C2E7D990E1C)
+
+[^22]: https://journals.sagepub.com/doi/10.1177/03324893241243022
+
+[^23]: https://www.kickstarter.com/help/handbook/fulfillment
+
+[^24]: https://en.wikipedia.org/wiki/The_Logic_of_Collective_Action
+
+[^25]: https://ideas.repec.org/a/eee/ecolet/v71y2001i3p397-404.html
+
+[^26]: https://authors.library.caltech.edu/records/wp12c-t9x22/latest
+
+[^27]: https://ideas.repec.org/a/oup/restud/v56y1989i4p583-601..html
+
+[^28]: https://www.kickstarter.com/help/taxes?ref=project_edit
+
+[^29]: https://www.sciencedirect.com/science/article/abs/pii/S0047272714002205
+
+[^30]: https://arxiv.org/abs/1809.06421
+
+[^31]: https://authors.library.caltech.edu/records/wp12c-t9x22/latest
