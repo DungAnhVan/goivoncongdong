@@ -47,10 +47,28 @@ Trong đó:
 
 Nếu thiếu $T$, huy động trở thành sự chiếm dụng chú ý. Nếu thiếu $R$, nó trở thành giao dịch bị mô tả sai. Nếu thiếu $C$, nó phụ thuộc vào may rủi phối hợp. Nếu thiếu $G$, nó trở thành chuyển giao tài sản không có trách nhiệm giải trình. 
 
-# Tầng mục đích: thiện ích chung có thể kiểm cứng
+# Tầng mục đích: thiện ích chung có thể kiểm chứng
 **Khái niệm hạt nhân là tính chính đang hướng đích.** Tiền cộng đồng chỉ có thể được biện minh bởi một jmucj tiêu đủ rõ để người góp hiểu họ đang giúp tạo ra trạng thái nào, cho ai và bằng cách nào. Aristotle cho rằng các hình thức chính trị đúng đắn hướng đến lợi ích chung, còn những hình thức hướng đến lợi ích riêng của người cai trị là sự biến chất; trong Nicomachean Ethics, các cộng đồng được hình thành vì một lợi ích nào đó và công lý liên hệ với lợi ích chung. [^9]
 
-Aquinas đưa trực giác này vào lý thuyết luật: luật phải là sự sắp đặt của lý trí hướng đến thiện ích chung, do người có trách nhiệm đối với côn
+Aquinas đưa trực giác này vào lý thuyết luật: luật phải là sự sắp đặt của lý trí hướng đến thiện ích chung, do người có trách nhiệm đối với cộng đồng ban hành và được công bố. Đối với thiết kế nền tảng, hai thành phần "hợp lý" và "được công bố" đặc biệt quan trong: chiến dịch không chỉ cần mục tiêu tốt về mặt đạo đức mà còn cần một kế hoạc phương tiện - mục đích có thể kiểm tra và một hiến chương mà người góp thực sự được nhìn thấy khi cam kết. [^10]
+
+
+khổng học bổ sung một giới hạn đạo đức cho việc nhân danh cộng đồng. Nguyên tắc thương được dịch là "đừng áp đặt lên người khác điều mình không mong muốn cho chính mình" ngăn người khởi xướng biến thiện ích chung thành cái cớ để gây áp lực, làm nhục người không góp hoặc khai thác lòng trắc ẩn. Trong kiến trúc nền tảng, "công ích" không được trở thành giấy phép cho dark patterns, mặc định đống góp, thuộc vào số tiền đã trả. [^11]
+
+**Từ "mục đích tốt" đến "mục đích có thể kiểm chứng"**. Một chiến có thể sử dụng ngôn ngữ đạo đức cao đẹp nhưng vẫn không đủ điều kiện nhận tài nguyên cộng đồng. Tính kiểm chứng nên được tách thành bốn phép thử:
+
+
+
+| Phép thử                     | Câu hỏi nền tảng                                                                                                              |
+| ---------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| Xác định đối tượng hưởng lợi | Ai trực tiếp và gián tiếp nhận lợi ích? Ai có thể bị thiệt hại?                                                               |
+| Tính bổ sung                 | Điều gì sẽ không xãy ra nếu không có khoản huy động này?                                                                      |
+| Khả năng thực hiện           | Kinh phí tối thiểu, năng lực, thời gian và phụ thuộc chính là gì?                                                             |
+| Khả năng chứng minh          | Dữ liệu, chứng từ, sản phẩm, hình ảnh, xác nhận độc lập hoặc chỉ số nào chứng minh tiền đã được dùng và kết quả đã xuất hiện? |
+
+Đây là sự kết hợp giữa đạo đức thiện ích chung, lý thuyết hàng hóa công và yêu cầu về tín hiệu chất lượng trong crowdfunding. Nghiên cứu của Mollick cho tháy chất lượng dự án và mạng lưới cá nhận liên hệ với khả năng gọi vốn thành công;
+
+
 
 
 
@@ -76,3 +94,7 @@ Aquinas đưa trực giác này vào lý thuyết luật: luật phải là sự
 [^8]: https://iupress.istanbul.edu.tr/en/journal/jpfs/article/liturji-kamu-mallarinin-hizmetlerinin-harcamalarinin-tarihsel-ve-antik-bir-kokeni-ve-gelisimi
 
 [^9]: https://classics.mit.edu/Aristotle/politics.3.three.html
+
+[^10]: https://www.newadvent.org/summa/2090.htm
+
+[^11]: https://ctext.org/analects
