@@ -12,4 +12,4 @@ Người gây quỹ phải trả lời: "Nếu không có khoản tiền này, �
 
 # Tiên đề về tính tỷ lệ.
 
-Mức độ kiểm tra phải tỷ lệ với số tiền, độ khó đảo ngược, tính dễ tổn thương của người hưởng lợi và mức độ bất cân xứng thông tin. Một chiến dịch nhỏ không cần bộ máy kie
+Mức độ kiểm tra phải tỷ lệ với số tiền, độ khó đảo ngược, tính dễ tổn thương của người hưởng lợi và mức độ bất cân xứng thông tin. Một chiến dịch nhỏ không cần bộ máy kiểm toán như quỹ đầu tư, nhưng một chiến dịch y tế lớn không thể chỉ dựa và hình ảnh cảm xúc. 
