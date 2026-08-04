@@ -8,8 +8,8 @@
     "outboundEnabled": true,
     "inboundEnabled": true,
     "auth": {
-      "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzg1ODQyODIyLCJpYXQiOjE3ODU4MzkyMjIsImp0aSI6IjUzNTYyNGVhYWJlYTQ5ZWNhZmZmZDFjZDZmZjE4Y2JiIiwidXNlcl9pZCI6ImM4ZjJmZWYwLTc0MzQtNDIyZS1hZWYxLWY5ZTVhNmJiZmU0ZSIsImNsaWVudF90eXBlIjoib2F1dGhfY2xpZW50Iiwib2F1dGhfY2xpZW50X2lkIjoib2JzaWRpYW4ifQ.o0Z8xQw6gk7LBpp4pwTSxQCOgrGkXY4lpja99jY4KiM",
-      "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc4ODQzMTIyMiwiaWF0IjoxNzg1ODM5MjIyLCJqdGkiOiI0NmVhY2I1ODgzNWU0NzM2YWUxYjY2MjYyYTE3NGNlZSIsInVzZXJfaWQiOiJjOGYyZmVmMC03NDM0LTQyMmUtYWVmMS1mOWU1YTZiYmZlNGUiLCJjbGllbnRfdHlwZSI6Im9hdXRoX2NsaWVudCIsIm9hdXRoX2NsaWVudF9pZCI6Im9ic2lkaWFuIn0.p4myUyPv4R1VqDIcYz1GfTBSn811wICqZLu5rrYlTLc",
+      "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzg1ODUwMDE4LCJpYXQiOjE3ODU4NDY0MTgsImp0aSI6IjRkMmFkNTFjNjlkZDQxN2NhZmY0NDhhZDI3NzVkNmU3IiwidXNlcl9pZCI6ImM4ZjJmZWYwLTc0MzQtNDIyZS1hZWYxLWY5ZTVhNmJiZmU0ZSIsImNsaWVudF90eXBlIjoib2F1dGhfY2xpZW50Iiwib2F1dGhfY2xpZW50X2lkIjoib2JzaWRpYW4ifQ.kxkplAjXW6xavXyDAVIRBSzcCu1377f8Ji50CfppPLw",
+      "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc4ODQzODQxOCwiaWF0IjoxNzg1ODQ2NDE4LCJqdGkiOiIzYzZmNjM3MDFiOGM0NDkyYjhiMmY1NmY3M2NjOWQwYyIsInVzZXJfaWQiOiJjOGYyZmVmMC03NDM0LTQyMmUtYWVmMS1mOWU1YTZiYmZlNGUiLCJjbGllbnRfdHlwZSI6Im9hdXRoX2NsaWVudCIsIm9hdXRoX2NsaWVudF9pZCI6Im9ic2lkaWFuIn0.DE1R3-0ELBshAsnLdb_TM05W5wUS3pzBdEBU6o97TTc",
       "userEmail": "vanquantumschool@gmail.com"
     },
     "bannerDismissed": true
@@ -55,6 +55,10 @@
       "Nguồn/Tài liệu/Các tiền thân lịch sử.md": {
         "contentHash": "09ea0b0b903ad7abfd1f407e0590606bb85c05a3f222a14526d8309ce816d3d9",
         "mtime": 1785842048825
+      },
+      "Nguồn/Tài liệu/Các tiên đề thiết kế của tầng mục đích.md": {
+        "contentHash": "102d126a232b79f3ec27e30f70d6fcd9d2a32da032e1c12e1e869763641b915d",
+        "mtime": 1785846595188
       }
     },
     "exportsUpdatedAfter": ""
