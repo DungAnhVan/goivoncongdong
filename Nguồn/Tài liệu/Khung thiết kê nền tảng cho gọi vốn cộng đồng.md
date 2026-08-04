@@ -163,7 +163,7 @@ Nhược điểm là Sybil attack: một người có thể tạo nhiều danh t
 
 **Luồng điều phối đề xuất.**
 
-
+```mermaid
 flowchart LR
     A[Hiến chương mục đích và ngân sách] --> B[Phân loại công nghệ dự án]
     B -->|Chi phí cố định, không chia nhỏ| C[Ngưỡng all-or-nothing]
@@ -184,7 +184,7 @@ flowchart LR
     L -->|Có| K
 
     K --> N[Theo dõi, báo cáo, nghiệm thu]
-
+```
 
 Sơ đồ là sự tổng hợp từ lý thuyết provision point, crowdfunding all-or-nothing và quản trị theo mốc; nó không hàm ý rằng mọi chiến dịch phải đi qua cùng một nhánh.[^31]
 
@@ -241,7 +241,7 @@ GoFundMe duy trì quy trình báo cáo và điều tra nghi ngờ sử dụng sa
 Trong equity crowdfunding, mức bảo vệ phải cao hơn vì người góp kỳ vọng lợi ích tài chính và chịu rủi ro đầu tư. Quy định Crowdfunding của Hoa Kỳ yêu cầu giao dịch đi qua một trung gian đăng ký, quy định việc công bố thông tin và đặt ra nghĩa vụ báo cáo; tính đến khung hiện hành được SEC mô tả, doanh nghiệp có thể huy động tối đa 5 triệu USD trong 12 tháng theo Regulation CF, dù các đề xuất năm 2026 đang yêu cầu tăng giới hạn và chưa tự thân làm thay đổi quy định hiện hành.[^38]
 
 **Luồng quản trị đề xuất.**
-
+```mermaid
 flowchart TD
     A[Người khởi xướng] --> B[Hiến chương chiến dịch có phiên bản]
     B --> C[Thẩm định danh tính, năng lực, xung đột lợi ích]
@@ -269,7 +269,7 @@ flowchart TD
     P --> R[Hoàn tiền hoặc chuyển mục đích theo quy tắc]
     P --> S[Chế tài, bồi hoàn, loại khỏi nền tảng]
 
-
+```
 Kiến trúc này phản ánh logic ủy quyền–giám sát của lý thuyết đại diện, quản trị đa tâm của Ostrom và thực hành thẩm định, lưu ký, báo cáo của các nền tảng và cơ chế pháp lý hiện đại. [^39]
 
 **Các tiên đề thiết kế của tầng quản trị.**

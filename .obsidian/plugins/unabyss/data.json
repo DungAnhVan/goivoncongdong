@@ -24,10 +24,6 @@
         "contentHash": "b20ef45b80f9641703dd45c0b933b086bd2548cac7153161e0e797b3fc5b3cf0",
         "mtime": 1785772732554
       },
-      "Nguồn/Tài liệu/Này nói về Crowdfunding.md": {
-        "contentHash": "f4ec8eacfb31defbff0c9500a4b7f38bfe9149b9b002510055ca772d47d39a1a",
-        "mtime": 1785777861015
-      },
       "Nguồn/Tài liệu/Các khái niệm nền tảng ứng viên.md": {
         "contentHash": "dfa4338ac994b4182ea98d8874593d76fd2f0403df0831a74e3cd1cade77156b",
         "mtime": 1785780263767
@@ -52,9 +48,13 @@
         "contentHash": "09ea0b0b903ad7abfd1f407e0590606bb85c05a3f222a14526d8309ce816d3d9",
         "mtime": 1785842048825
       },
-      "Nguồn/Tài liệu/Chánh điển nền tảng cho gọi vốn cộng đồng.md": {
-        "contentHash": "85967c7c03d507d2505064bc4f878f8e80bbc8c89fd4b9a1bc650086378e5fda",
-        "mtime": 1785858563157
+      "Nguồn/Tài liệu/Định nghĩa làm việc về Crowdfunding.md": {
+        "contentHash": "f4ec8eacfb31defbff0c9500a4b7f38bfe9149b9b002510055ca772d47d39a1a",
+        "mtime": 1785777861015
+      },
+      "Nguồn/Tài liệu/Khung thiết kê nền tảng cho gọi vốn cộng đồng.md": {
+        "contentHash": "1b31ae21cbcd9f4ac0a7cad2edaa9d69c1ef87581f68f8cd506a795bbf6b653b",
+        "mtime": 1785860007206
       }
     },
     "exportsUpdatedAfter": ""
