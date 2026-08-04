@@ -100,3 +100,5 @@ khổng học bổ sung một giới hạn đạo đức cho việc nhân danh c
 [^11]: https://ctext.org/analects
 
 [^12]: https://www.researchgate.net/publication/259133171_The_Dynamics_of_Crowdfunding_An_Exploratory_Study
+
+[^13]: https://iupress.istanbul.edu.tr/en/journal/jpfs/article/liturji-kamu-mallarinin-hizmetlerinin-harcamalarinin-tarihsel-ve-antik-bir-kokeni-ve-gelisimi
