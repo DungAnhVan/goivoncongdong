@@ -188,9 +188,51 @@ flowchart LR
 
 Sơ đồ là sự tổng hợp từ lý thuyết provision point, crowdfunding all-or-nothing và quản trị theo mốc; nó không hàm ý rằng mọi chiến dịch phải đi qua cùng một nhánh.[^31]
 
+**Các tiên đề thiết kế của tầng điều phối.**
 
+**Tiên đề phù hợp công nghệ.** Cơ chế tài trợ phải phản ánh cấu trúc chi phí và sản lượng của dự án. Dự án rời rạc dùng ngưỡng; dự án có thể chia nhỏ dùng biên tác động; dự án nhiều giai đoạn dùng nhiều ngưỡng.
 
+**Tiên đề cam kết có điều kiện.** Khi giá trị chỉ tồn tại nếu đủ quy mô, người góp không nên chịu chi phí không thể đảo ngược trước khi điều kiện quy mô được thỏa mãn.
 
+**Tiên đề về tính pivotal.** Giao diện phải giúp người dùng hiểu khoản của họ làm thay đổi xác suất thành công hoặc đơn vị tác động như thế nào. Những thông điệp như “còn 37 suất”, “cần thêm 16 người để mở mốc” thường có ý nghĩa phối hợp rõ hơn một tỷ lệ phần trăm trừu tượng.
+
+**Tiên đề minh bạch social proof.** Chỉ hiển thị đóng góp đã được xác thực; phân biệt cam kết, tiền đã thanh toán, matching dự kiến và tiền đã giải ngân.
+
+**Tiên đề độ rộng có trọng lượng.** Với hàng hóa công hoặc chương trình đại diện cộng đồng, số lượng người ủng hộ nên có giá trị độc lập với tổng tiền. Có thể dùng matching theo độ rộng, quadratic funding, giới hạn trọng lượng của nhà tài trợ lớn hoặc yêu cầu số người tối thiểu.
+
+**Tiên đề chống giả mạo cộng đồng.** Bất kỳ cơ chế nào thưởng cho số người phải đi kèm kiểm soát danh tính duy nhất, phát hiện thông đồng và giới hạn tác động của cụm tài khoản liên quan.
+
+**Tiên đề phương án thất bại được công bố trước.** Trước khi góp, người dùng phải biết: nếu không đạt ngưỡng thì tiền ở đâu; phí có được hoàn không; lãi phát sinh thuộc về ai; phần matching xử lý thế nào; chiến dịch có được gia hạn hoặc đổi mục tiêu hay không.
+
+## Tầng quản trị: quỹ như tài sản được ủy thác cho cam kết
+
+Giai đoạn dễ tạo cảm hứng nhất của crowdfunding là huy động. Giai đoạn quyết định đạo đức của nó lại bắt đầu sau khi tiền được thu. Khi đó, câu hỏi không còn là “có bao nhiêu người tin?” mà là “ai đang giữ tài sản của họ, theo quyền hạn nào, và điều gì ngăn người đó dùng tiền theo ý riêng?”
+
+**Vấn đề đại diện.** Jensen và Meckling mô tả chi phí đại diện phát sinh khi người ủy quyền và người đại diện có lợi ích không hoàn toàn đồng nhất, việc giám sát tốn kém và người đại diện có thông tin vượt trội. Trong crowdfunding, người góp thường phân tán, mỗi người có khoản tiền nhỏ và ít động lực tự giám sát; người gây quỹ lại kiểm soát thông tin về chi phí, tiến độ và khó khăn. Cấu trúc này làm bất cân xứng thông tin đặc biệt mạnh.[^32]
+
+Vì thế, “tin tưởng” không nên được hiểu là không cần kiểm soát. Một thiết chế đáng tin là thiết chế khiến người trung thực có thể chứng minh hành vi với chi phí hợp lý và khiến việc lạm dụng trở nên khó hơn, dễ bị phát hiện hơn và có hậu quả rõ hơn.
+
+**Ostrom và quản trị tài nguyên chung.** Nghiên cứu của Elinor Ostrom cho thấy cộng đồng có thể tự xây dựng các thiết chế bền vững thay vì chỉ lựa chọn giữa tư hữu hoàn toàn và kiểm soát nhà nước. Các nguyên tắc được rút ra từ những commons tồn tại lâu dài gồm ranh giới rõ ràng; quy tắc phù hợp điều kiện địa phương; người bị tác động được tham gia sửa quy tắc; giám sát có trách nhiệm; chế tài tăng dần; cơ chế giải quyết xung đột chi phí thấp; quyền tự tổ chức được công nhận; và với hệ thống lớn, các lớp quản trị lồng ghép.[^33]
+
+Khi chuyển sang crowdfunding, “ranh giới” là ai có quyền góp, hưởng lợi, biểu quyết và xem dữ liệu; “quy tắc phù hợp” là cơ chế giải ngân tương xứng với rủi ro; “collective choice” là quyền của cộng đồng trong những thay đổi trọng yếu; “monitoring” là dashboard, chứng từ, kiểm toán và giám sát tại chỗ; “graduated sanctions” là cảnh báo, đóng băng, giảm quyền truy cập, bồi hoàn và loại khỏi nền tảng; “nested governance” là sự phối hợp giữa người gây quỹ, nền tảng, đối tác thanh toán, kiểm toán viên, cơ quan quản lý và cộng đồng.
+
+**Hương ước như hiến pháp cộng đồng.** Hương ước Việt Nam minh họa khả năng cộng đồng tự xác lập những quy tắc có tính ràng buộc xã hội, nhưng cũng chỉ ra rằng quy tắc cộng đồng phải nằm trong khuôn khổ pháp luật rộng hơn. Nghị định 61/2023/NĐ-CP tiếp tục điều chỉnh việc xây dựng và thực hiện hương ước, quy ước; cách tiếp cận hiện đại coi đây là quy tắc do cộng đồng bàn và quyết định nhưng không được trái pháp luật và đạo đức xã hội. [^34]
+
+Đối với nền tảng, điều tương ứng là **hiến chương chiến dịch**: một văn bản có phiên bản, được công bố trước khi nhận tiền, ghi mục tiêu, ngân sách, ngưỡng, quyền thay đổi, quyền của người góp, cơ chế xử lý phần dư, tiêu chuẩn báo cáo và quy trình tranh chấp. Hiến chương này không thay thế pháp luật hoặc điều khoản nền tảng; nó cụ thể hóa lời hứa của từng chiến dịch trong các giới hạn ấy.
+
+**Năm chức năng quản trị bắt buộc.**
+
+**Ghi nhận.** Hệ thống phải lưu ai cam kết bao nhiêu, vào thời điểm nào, theo phiên bản điều khoản nào, khoản tiền đang ở trạng thái cam kết, đã thu, bị giữ, đã hoàn hay đã giải ngân. Hồ sơ cần chống sửa đổi âm thầm; mọi thay đổi mục tiêu hoặc ngân sách phải tạo phiên bản mới và nhật ký thay đổi.
+
+**Lưu ký.** Tiền chiến dịch nên được tách khỏi tài sản vận hành chung của người gây quỹ khi rủi ro và quy mô biện minh cho điều đó. Tài khoản tách biệt, escrow, ví đa chữ ký hoặc đối tác thanh toán có điều kiện là các công cụ khác nhau; điều quan trọng không phải thuật ngữ kỹ thuật mà là người gây quỹ không thể sử dụng tiền ngoài quyền đã được trao.
+
+**Phân bổ.** Ngân sách cần được chia thành các hạng mục hoặc mốc. Mỗi khoản giải ngân phải liên hệ với một quyền chi, một người phê duyệt và một bằng chứng đầu ra. Các thay đổi lớn—chẳng hạn chuyển tiền từ xây dựng sang marketing—phải kích hoạt quy trình chấp thuận đã định trước.
+
+**Báo cáo.** Báo cáo nên kết nối dòng tiền với đầu ra và kết quả. Chứng từ phải được chuẩn hóa đủ để so sánh nhưng không yêu cầu công khai dữ liệu nhạy cảm của người hưởng lợi. Báo cáo thất bại, chậm trễ và sai lệch ngân sách phải được xem là phần bình thường của quản trị, không phải lời thú tội chỉ xuất hiện khi scandal xảy ra.
+
+**Sử dụng đúng cam kết và khắc phục.** Nền tảng phải xác định thế nào là thay đổi chấp nhận được, thế nào là vi phạm, ai có quyền khiếu nại, thời hạn điều tra, tiêu chuẩn chứng cứ, quyền hoàn tiền, cách xử lý tài sản còn lại và chế tài đối với người vi phạm.
+
+**Các trường hợp nền tảng hiện đại.** Kickstarter kết hợp all-or-nothing với nghĩa vụ của creator phải nỗ lực hoàn thành dự án, giao phần thưởng và giao tiếp trung thực với backers; tuy nhiên, đây không phải một hệ thống bảo đảm mọi dự án sẽ thành công.[^35]
 
 
 
@@ -256,3 +298,11 @@ Sơ đồ là sự tổng hợp từ lý thuyết provision point, crowdfunding 
 [^30]: https://arxiv.org/abs/1809.06421
 
 [^31]: https://authors.library.caltech.edu/records/wp12c-t9x22/latest
+
+[^32]: [****](https://www.sciencedirect.com/science/article/pii/0304405X7690026X)
+
+[^33]: https://www.nobelprize.org/uploads/2018/06/ostrom_lecture.pdf
+
+[^34]: https://moj.gov.vn/UserControls/News/pFormPrint.aspx?ItemID=2643&ListId=75a8df79-a725-4fd5-9592-517f443c27b6&SiteId=b11f9e79-d495-439f-98e6-4bd81e36adc9&SiteRootID=b71e67e4-9250-47a7-96d6-64e9cb69ccf3&UrlListProcess=%2Fqt%2Ftintuc%2FLists%2FNghienCuuTraoDoi
+
+[^35]: https://help.kickstarter.com/hc/en-us/articles/115005028834-What-is-a-creator-obligated-to-do-once-their-project-is-funded
