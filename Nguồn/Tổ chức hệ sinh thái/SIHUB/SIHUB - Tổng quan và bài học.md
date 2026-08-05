@@ -1,61 +1,59 @@
 # SIHUB — Tổng quan và bài học
 
-> Hồ sơ nghiên cứu ngày 05/08/2026.  
-> Mục tiêu: hiểu rõ vị trí, tài sản và điểm giao của SIHUB với dự án Gọi vốn cộng đồng.
+> Hồ sơ ngày 05/08/2026.  
+> Mục tiêu: nhìn thẳng bản chất SIHUB và vị trí thực sự của nó so với dự án Gọi vốn cộng đồng.
 
-## 1. Bản chất tổ chức
+## 1. Bản chất
 
-**SIHUB** (Startup & Innovation Hub of Ho Chi Minh City) là **Trung tâm Khởi nghiệp sáng tạo Thành phố Hồ Chí Minh**, đơn vị sự nghiệp công lập trực thuộc **Sở Khoa học và Công nghệ TP.HCM**.
+SIHUB là **cỗ máy nhà nước** của TP.HCM về khởi nghiệp sáng tạo.  
+Đơn vị sự nghiệp công lập trực thuộc Sở Khoa học và Công nghệ. Tòa nhà 17.000 m² ở 123 Trương Định là hạ tầng vật lý do thành phố đầu tư, được gọi là “ngôi nhà chung” của hệ sinh thái.
 
-Đây là tổ chức nhà nước chính thức của thành phố về khởi nghiệp và đổi mới sáng tạo. Tòa nhà chính tại 123 Trương Định, phường Xuân Hòa (gần 17.000 m²) được định vị là “ngôi nhà chung” của hệ sinh thái startup TP.HCM.
+**Thay đổi quan trọng nhất năm 2026:**  
+Tháng 5/2026, UBND TP.HCM quyết định **sáp nhập BSSC (và CISAST) vào SIHUB**.  
+BSSC – đơn vị từng tổ chức Startup Wheel – giờ không còn độc lập. Lãnh đạo BSSC cũ trở thành Phó Giám đốc SIHUB. Startup Wheel về mặt tổ chức đã nằm dưới SIHUB.
 
-**Điểm quan trọng năm 2026:** Theo Quyết định của UBND TP.HCM, SIHUB đã **sáp nhập** Trung tâm Hỗ trợ Thanh niên Khởi nghiệp (**BSSC**) và Trung tâm Thông tin, Thống kê và Ứng dụng tiến bộ KHCN (**CISAST**). Từ tháng 5/2026, BSSC chính thức trở thành một phần của SIHUB.
+Tóm lại: SIHUB là tầng hành chính và hạ tầng cao hơn. BSSC/Startup Wheel giờ chỉ còn là một bộ phận bên trong.
 
-## 2. Tài sản cốt lõi
+## 2. Họ mạnh cái gì, yếu cái gì
 
-| Lớp năng lực                    | Đánh giá sơ bộ     | Ý nghĩa tham khảo cho dự án của anh                          | Lưu ý khi đối chiếu                          |
-|---------------------------------|--------------------|--------------------------------------------------------------|----------------------------------------------|
-| Hạ tầng vật lý & không gian     | Rất mạnh           | Có tòa nhà lớn, phòng họp, khu trưng bày, không gian làm việc | Cơ chế xét chọn tổ chức vào sử dụng không gian |
-| Vai trò chính sách & nhà nước   | Rất mạnh           | Đầu mối lan tỏa chính sách hỗ trợ, vốn mồi không hoàn lại    | Mang tính công vụ, quy trình hành chính      |
-| Mạng lưới & kết nối             | Mạnh (sau sáp nhập)| Kế thừa mạng lưới BSSC + đối tác quốc tế (Hàn Quốc, Đức…)    | Cần phân biệt kết nối với cam kết tài chính  |
-| Ươm tạo / tăng tốc / đào tạo    | Mạnh               | Có chương trình ươm tạo, khóa đào tạo, hỗ trợ SME            | Tập trung hỗ trợ kỹ thuật & chính sách hơn là gọi vốn |
-| Hợp tác quốc tế                 | Mạnh               | Nhiều MoU, đối tác đại học và technopark Hàn Quốc            | Chủ yếu công nghệ & chuyển giao              |
-| Minh bạch dữ liệu outcome       | Còn hạn chế        | Số liệu hệ sinh thái TP.HCM được công bố, nhưng outcome từng chương trình chưa chi tiết | Cơ hội bổ sung evidence ledger               |
+| Tài sản                        | Thực tế                              | Ý nghĩa với dự án của anh                              |
+|--------------------------------|--------------------------------------|--------------------------------------------------------|
+| Tòa nhà & không gian           | Rất mạnh                             | Có chỗ để tổ chức sự kiện, trưng bày, làm việc         |
+| Vai trò nhà nước & chính sách  | Rất mạnh                             | Họ phân phối vốn mồi không hoàn lại và lan tỏa chính sách |
+| Mạng lưới sau sáp nhập         | Mạnh hơn trước                       | Kế thừa mạng lưới BSSC + đối tác quốc tế               |
+| Ươm tạo / đào tạo              | Có chương trình                      | Chủ yếu hỗ trợ kỹ thuật và kỹ năng, không phải gọi vốn |
+| Cam kết tiền thật từ cộng đồng | Gần như không có                     | Họ không làm cơ chế crowdfunding thực chất             |
+| Minh bạch outcome từng dự án   | Yếu                                  | Số liệu hệ sinh thái có, nhưng kết quả cụ thể từng chương trình mờ |
 
-## 3. Quan hệ với BSSC và Startup Wheel
+## 3. So với dự án Gọi vốn cộng đồng
 
-- Trước tháng 5/2026: BSSC (thuộc Hội LHTN) độc lập, tổ chức Startup Wheel.
-- Từ tháng 5/2026: BSSC được sáp nhập vào SIHUB. Lãnh đạo BSSC cũ (bà Nguyễn Thị Diệu Hằng và cộng sự) trở thành Phó Giám đốc SIHUB.
-- Startup Wheel về mặt tổ chức giờ nằm dưới “mái nhà” SIHUB, dù thương hiệu và cách vận hành có thể vẫn giữ nét riêng.
+| Khía cạnh          | SIHUB                                      | Dự án của anh                                      |
+|--------------------|--------------------------------------------|----------------------------------------------------|
+| Bản chất           | Hạ tầng + chính sách + cỗ máy nhà nước     | Cơ chế cam kết tiền thật + quản trị + evidence     |
+| Tiền               | Vốn mồi nhà nước (không hoàn lại) + kết nối quỹ | Tiền cộng đồng có điều kiện, có hoàn trả, có escrow |
+| Vai trò            | Phân phối nguồn lực công và không gian     | Tạo thiết chế tin cậy giữa người góp và người nhận |
+| Điểm mạnh          | Quy mô, chính thống, hạ tầng               | Minh bạch, cam kết rõ, có thể kiểm chứng           |
+| Điểm yếu           | Quy trình hành chính, thiếu cơ chế tiền thật từ cộng đồng | Chưa có mạng lưới và không gian sẵn                |
 
-→ SIHUB hiện là **tầng cao hơn** về mặt hành chính và hạ tầng so với Startup Wheel trước đây.
+## 4. Kết luận thẳng
 
-## 4. Điểm giao với dự án Gọi vốn cộng đồng
+- SIHUB **không phải đối thủ** của mô hình gọi vốn cộng đồng.  
+- Họ cũng **không phải nền tảng crowdfunding**.  
+- Họ là **cỗ máy nhà nước + hạ tầng + mạng lưới** sau khi nuốt BSSC.
 
-| Khía cạnh           | SIHUB                                              | Hướng tiếp cận của dự án Gọi vốn cộng đồng              |
-|---------------------|----------------------------------------------------|---------------------------------------------------------|
-| Bản chất            | Hạ tầng + chính sách + kết nối nhà nước            | Thiết chế + cơ chế cam kết tiền thật + quản trị         |
-| Vai trò tiền        | Vốn mồi không hoàn lại (nhà nước), kết nối quỹ     | Dòng tiền cộng đồng có điều kiện, escrow, evidence     |
-| Không gian & mạng lưới | Mạnh (tòa nhà + mạng lưới sau sáp nhập)         | Chưa có                                        |
-| Minh bạch & quản trị| Theo quy trình công vụ                             | Evidence ledger, versioning, hiến chương chiến dịch    |
-| Vị trí chiến lược   | Downstream channel / đối tác không gian & chính sách | Cơ chế lõi khác biệt                                   |
+Cách dùng đúng:
+- Coi họ là **kênh downstream** (không gian, sự kiện, chính sách).
+- Đưa những dự án đã có bằng chứng nhu cầu và cam kết thật lên sân của họ.
+- Không kỳ vọng họ sẽ làm thay phần cơ chế tiền thật và minh bạch – đó là việc của anh.
 
-## 5. Định hướng tiếp cận
+Nếu dự án của anh muốn khác biệt rõ, thì phải giữ cứng phần **cam kết tiền thật + evidence ledger + quản trị**. Đó là chỗ SIHUB (và Startup Wheel trước đây) không làm hoặc làm rất yếu.
 
-- **Không cạnh tranh trực tiếp.** SIHUB là tổ chức nhà nước về hạ tầng và chính sách.
-- Có thể xem xét hợp tác theo hướng:
-  - Sử dụng không gian / sự kiện của SIHUB cho các dự án đã có bằng chứng nhu cầu.
-  - Học hỏi cách họ tổ chức xét chọn tổ chức vào tòa nhà và triển khai vốn mồi.
-  - Theo dõi sự thay đổi của Startup Wheel sau khi BSSC sáp nhập.
-- Thiết kế cơ chế gọi vốn cộng đồng vẫn cần giữ sự khác biệt rõ về **cam kết tiền thật + minh bạch + quản trị**.
+## 5. Nguồn
 
-## 6. Nguồn tham khảo chính
-
-- Website: https://sihub.gov.vn/
-- Facebook: https://www.facebook.com/sihub123
-- Quyết định tổ chức lại và sáp nhập BSSC (tháng 4–5/2026)
-- Các tin chính thức từ Sở KH&CN TP.HCM và báo chí địa phương
+- sihub.gov.vn
+- Quyết định sáp nhập BSSC vào SIHUB (tháng 4–5/2026)
+- Các tin chính thức Sở KH&CN TP.HCM và báo chí địa phương
 
 ---
 
-*Note được soạn để thuận tiện theo dõi trong Obsidian. Chi tiết sẽ được bổ sung khi có file Excel dossier.*
+*Note viết thẳng để người đọc nhìn rõ bản chất, không vòng vo.*
