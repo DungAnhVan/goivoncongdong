@@ -11,15 +11,15 @@ Startup Wheel là chương trình hỗ trợ khởi nghiệp thường niên do 
 
 ## 2. Tài sản cốt lõi
 
-| Lớp năng lực                    | Đánh giá sơ bộ | Ý nghĩa tham khảo cho dự án của anh                     | Lưu ý khi đối chiếu                          |
-|---------------------------------|----------------|---------------------------------------------------------|----------------------------------------------|
-| Funnel dự án                    | Mạnh           | Có nguồn dự án lớn và thương hiệu đầu vào rõ ràng      | Cần phân biệt quy mô với chất lượng sàng lọc |
-| Cơ chế tạo tín hiệu uy tín      | Mạnh           | Giúp dự án dễ tiếp cận đối tác sau khi được chọn       | Tín hiệu chương trình khác với kiểm định độc lập |
-| Mạng lưới vốn & doanh nghiệp    | Mạnh           | Có kênh gặp gỡ nhà đầu tư và doanh nghiệp              | Cần làm rõ mức độ cam kết thực tế            |
-| InnoEx & kênh phân phối offline | Mạnh           | Tạo điểm hội tụ startup – doanh nghiệp – nhà đầu tư    | Hiệu quả phụ thuộc vào chuyển đổi sau sự kiện |
-| Alumni network                  | Trung bình–Mạnh| Có thể tái sử dụng câu chuyện thành công để củng cố thương hiệu | Nên theo dõi outcome dài hạn của alumni      |
-| Kinh nghiệm crowdfunding        | Có lịch sử     | Đã thử nghiệm crowd signal qua FundingVN nhiều mùa     | Phần lớn giai đoạn dùng tín hiệu ảo          |
-| Minh bạch dữ liệu công khai     | Còn hạn chế    | Đây là khoảng trống có thể bổ sung                     | Số liệu quy mô đôi khi chưa thống nhất giữa các trang |
+| Lớp năng lực                    | Đánh giá sơ bộ  | Ý nghĩa tham khảo cho dự án của anh                             | Lưu ý khi đối chiếu                                   |
+| ------------------------------- | --------------- | --------------------------------------------------------------- | ----------------------------------------------------- |
+| Funnel dự án                    | Mạnh            | Có nguồn dự án lớn và thương hiệu đầu vào rõ ràng               | Cần phân biệt quy mô với chất lượng sàng lọc          |
+| Cơ chế tạo tín hiệu uy tín      | Mạnh            | Giúp dự án dễ tiếp cận đối tác sau khi được chọn                | Tín hiệu chương trình khác với kiểm định độc lập      |
+| Mạng lưới vốn & doanh nghiệp    | Mạnh            | Có kênh gặp gỡ nhà đầu tư và doanh nghiệp                       | Cần làm rõ mức độ cam kết thực tế                     |
+| InnoEx & kênh phân phối offline | Mạnh            | Tạo điểm hội tụ startup – doanh nghiệp – nhà đầu tư             | Hiệu quả phụ thuộc vào chuyển đổi sau sự kiện         |
+| Alumni network                  | Trung bình–Mạnh | Có thể tái sử dụng câu chuyện thành công để củng cố thương hiệu | Nên theo dõi outcome dài hạn của alumni               |
+| Kinh nghiệm crowdfunding        | Có lịch sử      | Đã thử nghiệm crowd signal qua FundingVN nhiều mùa              | Phần lớn giai đoạn dùng tín hiệu ảo                   |
+| Minh bạch dữ liệu công khai     | Còn hạn chế     | Đây là khoảng trống có thể bổ sung                              | Số liệu quy mô đôi khi chưa thống nhất giữa các trang |
 
 ## 3. Lịch sử liên quan đến Crowdfunding
 
