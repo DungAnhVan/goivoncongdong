@@ -1,7 +1,7 @@
 # SIHUB — Tổng quan và bài học
 
 > Hồ sơ ngày 05/08/2026.  
-> Mục tiêu: nhìn thẳng bản chất SIHUB và vị trí thực sự của nó so với dự án Gọi vốn cộng đồng.
+> Mục tiêu: nhìn thẳng bản chất SIHUB và vị trí thực sự của nó so với nền tảng Gọi vốn cộng đồng.
 
 ## 1. Bản chất
 
@@ -16,7 +16,7 @@ Tóm lại: SIHUB là tầng hành chính và hạ tầng cao hơn. BSSC/Startup
 
 ## 2. Họ mạnh cái gì, yếu cái gì
 
-| Tài sản                        | Thực tế                              | Ý nghĩa với dự án của anh                              |
+| Tài sản                        | Thực tế                              | Ý nghĩa với nền tảng Gọi vốn cộng đồng                 |
 |--------------------------------|--------------------------------------|--------------------------------------------------------|
 | Tòa nhà & không gian           | Rất mạnh                             | Có chỗ để tổ chức sự kiện, trưng bày, làm việc         |
 | Vai trò nhà nước & chính sách  | Rất mạnh                             | Họ phân phối vốn mồi không hoàn lại và lan tỏa chính sách |
@@ -25,9 +25,9 @@ Tóm lại: SIHUB là tầng hành chính và hạ tầng cao hơn. BSSC/Startup
 | Cam kết tiền thật từ cộng đồng | Gần như không có                     | Họ không làm cơ chế crowdfunding thực chất             |
 | Minh bạch outcome từng dự án   | Yếu                                  | Số liệu hệ sinh thái có, nhưng kết quả cụ thể từng chương trình mờ |
 
-## 3. So với dự án Gọi vốn cộng đồng
+## 3. So với nền tảng Gọi vốn cộng đồng
 
-| Khía cạnh          | SIHUB                                      | Dự án của anh                                      |
+| Khía cạnh          | SIHUB                                      | Nền tảng Gọi vốn cộng đồng                         |
 |--------------------|--------------------------------------------|----------------------------------------------------|
 | Bản chất           | Hạ tầng + chính sách + cỗ máy nhà nước     | Cơ chế cam kết tiền thật + quản trị + evidence     |
 | Tiền               | Vốn mồi nhà nước (không hoàn lại) + kết nối quỹ | Tiền cộng đồng có điều kiện, có hoàn trả, có escrow |
@@ -44,9 +44,9 @@ Tóm lại: SIHUB là tầng hành chính và hạ tầng cao hơn. BSSC/Startup
 Cách dùng đúng:
 - Coi họ là **kênh downstream** (không gian, sự kiện, chính sách).
 - Đưa những dự án đã có bằng chứng nhu cầu và cam kết thật lên sân của họ.
-- Không kỳ vọng họ sẽ làm thay phần cơ chế tiền thật và minh bạch – đó là việc của anh.
+- Không kỳ vọng họ sẽ làm thay phần cơ chế tiền thật và minh bạch – đó là việc của **nền tảng**.
 
-Nếu dự án của anh muốn khác biệt rõ, thì phải giữ cứng phần **cam kết tiền thật + evidence ledger + quản trị**. Đó là chỗ SIHUB (và Startup Wheel trước đây) không làm hoặc làm rất yếu.
+Nếu nền tảng muốn khác biệt rõ, thì phải giữ cứng phần **cam kết tiền thật + evidence ledger + quản trị**. Đó là chỗ SIHUB (và Startup Wheel trước đây) không làm hoặc làm rất yếu.
 
 ## 5. Nguồn
 
