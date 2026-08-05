@@ -53,7 +53,3 @@ Nếu nền tảng muốn khác biệt rõ, thì phải giữ cứng phần **ca
 - sihub.gov.vn
 - Quyết định sáp nhập BSSC vào SIHUB (tháng 4–5/2026)
 - Các tin chính thức Sở KH&CN TP.HCM và báo chí địa phương
-
----
-
-*Note viết thẳng để người đọc nhìn rõ bản chất, không vòng vo.*
