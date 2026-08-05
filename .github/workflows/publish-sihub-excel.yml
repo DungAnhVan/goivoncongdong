@@ -1,19 +1,21 @@
 name: Publish SIHUB Excel
 
 on:
-  push:
-    paths:
-      - '.github/workflows/publish-sihub-excel.yml'
+  issues:
+    types: [opened]
 
 permissions:
   contents: write
 
 jobs:
   publish:
+    if: github.event.issue.title == '[automation] Publish SIHUB Excel'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          ref: main
 
       - name: Rebuild workbook from prepared Git blob
         env:
