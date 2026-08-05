@@ -1,6 +1,6 @@
 # Startup Wheel — Tổng quan và bài học
 
-> Hồ sơ nghiên cứu ngày 04/08/2026.  
+> Hồ sơ nghiên cứu ngày 04/08/2026 (cập nhật trạng thái FundingVN ngày 05/08/2026).  
 > Mục tiêu: hiểu rõ mô hình hoạt động, tài sản và điểm giao với dự án Gọi vốn cộng đồng.
 
 ## 1. Bản chất chương trình
@@ -18,7 +18,7 @@ Startup Wheel là chương trình hỗ trợ khởi nghiệp thường niên do 
 | Mạng lưới vốn & doanh nghiệp    | Mạnh           | Có kênh gặp gỡ nhà đầu tư và doanh nghiệp              | Cần làm rõ mức độ cam kết thực tế            |
 | InnoEx & kênh phân phối offline | Mạnh           | Tạo điểm hội tụ startup – doanh nghiệp – nhà đầu tư    | Hiệu quả phụ thuộc vào chuyển đổi sau sự kiện |
 | Alumni network                  | Trung bình–Mạnh| Có thể tái sử dụng câu chuyện thành công để củng cố thương hiệu | Nên theo dõi outcome dài hạn của alumni      |
-| Kinh nghiệm crowdfunding        | Có lịch sử     | Đã thử nghiệm crowd signal qua FundingVN nhiều mùa     | Phần lớn giai đoạn dùng tín hiệu ảo          |
+| Kinh nghiệm crowdfunding        | Có lịch sử     | Đã thử nghiệm crowd signal qua FundingVN nhiều mùa     | Phần lớn giai đoạn dùng tín hiệu ảo; nền tảng hiện đã offline |
 | Minh bạch dữ liệu công khai     | Còn hạn chế    | Đây là khoảng trống có thể bổ sung                     | Số liệu quy mô đôi khi chưa thống nhất giữa các trang |
 
 ## 3. Lịch sử liên quan đến Crowdfunding
@@ -28,9 +28,10 @@ Từ 2013 đến khoảng 2021, Startup Wheel đã tích hợp thực hành huy 
 - Nhiều mùa sử dụng hình thức tiền ảo (ví được cấp sẵn) để tạo tín hiệu và chấm điểm.
 - Năm 2015, vòng crowdfunding chiếm tỷ trọng 10% điểm chung cuộc.
 - Giai đoạn 2018–2019 có quy trình và gói quyền lợi tương đối rõ ràng, nhưng vẫn mang tính thực hành/mô phỏng.
-- Đến 2026, website Funding.vn vẫn còn hoạt động với form đăng ký và dấu vết thanh toán, tuy nhiên chưa công bố số liệu về khối lượng giao dịch, tỷ lệ thành công hay hoàn trả.
 
-Đây là điểm đáng chú ý khi thiết kế cơ chế gọi vốn cộng đồng: tín hiệu dựa trên tiền ảo đo lường khả năng vận động nhiều hơn mức sẵn sàng chi trả thực tế.
+**Cập nhật 05/08/2026:** Domain funding.vn hiện không còn resolve được (DNS no such host). Website đã offline hoàn toàn. Trước đó nội dung còn được lưu trên search engine, nhưng nền tảng không còn hoạt động công khai.
+
+Đây là điểm đáng chú ý khi thiết kế cơ chế gọi vốn cộng đồng: tín hiệu dựa trên tiền ảo đo lường khả năng vận động nhiều hơn mức sẵn sàng chi trả thực tế. Việc nền tảng đã dừng hoạt động cũng cho thấy rủi ro duy trì hạ tầng sau giai đoạn thử nghiệm.
 
 ## 4. Mạng lưới chính (2026)
 
@@ -63,7 +64,7 @@ Từ 2013 đến khoảng 2021, Startup Wheel đã tích hợp thực hành huy 
 ## 6. Khoảng trống có thể tham khảo
 
 1. Chưa có bảng điểm công khai và theo dõi outcome theo từng cohort.
-2. Kinh nghiệm crowdfunding lịch sử chủ yếu dựa trên tín hiệu ảo.
+2. Kinh nghiệm crowdfunding lịch sử chủ yếu dựa trên tín hiệu ảo; nền tảng FundingVN đã offline.
 3. Danh sách nhà tài trợ cần được phân loại rõ giữa hỗ trợ hiện vật/dịch vụ và cam kết đầu tư.
 4. Một số chỉ số quy mô công bố trên các trang chưa hoàn toàn thống nhất.
 5. Chưa có hệ thống evidence ledger và versioning công khai.
@@ -80,8 +81,8 @@ Những điểm trên có thể là hướng bổ sung khi thiết kế cơ ch�
 ## 8. Tài liệu gốc
 
 - File Excel chi tiết: [[Startup Wheel - Deep Evidence Dossier 2026-08-04.xlsx]]
-- Ngày chốt dữ liệu: 04/08/2026
-- Nguồn tham khảo chính: startupwheel.vn, funding.vn, InnoEx, BSSC và các nguồn đối chiếu độc lập.
+- Ngày chốt dữ liệu: 04/08/2026 (cập nhật trạng thái FundingVN: 05/08/2026)
+- Nguồn tham khảo chính: startupwheel.vn, InnoEx, BSSC và các nguồn đối chiếu độc lập.
 
 ---
 
