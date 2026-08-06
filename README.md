@@ -14,6 +14,20 @@ Ghi chú trung tâm của dự án là:
 
 Từ ghi chú trung tâm, nội dung được tách sang các thư mục theo **vai trò tư duy** bên dưới.
 
+## Onboarding tài chính và quản lý quỹ
+
+Thành viên mới tham gia các phần tài chính, pháp lý, vận hành dòng tiền hoặc giám sát dự án nên bắt đầu tại:
+
+- [`Tài chính và quản lý quỹ — Bản đồ thuật ngữ`](./00%20L%C3%A0%20g%C3%AC/T%C3%A0i%20ch%C3%ADnh%20v%C3%A0%20qu%E1%BA%A3n%20l%C3%BD%20qu%E1%BB%B9%20-%20B%E1%BA%A3n%20%C4%91%E1%BB%93%20thu%E1%BA%ADt%20ng%E1%BB%AF.md) — bản đồ tổng thể, thứ tự học và ma trận vai trò.
+- [`Fund management`](./00%20L%C3%A0%20g%C3%AC/Fund%20management.md) — phân biệt quản trị quỹ, quản lý đầu tư, hành chính quỹ và giữ tài sản.
+- [`Custody và safeguarding`](./00%20L%C3%A0%20g%C3%AC/Custody%20v%C3%A0%20safeguarding.md) — ai thực sự giữ tiền và cách bảo vệ tiền được giao.
+- [`Restricted funds`](./00%20L%C3%A0%20g%C3%AC/Restricted%20funds.md) — tiền bị ràng buộc mục đích khác tiền được tự do phân bổ như thế nào.
+- [`Disbursement`](./00%20L%C3%A0%20g%C3%AC/Disbursement.md) — điều kiện, phê duyệt và bằng chứng để giải ngân.
+- [`Escrow`](./00%20L%C3%A0%20g%C3%AC/Escrow.md) — bên thứ ba giữ tiền cho đến khi điều kiện được đáp ứng.
+- [`Internal financial controls`](./00%20L%C3%A0%20g%C3%AC/Internal%20financial%20controls.md) — phân tách nhiệm vụ, hai bước phê duyệt, đối soát và dấu vết kiểm toán.
+
+> **Nguyên tắc nhập môn:** Không bàn “làm sao gọi được tiền” trước khi trả lời được: tiền thuộc về ai, ai giữ, ai quyết định, bị ràng buộc bởi mục đích nào và bằng chứng nào cho phép giải ngân.
+
 ## Cấu trúc kho tri thức
 
 | Thư mục | Vai trò | Câu hỏi mà thư mục trả lời |
