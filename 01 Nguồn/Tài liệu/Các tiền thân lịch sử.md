@@ -4,6 +4,8 @@ Waqf trong truyền thống Hồi giáo là tài sản được dành riêng lâ
 
 Trong lịch sử Việt Nam, hương ước và lệ làng hoạt động như những văn bản chuẩn tắc do cộng đồng làng xã kiến tạo để điều chỉnh quan hệ, bảo vệ sản xuất, đê điều, rừng, môi trường, an ninh và phong tục. Bộ Tư pháp mô tả đây là một sản phẩm văn hóa - pháp lý của cộng đồng cư dân, đồng thời nhấn mạnh cả giá trị tự quản lẫn nguy cơ áp đặt, cục bộ và xung đột với pháp luật nhà nước. [^3]
 
+[[friendly societies|Friendly societies]] tại Anh là một tiền thân quan trọng của mô hình quỹ thành viên và tương trợ có tổ chức. Thành viên cùng đóng góp vào quỹ chung trước khi rủi ro xảy ra, thống nhất quy tắc hưởng lợi và dùng lịch sử tham gia để tạo niềm tin lâu dài. Điểm này giúp phân biệt quỹ tương trợ thành viên với một chiến dịch quyên góp đơn lẻ.
+
 Chiến dịch gây quỹ cho bệ Tượng Nữ thần Tự do năm 1885 là một trường hợp gần với crowdfunding hiện đại hơn. Joseph Pulitzer dùng báo chí để mời các khoản đóng góp nhỏ và công bố tên người góp; hơn 100,000 USD được huy động trong khoảng sáu tháng, với khoảng 120,000 người tham gia theo hồ sơ của các tổ chức lịch sử liên quan. Cơ chế này kết hợp một mục tiêu hữu hình, ngưỡng kinh phí, truyền thông đại chúng, đóng góp nhỏ và ghi nhận công khai. [^4]
 
 
