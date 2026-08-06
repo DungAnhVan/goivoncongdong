@@ -44,6 +44,35 @@ Thành viên làm việc với cơ quan nhà nước, chương trình hỗ trợ
 
 > **Nguyên tắc nhập môn:** Không dùng cụm “được Nhà nước hỗ trợ” trước khi xác định đó là grant, subsidy, matching, khoản vay, bảo lãnh, mua sắm công, cấp tài sản hay sandbox.
 
+## Onboarding bằng chứng và kiểm chứng
+
+Thành viên tham gia thẩm định, thiết kế milestone, đánh giá nhu cầu hoặc ra quyết định dựa trên dữ liệu nên bắt đầu tại:
+
+- [`Bằng chứng và kiểm chứng — Bản đồ thuật ngữ`](./00%20L%C3%A0%20g%C3%AC/B%E1%BA%B1ng%20ch%E1%BB%A9ng%20v%C3%A0%20ki%E1%BB%83m%20ch%E1%BB%A9ng%20-%20B%E1%BA%A3n%20%C4%91%E1%BB%93%20thu%E1%BA%ADt%20ng%E1%BB%AF.md).
+- [`Onboarding bằng chứng và kiểm chứng`](./06%20Th%E1%BB%B1c%20l%C3%A0m/Onboarding%20b%E1%BA%B1ng%20ch%E1%BB%A9ng%20v%C3%A0%20ki%E1%BB%83m%20ch%E1%BB%A9ng.md).
+
+> **Nguyên tắc nhập môn:** Mỗi claim quan trọng phải chỉ ra evidence requirement, provenance, người kiểm tra, tiêu chí đạt và quyết định phụ thuộc vào kết quả.
+
+## Onboarding thang cam kết và tín hiệu
+
+Thành viên làm cộng đồng, demand validation, truyền thông hoặc thiết kế cơ chế tham gia nên bắt đầu tại:
+
+- [`Thang cam kết và tín hiệu — Bản đồ thuật ngữ`](./00%20L%C3%A0%20g%C3%AC/Thang%20cam%20k%E1%BA%BFt%20v%C3%A0%20t%C3%ADn%20hi%E1%BB%87u%20-%20B%E1%BA%A3n%20%C4%91%E1%BB%93%20thu%E1%BA%ADt%20ng%E1%BB%AF.md).
+- [`Onboarding thang cam kết và tín hiệu`](./06%20Th%E1%BB%B1c%20l%C3%A0m/Onboarding%20thang%20cam%20k%E1%BA%BFt%20v%C3%A0%20t%C3%ADn%20hi%E1%BB%87u.md).
+
+> **Nguyên tắc nhập môn:** Không gọi mọi lượt chú ý, lời ủng hộ, pledge, contribution, purchase và investment bằng cùng một chữ “ủng hộ”.
+
+## Onboarding nguồn lực ngoài tiền
+
+Thành viên điều phối chuyên gia, dữ liệu, thiết bị, địa điểm, hạ tầng hoặc quyền tiếp cận nên bắt đầu tại:
+
+- [`Nguồn lực ngoài tiền — Bản đồ thuật ngữ`](./00%20L%C3%A0%20g%C3%AC/Ngu%E1%BB%93n%20l%E1%BB%B1c%20ngo%C3%A0i%20ti%E1%BB%81n%20-%20B%E1%BA%A3n%20%C4%91%E1%BB%93%20thu%E1%BA%ADt%20ng%E1%BB%AF.md).
+- [`Multi-resource matching`](./00%20L%C3%A0%20g%C3%AC/Multi-resource%20matching.md) — ghép nhu cầu dự án với tổ hợp nguồn lực khả thi.
+- [`Resource pledge lifecycle`](./00%20L%C3%A0%20g%C3%AC/Resource%20pledge%20lifecycle.md) — theo dõi từ lời hứa đến reserve, delivery, acceptance và kết thúc.
+- [`Onboarding nguồn lực ngoài tiền`](./06%20Th%E1%BB%B1c%20l%C3%A0m/Onboarding%20ngu%E1%BB%93n%20l%E1%BB%B1c%20ngo%C3%A0i%20ti%E1%BB%81n.md).
+
+> **Nguyên tắc nhập môn:** Không quy mọi nguồn lực ra tiền trước khi mô tả được loại nguồn lực, quyền sử dụng, thời gian, công suất, điều kiện, trạng thái bàn giao và bằng chứng sử dụng.
+
 ## Cấu trúc kho tri thức
 
 | Thư mục | Vai trò | Câu hỏi mà thư mục trả lời |
