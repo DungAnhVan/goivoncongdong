@@ -83,7 +83,47 @@ Thứ tự độ mạnh gợi ý:
 
 Lượt thích, bình chọn hoặc câu trả lời “tôi sẽ dùng” chỉ là tín hiệu yếu nếu không kéo theo chi phí hoặc cam kết.
 
-## 5. Need không tự động tạo demand
+## 5. Ranh giới với thang cam kết và signaling
+
+Demand validation hỏi:
+
+> Một offer cụ thể có tạo hành vi thật ở target segment không?
+
+Các node mới tách tiếp hành vi đó:
+
+```text
+[[Commitment ladder]]
+→ hành vi nằm ở cấp nào?
+
+[[Soft commitment và hard commitment]]
+→ cam kết bị ràng buộc mạnh đến đâu?
+
+[[Costly signaling và cheap talk]]
+→ hành vi truyền thông tin gì và có dễ giả không?
+
+[[Social proof và authentic social proof]]
+→ hành vi người khác ảnh hưởng quyết định ra sao?
+
+[[Conditional cooperation]]
+→ cam kết phụ thuộc mức tham gia của người khác thế nào?
+```
+
+Không dùng demand validation để thay thế các phân tích trên. Ngược lại, có một commitment cấp cao cũng chưa đủ kết luận demand nếu actor không thuộc target segment, có lợi ích liên quan hoặc phản ứng với một offer khác.
+
+Ví dụ:
+
+```text
+Nhà đầu tư rót 2 tỷ
+→ hard financial commitment
+→ costly signal về kỳ vọng đầu tư
+→ nhưng không tự chứng minh end-user demand
+
+20 khách hàng độc lập ký pilot trả phí
+→ transaction commitment
+→ demand signal phù hợp hơn với claim willingness to pay
+```
+
+## 6. Need không tự động tạo demand
 
 Một vấn đề có thể rất thật nhưng thị trường vẫn không hình thành vì:
 
@@ -108,7 +148,7 @@ Affected community
 
 Xem thêm [[Beneficiary và target population]], [[Consumer, customer và end user]] và [[Affected community]].
 
-## 6. Thiết kế một test demand có giá trị
+## 7. Thiết kế một test demand có giá trị
 
 Một test phải công bố trước:
 
@@ -117,6 +157,8 @@ Một test phải công bố trước:
 | Segment | Ai được mời tham gia? |
 | Offer | Họ đang phản ứng với đề nghị cụ thể nào? |
 | Price/commitment | Giá, đặt cọc hoặc nghĩa vụ là gì? |
+| Expected commitment stage | Test muốn quan sát Interest, Trial, Pre-commitment hay Purchase? |
+| Hardness | Quyền rút và hậu quả là gì? |
 | Channel | Tiếp cận qua đâu? |
 | Time window | Trong khoảng thời gian nào? |
 | Success threshold | Bao nhiêu hành vi được coi là đủ? |
@@ -125,7 +167,7 @@ Một test phải công bố trước:
 
 Không được gọi một khảo sát chung chung là demand validation nếu người trả lời chưa thấy offer, giá hoặc điều kiện thực tế.
 
-## 7. Ví dụ áp dụng
+## 8. Ví dụ áp dụng
 
 ### Ví dụ yếu
 
@@ -141,6 +183,7 @@ Vấn đề:
 - Không biết họ có vấn đề gì cụ thể.
 - Không có offer thực tế.
 - Không có hành vi cam kết.
+- Social proof bị dùng thay demand validation.
 
 ### Ví dụ tốt hơn
 
@@ -155,10 +198,13 @@ Demand test:
 - demo workflow cụ thể;
 - mức phí 30.000 đồng/phụ huynh/học kỳ;
 - 12 lớp được mời;
+- expected stage: signed pilot pre-commitment;
 - ngưỡng tiếp tục: ít nhất 4 lớp ký pilot và 60% phụ huynh xác nhận tham gia.
 ```
 
-## 8. Data schema gợi ý
+Sau test, từng hành vi được đăng ký trong [[Thang cam kết và tín hiệu - Bản đồ thuật ngữ|hệ thang cam kết và tín hiệu]], không gộp thành một tổng “ủng hộ”.
+
+## 9. Data schema gợi ý
 
 ```text
 need_claim_id:
@@ -174,22 +220,27 @@ limitations:
 contradictory_evidence:
 need_status:
 
- demand_test_id:
- segment:
- offer_version:
- price_or_commitment:
- channel:
- invited_count:
- eligible_count:
- action_count:
- conversion_rate:
- success_threshold:
- exclusions:
- result:
- decision:
+demand_test_id:
+segment:
+offer_version:
+expected_commitment_stage:
+price_or_commitment:
+withdrawal_rule:
+channel:
+invited_count:
+eligible_count:
+action_count:
+conversion_rate:
+success_threshold:
+exclusions:
+result:
+decision:
+linked_commitment_ids:
 ```
 
-## 9. Những lỗi cần tránh
+Chi tiết từng cam kết được lưu riêng, không nhét toàn bộ vào record demand test.
+
+## 10. Những lỗi cần tránh
 
 - Dùng vài câu chuyện cá nhân để suy ra toàn bộ cộng đồng.
 - Chỉ hỏi người đã thích ý tưởng.
@@ -199,8 +250,10 @@ need_status:
 - Che giấu tín hiệu phản đối hoặc bằng chứng mâu thuẫn.
 - Dùng từ “thị trường lớn” thay cho dữ liệu tiếp cận được.
 - Nói “cộng đồng cần” mà không chỉ rõ cộng đồng nào.
+- Gộp Attention, Trial, Pre-commitment và Purchase thành một số.
+- Gọi khoản đầu tư là bằng chứng trực tiếp của user demand.
 
-## 10. Liên hệ với nền tảng
+## 11. Liên hệ với nền tảng
 
 Proof of need nên là điều kiện trước khi một ý tưởng chuyển từ `02 Mở rộng` sang một dự án có khả năng pilot.
 
@@ -208,6 +261,7 @@ Proof of need nên là điều kiện trước khi một ý tưởng chuyển t�
 Ý tưởng
 → proof of need sơ bộ
 → demand test nhỏ
+→ phân loại commitment và signal
 → claim–evidence review
 → pilot có giới hạn
 → demand validation mạnh hơn
@@ -216,15 +270,21 @@ Proof of need nên là điều kiện trước khi một ý tưởng chuyển t�
 
 Không phải mọi dự án đều cần demand thương mại. Dự án hàng hóa công hoặc phúc lợi có thể cần **political demand, institutional demand hoặc willingness to participate**, thay vì willingness to pay.
 
-## 11. Kết luận cho dự án
+## 12. Kết luận cho dự án
 
-> **Proof of need chứng minh rằng vấn đề đáng giải quyết; demand validation chứng minh rằng một nhóm người sẽ hành động trước một đề nghị cụ thể.**
+> **Proof of need chứng minh rằng vấn đề đáng giải quyết; demand validation chứng minh rằng một nhóm người sẽ hành động trước một đề nghị cụ thể. Thang cam kết và signaling giúp diễn giải đúng hành vi đó mà không phóng đại.**
 
 Cả hai đều cần [[Claim-evidence mapping]], [[Evidence ledger và provenance]] và [[Verification protocol và decision rule]].
 
 ## Khái niệm liên quan
 
 - [[Bằng chứng và kiểm chứng - Bản đồ thuật ngữ]]
+- [[Thang cam kết và tín hiệu - Bản đồ thuật ngữ]]
+- [[Commitment ladder]]
+- [[Soft commitment và hard commitment]]
+- [[Costly signaling và cheap talk]]
+- [[Social proof và authentic social proof]]
+- [[Conditional cooperation]]
 - [[Claim-evidence mapping]]
 - [[Beneficiary và target population]]
 - [[Consumer, customer và end user]]
