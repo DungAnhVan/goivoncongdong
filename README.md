@@ -28,6 +28,22 @@ Thành viên mới tham gia các phần tài chính, pháp lý, vận hành dòn
 
 > **Nguyên tắc nhập môn:** Không bàn “làm sao gọi được tiền” trước khi trả lời được: tiền thuộc về ai, ai giữ, ai quyết định, bị ràng buộc bởi mục đích nào và bằng chứng nào cho phép giải ngân.
 
+## Onboarding chính sách công và tài chính công
+
+Thành viên làm việc với cơ quan nhà nước, chương trình hỗ trợ, grant, ngân sách công hoặc dự án công nên bắt đầu tại:
+
+- [`Chính sách công và tài chính công — Bản đồ thuật ngữ`](./00%20L%C3%A0%20g%C3%AC/Ch%C3%ADnh%20s%C3%A1ch%20c%C3%B4ng%20v%C3%A0%20t%C3%A0i%20ch%C3%ADnh%20c%C3%B4ng%20-%20B%E1%BA%A3n%20%C4%91%E1%BB%93%20thu%E1%BA%ADt%20ng%E1%BB%AF.md) — phân biệt chính sách, công cụ, ngân sách và cơ chế hỗ trợ.
+- [`Public policy`](./00%20L%C3%A0%20g%C3%AC/Public%20policy.md) — mục tiêu công và vòng đời chính sách.
+- [`Policy instrument`](./00%20L%C3%A0%20g%C3%AC/Policy%20instrument.md) — các cách Nhà nước tác động: quy định, tài trợ, thuế, mua sắm, sandbox và công cụ khác.
+- [`Public finance`](./00%20L%C3%A0%20g%C3%AC/Public%20finance.md) — doanh thu, chi tiêu, tài sản và nợ công.
+- [`Public goods`](./00%20L%C3%A0%20g%C3%AC/Public%20goods.md) — phân biệt hàng hóa công, hàng hóa câu lạc bộ, hàng hóa tư và tài nguyên chung.
+- [`Grant và subsidy`](./00%20L%C3%A0%20g%C3%AC/Grant%20v%C3%A0%20subsidy.md) — tiền hỗ trợ có điều kiện khác gì hợp đồng mua dịch vụ.
+- [`Matching fund`](./00%20L%C3%A0%20g%C3%AC/Matching%20fund.md) — cơ chế nguồn công hoặc doanh nghiệp đối ứng nguồn lực cộng đồng.
+- [`Public procurement`](./00%20L%C3%A0%20g%C3%AC/Public%20procurement.md) — cơ quan công mua hàng hóa, dịch vụ hoặc công trình.
+- [`Regulatory sandbox`](./00%20L%C3%A0%20g%C3%AC/Regulatory%20sandbox.md) — thử nghiệm đổi mới trong phạm vi có giám sát.
+
+> **Nguyên tắc nhập môn:** Không dùng cụm “được Nhà nước hỗ trợ” trước khi xác định đó là grant, subsidy, matching, khoản vay, bảo lãnh, mua sắm công, cấp tài sản hay sandbox.
+
 ## Cấu trúc kho tri thức
 
 | Thư mục | Vai trò | Câu hỏi mà thư mục trả lời |
