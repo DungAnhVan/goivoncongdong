@@ -111,6 +111,8 @@ Nguồn lực có thể là:
 
 Cần phân biệt *promised* với *delivered*.
 
+`Commitment ladder` chỉ xác định hành vi đã đi tới cấp `Resource contribution`. Nó không mô tả nguồn lực có đúng thông số, đủ quyền sử dụng, phù hợp thời gian hay đã được nghiệm thu hay chưa. Các câu hỏi đó thuộc [[Nguồn lực ngoài tiền - Bản đồ thuật ngữ]] và [[Resource pledge lifecycle]].
+
 ### Transaction / Investment — giao dịch hoặc đầu tư
 
 Có giao dịch kinh tế hoặc nghĩa vụ pháp lý rõ hơn.
@@ -250,6 +252,8 @@ evidence_ids:
 verification_status:
 ```
 
+Khi `ladder_stage` là `Pre-commitment` hoặc `Resource contribution`, nên liên kết sang `resource_pledge_id` hoặc `resource_object_id` thay vì nhồi toàn bộ thuộc tính nguồn lực vào record hành vi.
+
 ## 9. Dấu hiệu cảnh báo
 
 - Gọi mọi follower là “cộng đồng cam kết”.
@@ -259,6 +263,7 @@ verification_status:
 - Gọi investment là xác nhận nhu cầu người hưởng lợi.
 - Dùng tổng lượt qua nhiều giai đoạn như một funnel duy nhất.
 - Không lưu offer version và thời điểm.
+- Gọi resource pledge là nguồn lực đã accepted.
 
 ## 10. Kết luận cho dự án
 
@@ -273,3 +278,6 @@ verification_status:
 - [[Conditional cooperation]]
 - [[Proof of need và demand validation]]
 - [[Evidence ledger và provenance]]
+- [[Nguồn lực ngoài tiền - Bản đồ thuật ngữ]]
+- [[Resource pledge lifecycle]]
+- [[Multi-resource matching]]

@@ -61,6 +61,28 @@ Proof of use chủ yếu nằm ở input–activity–một phần output. Proof
 - Sản phẩm đã bàn giao cho ai.
 - Ảnh, video, sensor log hoặc biên bản có provenance.
 
+### Non-financial resource use evidence
+
+Nguồn lực ngoài tiền cần bằng chứng theo bản chất riêng:
+
+```text
+Time and labor
+→ giờ thực tế + task/deliverable + acceptance
+
+Data
+→ version/quyền truy cập + mục đích sử dụng + access log
+
+Equipment and venue
+→ asset/booking ID + thời gian/công suất sử dụng + tình trạng
+
+Access contribution
+→ introduction/slot/quyền tiếp cận đã thực sự được kích hoạt
+```
+
+Không dùng `estimated_value` của nguồn lực thay cho bằng chứng nó đã được dùng.
+
+Xem [[Nguồn lực ngoài tiền - Bản đồ thuật ngữ]], [[Time and labor contribution]], [[Data contribution]] và [[Asset and access contribution]].
+
 ### Process evidence
 
 - Ai đề nghị, kiểm tra, phê duyệt và thực hiện.
@@ -144,7 +166,30 @@ Outcome không đạt
 
 Không có proof of use thì khó biết thất bại nằm ở đâu.
 
-## 7. Bộ kiểm tra proof of use
+## 7. Pledge, delivery, acceptance và use
+
+Nguồn lực chỉ nên đi vào proof of use sau khi tách được:
+
+```text
+Promised
+→ lời hứa
+
+Reserved / Activated
+→ nguồn lực đã được giữ hoặc điều kiện đã đạt
+
+Delivered
+→ đã bàn giao
+
+Accepted
+→ đã đạt yêu cầu tiếp nhận
+
+In use
+→ đang được dùng cho activity/milestone
+```
+
+Xem [[Resource pledge lifecycle]]. Một pledge chưa activated không phải input đã có; một delivery chưa accepted chưa chắc dùng được.
+
+## 8. Bộ kiểm tra proof of use
 
 | Kiểm tra | Câu hỏi |
 |---|---|
@@ -152,12 +197,13 @@ Không có proof of use thì khó biết thất bại nằm ở đâu.
 | Eligibility | Có thuộc mục đích và ngân sách được phép không? |
 | Authorization | Có đúng người phê duyệt không? |
 | Occurrence | Hàng hóa/dịch vụ đã thực sự được nhận chưa? |
+| Acceptance | Nguồn lực có đạt specification và quyền sử dụng không? |
 | Accuracy | Số lượng, giá và thông tin có đúng không? |
 | Period | Có thuộc đúng kỳ và milestone không? |
 | Related party | Có xung đột lợi ích không? |
 | Reconciliation | Ledger có khớp ngân hàng và chứng từ không? |
 
-## 8. Bộ kiểm tra proof of outcome
+## 9. Bộ kiểm tra proof of outcome
 
 | Kiểm tra | Câu hỏi |
 |---|---|
@@ -170,7 +216,7 @@ Không có proof of use thì khó biết thất bại nằm ở đâu.
 | Distribution | Nhóm nào hưởng lợi và nhóm nào không? |
 | Adverse effects | Có outcome tiêu cực hoặc [[Externality|ngoại tác]] không? |
 
-## 9. Áp vào giải ngân
+## 10. Áp vào giải ngân
 
 Không phải mọi đợt giải ngân đều nên đợi outcome dài hạn.
 
@@ -187,11 +233,14 @@ Không phải mọi đợt giải ngân đều nên đợi outcome dài hạn.
 
 World Bank PforR là ví dụ về cơ chế liên kết giải ngân trực tiếp với kết quả xác định, nhưng dự án phải thiết kế mức kiểm chứng tương xứng và không sao chép máy móc một cơ chế tài chính công quy mô lớn.
 
-## 10. Data schema gợi ý
+## 11. Data schema gợi ý
 
 ```text
 use_evidence_id:
 resource_id:
+resource_pledge_id:
+resource_type:
+lifecycle_status_at_use:
 budget_line:
 amount_or_quantity:
 purpose:
@@ -217,9 +266,12 @@ limitations:
 verification_status:
 ```
 
-## 11. Những lỗi cần tránh
+## 12. Những lỗi cần tránh
 
 - Dùng total money spent như chỉ số thành công.
+- Dùng tổng giá trị in-kind ước tính như proof of use.
+- Tính giờ planned hoặc pledged như giờ delivered.
+- Gọi quyền tiếp cận chưa kích hoạt là resource used.
 - Dùng số người tham dự như outcome mặc định.
 - Chụp ảnh sự kiện nhưng không có danh sách, thời gian hoặc đối tượng.
 - Đo outcome chỉ ở người trả lời thuận tiện.
@@ -228,14 +280,15 @@ verification_status:
 - Gộp output, outcome và impact vào từ “tác động”.
 - Dùng một câu chuyện thành công để đại diện toàn bộ dữ liệu.
 
-## 12. Kết luận cho dự án
+## 13. Kết luận cho dự án
 
 > **Proof of use bảo vệ tính toàn vẹn của nguồn lực; proof of outcome bảo vệ tính trung thực của lời hứa giá trị.**
 
 Một dự án đáng tin cần cả hai:
 
 ```text
-Tiền được dùng đúng
+Nguồn lực được bàn giao và accepted đúng
++ được dùng đúng
 + hoạt động được thực hiện đúng
 + kết quả được đo đúng
 + giới hạn được công bố đúng
@@ -250,6 +303,9 @@ Tiền được dùng đúng
 - [[Evidence ledger và provenance]]
 - [[Distributional impact]]
 - [[Claim-evidence mapping]]
+- [[Nguồn lực ngoài tiền - Bản đồ thuật ngữ]]
+- [[Resource pledge lifecycle]]
+- [[Multi-resource matching]]
 
 ## Nguồn tham khảo
 
