@@ -10,8 +10,8 @@ lien-quan:
 ---
 
 # TAM SAM SOM EVG
+![[Pasted image 20260806183758.png]]
 
-![Khung TAM SAM SOM EVG](_assets/TAM-SAM-SOM-EVG.jpg)
 
 ## 1. Thông tin tiếp nhận
 
