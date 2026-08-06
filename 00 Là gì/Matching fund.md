@@ -49,7 +49,25 @@ Phần đối ứng có thể gồm công sức, thiết bị, dữ liệu hoặ
 
 Mọi matching đều là một dạng co-financing, nhưng không phải mọi co-financing đều là matching.
 
-## 4. Tại sao liên quan đến dự án?
+## 4. Ranh giới với conditional cooperation
+
+[[Conditional cooperation]] mô tả hành vi:
+
+> Một người hoặc tổ chức sẵn sàng đóng góp khi đủ người khác cũng đóng góp hoặc khi một điều kiện tập thể được đáp ứng.
+
+`Matching fund` là **một cơ chế tài chính cụ thể** có thể khai thác hành vi đó.
+
+```text
+Conditional cooperation
+→ động lực và sự phụ thuộc giữa các cam kết
+
+Matching fund
+→ công thức đối ứng, trần, điều kiện hợp lệ và giải ngân
+```
+
+Không dùng hai thuật ngữ thay thế nhau. Conditional cooperation còn áp dụng cho thời gian, vai trò, thiết bị và tuân thủ, ngay cả khi không có matching fund.
+
+## 5. Tại sao liên quan đến dự án?
 
 Đây là cơ chế rất gần với mô hình gọi vốn cộng đồng:
 
@@ -68,8 +86,29 @@ Nền tảng có thể ghi nhận:
 - Thời điểm khóa sổ.
 - Bằng chứng nguồn tiền.
 - Điều kiện giải ngân.
+- Cấp cam kết theo [[Commitment ladder]].
+- Điều kiện kích hoạt theo [[Conditional cooperation]].
 
-## 5. Rủi ro thiết kế
+## 6. Matching không tự chứng minh demand
+
+Một khoản matching lớn có thể cho thấy ưu tiên của nhà tài trợ nhưng không tự động chứng minh người dùng cần hoặc sẵn sàng trả tiền.
+
+Phải tách:
+
+```text
+Cam kết của cộng đồng
+→ thuộc nhóm nào, ở cấp nào, có độc lập không?
+
+Cam kết của nhà tài trợ
+→ tỷ lệ, trần và điều kiện là gì?
+
+Demand validation
+→ offer có tạo hành vi thật ở target segment không?
+```
+
+Xem [[Proof of need và demand validation]] và [[Thang cam kết và tín hiệu - Bản đồ thuật ngữ]].
+
+## 7. Rủi ro thiết kế
 
 - Dự án tự tạo giao dịch giả để mở khóa matching.
 - Nhà tài trợ lớn đóng góp thay cộng đồng, làm mất ý nghĩa xác nhận nhu cầu.
@@ -77,13 +116,16 @@ Nền tảng có thể ghi nhận:
 - Khoản match được công bố nhưng chưa có ngân sách thật.
 - Chỉ đo số tiền, không đo độ rộng và tính đại diện của người tham gia.
 - Nhóm giàu huy động dễ hơn nhóm nghèo dù nhu cầu thấp hơn.
+- Một whale contributor kích hoạt match nhưng che mức tham gia cộng đồng thấp.
+- Gộp pledge mềm với khoản đóng góp đã chuyển giao.
 
-## 6. Kiểm soát tối thiểu
+## 8. Kiểm soát tối thiểu
 
 ```text
 Cam kết matching có văn bản
 → xác định tỷ lệ và trần
 → định nghĩa khoản đóng góp hợp lệ
+→ phân loại soft/hard commitment
 → xác minh giao dịch và bên liên quan
 → khóa sổ
 → tính khoản match
@@ -92,7 +134,25 @@ Cam kết matching có văn bản
 → báo cáo và kiểm tra
 ```
 
-## 7. Áp vào pilot
+Cam kết matching phải ghi:
+
+```text
+matching_commitment_id:
+sponsor:
+ratio:
+cap:
+eligible_sources:
+excluded_related_parties:
+minimum_participant_count:
+valid_from:
+expires_at:
+activation_rule:
+withdrawal_rule:
+evidence_ids:
+status:
+```
+
+## 9. Áp vào pilot
 
 Một pilot có thể thử:
 
@@ -102,15 +162,16 @@ Nhà tài trợ: match 1:1, tối đa 100 triệu
 Điều kiện:
 - tối thiểu 50 người xác minh;
 - không một người góp quá 20% phần cộng đồng;
+- chỉ tính commitment đã Activated/Fulfilled;
 - đạt milestone hồ sơ trước khi nhận match;
 - match giải ngân theo từng mốc.
 ```
 
-Như vậy số tiền huy động không phải tín hiệu duy nhất; độ rộng cộng đồng và bằng chứng dự án cũng được tính.
+Như vậy số tiền huy động không phải tín hiệu duy nhất; độ rộng cộng đồng, mức cam kết và bằng chứng dự án cũng được tính.
 
-## 8. Kết luận cho dự án
+## 10. Kết luận cho dự án
 
-> Matching fund có thể nối nguồn lực cộng đồng với nguồn lực công hoặc doanh nghiệp, nhưng chỉ có giá trị nếu phần đóng góp ban đầu là thật, đại diện và được xác minh.
+> Matching fund có thể nối nguồn lực cộng đồng với nguồn lực công hoặc doanh nghiệp, nhưng chỉ có giá trị nếu phần đóng góp ban đầu là thật, đại diện, còn hiệu lực và được xác minh.
 
 ## Khái niệm liên quan
 
@@ -122,6 +183,10 @@ Như vậy số tiền huy động không phải tín hiệu duy nhất; độ r
 - [[Additionality]]
 - [[Disbursement]]
 - [[Restricted funds]]
+- [[Conditional cooperation]]
+- [[Commitment ladder]]
+- [[Soft commitment và hard commitment]]
+- [[Evidence ledger và provenance]]
 
 ## Nguồn tham khảo
 
