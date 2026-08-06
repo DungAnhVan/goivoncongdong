@@ -41,7 +41,7 @@ Nhà nước có thể trở thành **khách hàng đầu tiên**, đặc biệt
 - Hoạt động tổ chức cộng đồng.
 - Công nghệ phục vụ dịch vụ công.
 
-Một hợp đồng mua sắm có thể chứng minh nhu cầu mạnh hơn một thư ủng hộ, vì cơ quan mua phải xác định yêu cầu, ngân sách và nghiệm thu.
+Một hợp đồng mua sắm có thể là bằng chứng demand mạnh hơn một thư ủng hộ, vì cơ quan mua phải xác định yêu cầu, ngân sách và nghiệm thu. Tuy nhiên, nó chỉ chứng minh nhu cầu trong phạm vi hợp đồng đó; xem [[Proof of need và demand validation]].
 
 ## 4. Mua sắm đổi mới
 
@@ -64,7 +64,7 @@ Nền tảng có thể:
 
 ### Biến nhu cầu công thành hồ sơ dự án
 
-Cơ quan địa phương công bố vấn đề; cộng đồng, startup và chuyên gia cùng phát triển phương án.
+Cơ quan địa phương công bố vấn đề; cộng đồng, startup và chuyên gia cùng phát triển phương án. Claim về nhu cầu cần được tách thành [[Claim-evidence mapping|claim–evidence map]] thay vì chỉ mô tả bằng một đề bài rộng.
 
 ### Tạo pipeline nhà cung cấp nhỏ
 
@@ -72,13 +72,29 @@ Chuẩn hóa năng lực, hồ sơ pháp nhân, bằng chứng thử nghiệm v�
 
 ### Theo dõi hợp đồng và outcome
 
-Không chỉ kết nối rồi kết thúc, mà theo dõi milestone, nghiệm thu và tác động tới người hưởng lợi.
+Không chỉ kết nối rồi kết thúc, mà theo dõi [[Milestone verification|milestone]], nghiệm thu, [[Proof of use và proof of outcome|proof of use]] và outcome tới người hưởng lợi.
 
 ### Phân biệt tài trợ với bán dịch vụ
 
 Điều này giúp dự án chọn đúng hợp đồng, thuế, kế toán và trách nhiệm bàn giao.
 
-## 6. Các rủi ro lớn
+## 6. Nghiệm thu không phải một nhãn chung
+
+Một hợp đồng cần chỉ rõ:
+
+```text
+Claim nào được nghiệm thu?
+→ deliverable, performance hay outcome?
+→ acceptance criteria là gì?
+→ evidence nào được chấp nhận?
+→ ai kiểm tra?
+→ sampling và materiality ra sao?
+→ kết quả nào cho phép thanh toán?
+```
+
+Các lớp này được chuẩn hóa tại [[Verification protocol và decision rule]], [[Milestone verification]] và [[Evidence ledger và provenance]].
+
+## 7. Các rủi ro lớn
 
 - Viết yêu cầu nghiêng về một nhà cung cấp.
 - Xung đột lợi ích giữa người đánh giá và bên tham gia.
@@ -87,8 +103,9 @@ Không chỉ kết nối rồi kết thúc, mà theo dõi milestone, nghiệm th
 - Pilot thành công nhưng không có đường sang hợp đồng mở rộng.
 - Nghiệm thu đầu ra nhưng không đo outcome thực tế.
 - Thanh toán chậm làm nhà cung cấp nhỏ thiếu dòng tiền.
+- Gắn nhãn “đã nghiệm thu” mà không lưu phạm vi, tiêu chí và evidence IDs.
 
-## 7. Bộ câu hỏi khi cơ quan công muốn “đặt hàng”
+## 8. Bộ câu hỏi khi cơ quan công muốn “đặt hàng”
 
 ```text
 Họ đang mua gì cụ thể?
@@ -97,15 +114,19 @@ Ngân sách đã được phê duyệt chưa?
 Thủ tục lựa chọn là gì?
 Ai có quyền ký và nghiệm thu?
 Tiêu chí đánh giá gồm kỹ thuật, giá và tác động thế nào?
+Claim nào cần kiểm chứng trước mỗi lần thanh toán?
+Evidence và provenance tối thiểu là gì?
 IP và dữ liệu thuộc ai?
 Điều kiện thanh toán là gì?
 Có bảo lãnh, phạt hoặc trách nhiệm hậu mãi không?
 Pilot có dẫn đến hợp đồng tiếp theo không?
 ```
 
-## 8. Kết luận cho dự án
+## 9. Kết luận cho dự án
 
 > Public procurement là kênh biến nhu cầu công thành doanh thu và hợp đồng thật. Nó khác căn bản với grant, dù cả hai đều có thể dùng tiền từ ngân sách công.
+
+Đối với dự án, điểm sâu hơn là biến **nghiệm thu** từ một chữ ký cuối kỳ thành chuỗi claim → evidence → verification → decision có thể truy nguyên.
 
 ## Khái niệm liên quan
 
@@ -113,6 +134,11 @@ Pilot có dẫn đến hợp đồng tiếp theo không?
 - [[Policy instrument]]
 - [[Public finance]]
 - [[Grant và subsidy]]
+- [[Proof of need và demand validation]]
+- [[Claim-evidence mapping]]
+- [[Milestone verification]]
+- [[Evidence ledger và provenance]]
+- [[Verification protocol và decision rule]]
 - [[Value for money]]
 - [[Conflict of interest]]
 - [[Contract management]]
@@ -123,3 +149,4 @@ Pilot có dẫn đến hợp đồng tiếp theo không?
 - OECD — Public procurement: https://www.oecd.org/en/topics/policy-issues/public-procurement.html
 - OECD — Recommendation on Public Procurement: https://legalinstruments.oecd.org/public/doc/320/body-text.en.html
 - European Commission — Grants and procurement: https://commission.europa.eu/strategy-and-policy/eu-budget/how-it-works/annual-lifecycle/implementation/grants-and-procurement_en
+- World Bank — Program-for-Results Financing: https://www.worldbank.org/en/programs/program-for-results-financing
