@@ -73,6 +73,19 @@ Thành viên điều phối chuyên gia, dữ liệu, thiết bị, địa đi�
 
 > **Nguyên tắc nhập môn:** Không quy mọi nguồn lực ra tiền trước khi mô tả được loại nguồn lực, quyền sử dụng, thời gian, công suất, điều kiện, trạng thái bàn giao và bằng chứng sử dụng.
 
+## Onboarding cơ chế phối hợp tập thể
+
+Thành viên thiết kế threshold, funding rule, matching, contributor incentives hoặc activation logic nên bắt đầu tại:
+
+- [`Cơ chế phối hợp tập thể — Bản đồ thuật ngữ`](./00%20L%C3%A0%20g%C3%AC/C%C6%A1%20ch%E1%BA%BF%20ph%E1%BB%91i%20h%E1%BB%A3p%20t%E1%BA%ADp%20th%E1%BB%83%20-%20B%E1%BA%A3n%20%C4%91%E1%BB%93%20thu%E1%BA%ADt%20ng%E1%BB%AF.md).
+- [`Provision point và threshold mechanism`](./00%20L%C3%A0%20g%C3%AC/Provision%20point%20v%C3%A0%20threshold%20mechanism.md) — xác định tổ hợp tối thiểu để dự án khả thi.
+- [`All-or-nothing và keep-it-all`](./00%20L%C3%A0%20g%C3%AC/All-or-nothing%20v%C3%A0%20keep-it-all.md) — phân bổ rủi ro khi đạt hoặc không đạt mục tiêu.
+- [`Assurance contract và conditional pledge`](./00%20L%C3%A0%20g%C3%AC/Assurance%20contract%20v%C3%A0%20conditional%20pledge.md) — kích hoạt cam kết khi provision point được xác minh.
+- [`Quadratic funding`](./00%20L%C3%A0%20g%C3%AC/Quadratic%20funding.md) — phân bổ matching pool dựa mạnh vào độ rộng đóng góp.
+- [`Onboarding cơ chế phối hợp tập thể`](./06%20Th%E1%BB%B1c%20l%C3%A0m/Onboarding%20c%C6%A1%20ch%E1%BA%BF%20ph%E1%BB%91i%20h%E1%BB%A3p%20t%E1%BA%ADp%20th%E1%BB%83.md).
+
+> **Nguyên tắc nhập môn:** Không chọn cơ chế trước khi chẩn đoán thất bại phối hợp, xác định provision point, công bố activation/failure rule và chỉ ra ai chịu rủi ro khi nguồn lực không đủ.
+
 ## Cấu trúc kho tri thức
 
 | Thư mục | Vai trò | Câu hỏi mà thư mục trả lời |
