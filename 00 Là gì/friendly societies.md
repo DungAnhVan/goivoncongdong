@@ -1,4 +1,4 @@
-# Friendly societies
+
 
 > **Định nghĩa ngắn:** *Friendly society* là một tổ chức tương trợ do các thành viên cùng lập ra, cùng đóng góp vào một quỹ chung và dùng quỹ đó để hỗ trợ thành viên khi gặp ốm đau, thất nghiệp, tử vong hoặc hoàn cảnh khó khăn khác.
 
