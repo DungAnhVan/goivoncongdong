@@ -160,14 +160,14 @@ Một tổ chức nhỏ có thể chưa đủ người để tách hoàn toàn, 
 
 ## 5. Ma trận vai trò tối thiểu cho một dự án pilot
 
-| Vai trò | Câu hỏi chịu trách nhiệm | Không nên tự làm một mình |
-|---|---|---|
-| Chủ dự án | Tiền dùng để tạo đầu ra gì? | Tự duyệt mọi khoản chi của mình |
-| Hội đồng/phụ trách phê duyệt | Khoản chi có đúng mục đích và điều kiện không? | Trực tiếp sửa chứng từ sau phê duyệt |
-| Bên giữ tiền hoặc tài khoản | Có được phép chuyển tiền không? | Tự quyết định mục tiêu chi |
-| Kế toán/đối soát | Sổ sách có khớp ngân hàng và chứng từ không? | Tự phê duyệt giao dịch do mình ghi nhận |
-| Người kiểm chứng milestone | Mốc đã thực sự hoàn thành chưa? | Nhận lợi ích trực tiếp từ việc xác nhận |
-| Cộng đồng/người góp | Có nhìn thấy tiến độ và sai lệch trọng yếu không? | Can thiệp tùy tiện vào vận hành hằng ngày |
+| Vai trò                      | Câu hỏi chịu trách nhiệm                          | Không nên tự làm một mình                 |
+| ---------------------------- | ------------------------------------------------- | ----------------------------------------- |
+| Chủ dự án                    | Tiền dùng để tạo đầu ra gì?                       | Tự duyệt mọi khoản chi của mình           |
+| Hội đồng/phụ trách phê duyệt | Khoản chi có đúng mục đích và điều kiện không?    | Trực tiếp sửa chứng từ sau phê duyệt      |
+| Bên giữ tiền hoặc tài khoản  | Có được phép chuyển tiền không?                   | Tự quyết định mục tiêu chi                |
+| Kế toán/đối soát             | Sổ sách có khớp ngân hàng và chứng từ không?      | Tự phê duyệt giao dịch do mình ghi nhận   |
+| Người kiểm chứng milestone   | Mốc đã thực sự hoàn thành chưa?                   | Nhận lợi ích trực tiếp từ việc xác nhận   |
+| Cộng đồng/người góp          | Có nhìn thấy tiến độ và sai lệch trọng yếu không? | Can thiệp tùy tiện vào vận hành hằng ngày |
 
 ## 6. Áp vào dự án Gọi vốn cộng đồng
 
