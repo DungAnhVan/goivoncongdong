@@ -3,7 +3,7 @@ Crowdfunding thường được định nghĩa về mặt kỹ thuật là việ
 Báo cáo này cho rằng một nền tảng tư tưởng vững chắc cho crowdfunding phải kết hợp ít nhất bốn lớp:
 
 1. **Lớp mục đích:** nguồn lực tập thể chỉ chính đáng khi hướng đến một thiện ích có thể diễn đạt và kiểm chứng.
-2. **Lớp quan hệ:** đóng góp không phải là một giao dịch vô danh thuần túy; nó tạo ra liên đới, kỳ vọng, danh dự, nghĩa vụ và căn tính cộng đồng.
+2. **Lớp quan hệ:** đóng góp không phải là một giao dịch vô danh thuần túy; nó tạo ra liên đới, kỳ vọng, danh dự, nghĩa vụ và căn tính cộng đồng. Một tiền thân lịch sử đáng chú ý của lớp quan hệ này là [[friendly societies|friendly societies]], nơi thành viên cùng đóng góp vào quỹ chung và cùng chịu ràng buộc bởi quy tắc tương trợ lâu dài.
 3. **Lớp phối hợp:** cần cơ chế giải quyết vấn đề “tôi sợ người khác không góp”, “tôi góp nhưng dự án không đủ tiền”, và “tôi có thể hưởng lợi mà không cần đóng góp”.
 4. **Lớp quản trị:** tiền được huy động phải được ghi nhận, bảo quản, phân bổ, báo cáo và sử dụng theo những cam kết đã được cộng đồng chấp thuận.
 

@@ -59,13 +59,14 @@
 
 **Mệnh đề cốt lõi:** _Crowdfunding không nên chỉ dựa vào cảm xúc nhất thời; nó có thể thể chế hóa một nghĩa vụ chia sẻ công bằng._
 
-**Ánh xạ:** Các cơ chế định kỳ, quỹ tương trợ, tỷ lệ đóng góp theo thu nhập, quỹ đối ứng và ngân sách cộng đồng có thể ổn định việc tài trợ hơn những chiến dịch phụ thuộc vào sự lan truyền ngẫu nhiên.
+**Ánh xạ:** Các cơ chế định kỳ, [[friendly societies|quỹ tương trợ]], tỷ lệ đóng góp theo thu nhập, quỹ đối ứng và ngân sách cộng đồng có thể ổn định việc tài trợ hơn những chiến dịch phụ thuộc vào sự lan truyền ngẫu nhiên.
 
 **Ví dụ:** Truyền thống Sikh về _dasvandh_ khuyến khích dành một phần thu nhập cho hoạt động cộng đồng và tôn giáo; SGPC mô tả _dasvandh_ như một thực hành đóng góp và cung cấp cơ chế thực hiện trực tuyến. Đây là ví dụ việc một chuẩn mực tỷ lệ được đưa vào hạ tầng số hiện đại. [^8]
 
 
 # 6. Tương trợ — cộng đồng là năng lực tự cứu có tổ chức
 
+> Mô hình lịch sử liên quan: [[friendly societies|Friendly societies — hội tương trợ thành viên]].
 
 **Định nghĩa:** Tương trợ khác bố thí một chiều: các thành viên cùng tạo một cơ chế mà bất kỳ người nào cũng có thể là người hỗ trợ hôm nay và người cần hỗ trợ ngày mai.
 
@@ -117,7 +118,6 @@
 **Ánh xạ:** Với doanh nhân, nên tài trợ thiết bị, vốn lưu động, thị trường và kỹ năng; với cộng đồng, nên tài trợ hạ tầng và năng lực vận hành; với nghệ sĩ, nên hỗ trợ quyền sở hữu công cụ, tệp khán giả và hệ thống phân phối.
 
 **Ví dụ:** Mô hình Kiva cho vay nhỏ để mở rộng hoạt động kinh doanh thể hiện khá trực tiếp logic “trao năng lực”: người ủng hộ không chỉ bù một khoản thiếu mà góp vào tài sản sinh kế, trong khi người vay giữ vai trò tác nhân kinh tế và cam kết hoàn trả. [^16]
-
 # 10. Công bằng theo khả năng, nhu cầu và ảnh hưởng
 
 
