@@ -86,6 +86,20 @@ Thành viên thiết kế threshold, funding rule, matching, contributor incenti
 
 > **Nguyên tắc nhập môn:** Không chọn cơ chế trước khi chẩn đoán thất bại phối hợp, xác định provision point, công bố activation/failure rule và chỉ ra ai chịu rủi ro khi nguồn lực không đủ.
 
+## Onboarding quản trị chiến dịch và xử lý thất bại
+
+Thành viên thiết kế charter, change control, refund, recovery, termination hoặc closure nên bắt đầu tại:
+
+- [`Quản trị chiến dịch và xử lý thất bại — Bản đồ thuật ngữ`](./00%20L%C3%A0%20g%C3%AC/Qu%E1%BA%A3n%20tr%E1%BB%8B%20chi%E1%BA%BFn%20d%E1%BB%8Bch%20v%C3%A0%20x%E1%BB%AD%20l%C3%BD%20th%E1%BA%A5t%20b%E1%BA%A1i%20-%20B%E1%BA%A3n%20%C4%91%E1%BB%93%20thu%E1%BA%ADt%20ng%E1%BB%AF.md).
+- [`Campaign charter`](./00%20L%C3%A0%20g%C3%AC/Campaign%20charter.md) — hiến chương gốc của chiến dịch.
+- [`Material change, pivot and re-consent`](./00%20L%C3%A0%20g%C3%AC/Material%20change%2C%20pivot%20and%20re-consent.md) — phân loại thay đổi và quyền chấp thuận lại.
+- [`Campaign failure, recovery and termination`](./00%20L%C3%A0%20g%C3%AC/Campaign%20failure%2C%20recovery%20and%20termination.md) — nhận diện thất bại, phục hồi hoặc chấm dứt.
+- [`Refund and release mechanism`](./00%20L%C3%A0%20g%C3%AC/Refund%20and%20release%20mechanism.md) — hoàn tiền và giải phóng nguồn lực chưa dùng.
+- [`Campaign closure, wind-down and dissolution`](./00%20L%C3%A0%20g%C3%AC/Campaign%20closure%2C%20wind-down%20and%20dissolution.md) — đóng chiến dịch và nghĩa vụ có trật tự.
+- [`Onboarding quản trị chiến dịch và xử lý thất bại`](./06%20Th%E1%BB%B1c%20l%C3%A0m/Onboarding%20qu%E1%BA%A3n%20tr%E1%BB%8B%20chi%E1%BA%BFn%20d%E1%BB%8Bch%20v%C3%A0%20x%E1%BB%AD%20l%C3%BD%20th%E1%BA%A5t%20b%E1%BA%A1i.md).
+
+> **Nguyên tắc nhập môn:** Không mở chiến dịch nếu mới mô tả success path mà chưa xác định quyền sửa lời hứa, re-consent, refund/release, residual resources và closure rule.
+
 ## Cấu trúc kho tri thức
 
 | Thư mục | Vai trò | Câu hỏi mà thư mục trả lời |
