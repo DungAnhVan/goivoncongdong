@@ -59,7 +59,7 @@ Rủi ro cao khi dự án dài, nhiều bước hoặc chưa có năng lực v�
 Mốc 1 đạt
 → giải ngân phần 1
 → tạo đầu ra và bằng chứng
-→ kiểm tra
+→ [[Milestone verification|kiểm chứng mốc]]
 → mốc 2 được mở
 ```
 
@@ -108,14 +108,14 @@ Một disbursement package có thể yêu cầu:
 - Khoản chi thuộc [[Restricted funds|mục đích được phép]].
 - Hợp đồng hoặc đơn đặt hàng.
 - Hóa đơn/chứng từ.
-- Xác nhận milestone.
+- [[Milestone verification|Kết quả kiểm chứng milestone]].
 - Kiểm tra KYC của người nhận.
 - Tài khoản ngân hàng đã xác minh.
 - Không có xung đột lợi ích chưa xử lý.
 - Báo cáo kỳ trước đã nộp.
 - Phần vốn đối ứng đã được đóng góp.
 
-Không phải mọi dự án đều cần tất cả, nhưng checklist phải được xác định trước.
+Không phải mọi dự án đều cần tất cả, nhưng checklist phải được xác định trước bằng [[Verification protocol và decision rule|protocol và decision rule]] phù hợp.
 
 ## 5. Milestone tốt là gì?
 
@@ -147,6 +147,8 @@ Bằng chứng: biên bản kiểm tra, ảnh lô hàng, hóa đơn gia công
 Người xác nhận: kỹ thuật độc lập + đại diện dự án
 Giải ngân tiếp: 35% ngân sách
 ```
+
+Cách thiết kế đầy đủ nằm tại [[Milestone verification]].
 
 ## 6. Holdback và retention
 
@@ -195,7 +197,9 @@ purpose:
 budget_line:
 restriction_check:
 milestone:
-evidence:
+evidence_ids:
+verification_id:
+decision_rule_id:
 requested_by:
 reviewed_by:
 approved_by:
@@ -204,6 +208,8 @@ payment_reference:
 reconciled_by:
 status:
 ```
+
+Bằng chứng phải được đăng ký trong [[Evidence ledger và provenance]] thay vì chỉ đính kèm một folder không có chỉ mục.
 
 Trạng thái có thể gồm:
 
@@ -218,7 +224,7 @@ Draft
 → Reported
 ```
 
-Không nên coi `Paid` là trạng thái cuối. Phải có `Reconciled` và bằng chứng kết quả.
+Không nên coi `Paid` là trạng thái cuối. Phải có `Reconciled`, [[Proof of use và proof of outcome|proof of use]] và bằng chứng kết quả phù hợp với giai đoạn.
 
 ## 9. Xử lý sai lệch
 
@@ -244,6 +250,7 @@ Mục tiêu không phải phạt mọi thất bại. Mục tiêu là không đ�
 - Hóa đơn có nhưng không chứng minh đầu ra.
 - Khoản chi đúng ngân sách nhưng sai restriction.
 - Không đối soát sau thanh toán.
+- Claim được gắn `verified` nhưng không rõ phạm vi hoặc evidence IDs.
 
 ## 11. Kết luận cho dự án
 
@@ -257,13 +264,20 @@ Thiết kế giải ngân tốt phải cân bằng:
 - Cho phép thay đổi hợp lý nhưng có phê duyệt.
 - Tạo bằng chứng để dự án xây uy tín cho vòng sau.
 
+Lớp [[Bằng chứng và kiểm chứng - Bản đồ thuật ngữ|bằng chứng và kiểm chứng]] bảo đảm quyết định giải ngân không chỉ dựa vào tài liệu được nộp, mà dựa vào claim, provenance, protocol và kết quả kiểm tra có dấu vết.
+
 ## Khái niệm liên quan
 
 - [[Tài chính và quản lý quỹ - Bản đồ thuật ngữ]]
+- [[Bằng chứng và kiểm chứng - Bản đồ thuật ngữ]]
 - [[Fund management]]
 - [[Restricted funds]]
 - [[Custody và safeguarding]]
 - [[Milestone-based disbursement]]
+- [[Milestone verification]]
+- [[Evidence ledger và provenance]]
+- [[Verification protocol và decision rule]]
+- [[Proof of use và proof of outcome]]
 - [[Eligible expenditure]]
 - [[Payment approval]]
 - [[Reconciliation]]
@@ -274,3 +288,4 @@ Thiết kế giải ngân tốt phải cân bằng:
 
 - Charity Commission — internal financial controls: https://www.gov.uk/government/publications/internal-financial-controls-for-charities-cc8/internal-financial-controls-for-charities
 - SEC — custody of client funds or securities: https://www.sec.gov/rules-regulations/2002/07/custody-funds-or-securities-clients-investment-advisers
+- World Bank — Program-for-Results Financing: https://www.worldbank.org/en/programs/program-for-results-financing
