@@ -42,6 +42,8 @@ Tỷ lệ thay đổi theo mức huy động hoặc loại người đóng góp.
 
 Phần đối ứng có thể gồm công sức, thiết bị, dữ liệu hoặc địa điểm nếu quy định cho phép.
 
+`In-kind match` không có nghĩa mọi [[In-kind contribution]] đều tự động đủ điều kiện. Chương trình phải quy định loại nguồn lực nào được tính, cách định giá, bằng chứng, điều kiện không tính trùng và trạng thái nào được chấp nhận.
+
 ## 3. Matching khác co-financing thế nào?
 
 - **Co-financing** chỉ yêu cầu nhiều nguồn cùng chia sẻ chi phí.
@@ -49,7 +51,31 @@ Phần đối ứng có thể gồm công sức, thiết bị, dữ liệu hoặ
 
 Mọi matching đều là một dạng co-financing, nhưng không phải mọi co-financing đều là matching.
 
-## 4. Ranh giới với conditional cooperation
+## 4. Ranh giới với multi-resource matching
+
+```text
+Matching fund
+→ một khoản tài trợ được mở khóa theo tỷ lệ, trần hoặc ngưỡng
+
+[[Multi-resource matching]]
+→ ghép nhiều need và offer dị biệt thành một tổ hợp triển khai khả thi
+```
+
+Ví dụ:
+
+```text
+Cộng đồng góp 100 triệu
+→ doanh nghiệp match thêm 100 triệu
+→ Matching fund
+
+Dự án cần 100 triệu + 40 giờ kỹ sư + máy 2 ngày + dataset
+→ tìm và ghép từng nguồn lực
+→ Multi-resource matching
+```
+
+Hai cơ chế có thể cùng tồn tại, nhưng không dùng thay thế nhau.
+
+## 5. Ranh giới với conditional cooperation
 
 [[Conditional cooperation]] mô tả hành vi:
 
@@ -67,7 +93,7 @@ Matching fund
 
 Không dùng hai thuật ngữ thay thế nhau. Conditional cooperation còn áp dụng cho thời gian, vai trò, thiết bị và tuân thủ, ngay cả khi không có matching fund.
 
-## 5. Tại sao liên quan đến dự án?
+## 6. Tại sao liên quan đến dự án?
 
 Đây là cơ chế rất gần với mô hình gọi vốn cộng đồng:
 
@@ -88,8 +114,9 @@ Nền tảng có thể ghi nhận:
 - Điều kiện giải ngân.
 - Cấp cam kết theo [[Commitment ladder]].
 - Điều kiện kích hoạt theo [[Conditional cooperation]].
+- Trạng thái nguồn lực theo [[Resource pledge lifecycle]].
 
-## 6. Matching không tự chứng minh demand
+## 7. Matching không tự chứng minh demand
 
 Một khoản matching lớn có thể cho thấy ưu tiên của nhà tài trợ nhưng không tự động chứng minh người dùng cần hoặc sẵn sàng trả tiền.
 
@@ -108,7 +135,7 @@ Demand validation
 
 Xem [[Proof of need và demand validation]] và [[Thang cam kết và tín hiệu - Bản đồ thuật ngữ]].
 
-## 7. Rủi ro thiết kế
+## 8. Rủi ro thiết kế
 
 - Dự án tự tạo giao dịch giả để mở khóa matching.
 - Nhà tài trợ lớn đóng góp thay cộng đồng, làm mất ý nghĩa xác nhận nhu cầu.
@@ -118,8 +145,10 @@ Xem [[Proof of need và demand validation]] và [[Thang cam kết và tín hiệ
 - Nhóm giàu huy động dễ hơn nhóm nghèo dù nhu cầu thấp hơn.
 - Một whale contributor kích hoạt match nhưng che mức tham gia cộng đồng thấp.
 - Gộp pledge mềm với khoản đóng góp đã chuyển giao.
+- Tính in-kind contribution chưa được accepted vào phần match.
+- Dùng cùng một nguồn lực để mở khóa nhiều chương trình.
 
-## 8. Kiểm soát tối thiểu
+## 9. Kiểm soát tối thiểu
 
 ```text
 Cam kết matching có văn bản
@@ -127,6 +156,7 @@ Cam kết matching có văn bản
 → định nghĩa khoản đóng góp hợp lệ
 → phân loại soft/hard commitment
 → xác minh giao dịch và bên liên quan
+→ nếu là in-kind: review loại, valuation và acceptance
 → khóa sổ
 → tính khoản match
 → phê duyệt
@@ -142,6 +172,9 @@ sponsor:
 ratio:
 cap:
 eligible_sources:
+eligible_resource_types:
+valuation_rule:
+accepted_lifecycle_statuses:
 excluded_related_parties:
 minimum_participant_count:
 valid_from:
@@ -152,7 +185,7 @@ evidence_ids:
 status:
 ```
 
-## 9. Áp vào pilot
+## 10. Áp vào pilot
 
 Một pilot có thể thử:
 
@@ -163,15 +196,16 @@ Nhà tài trợ: match 1:1, tối đa 100 triệu
 - tối thiểu 50 người xác minh;
 - không một người góp quá 20% phần cộng đồng;
 - chỉ tính commitment đã Activated/Fulfilled;
+- in-kind chỉ tính khi Accepted và theo valuation rule;
 - đạt milestone hồ sơ trước khi nhận match;
 - match giải ngân theo từng mốc.
 ```
 
 Như vậy số tiền huy động không phải tín hiệu duy nhất; độ rộng cộng đồng, mức cam kết và bằng chứng dự án cũng được tính.
 
-## 10. Kết luận cho dự án
+## 11. Kết luận cho dự án
 
-> Matching fund có thể nối nguồn lực cộng đồng với nguồn lực công hoặc doanh nghiệp, nhưng chỉ có giá trị nếu phần đóng góp ban đầu là thật, đại diện, còn hiệu lực và được xác minh.
+> Matching fund có thể nối nguồn lực cộng đồng với nguồn lực công hoặc doanh nghiệp, nhưng chỉ có giá trị nếu phần đóng góp ban đầu là thật, đại diện, còn hiệu lực, đủ điều kiện và được xác minh.
 
 ## Khái niệm liên quan
 
@@ -187,8 +221,13 @@ Như vậy số tiền huy động không phải tín hiệu duy nhất; độ r
 - [[Commitment ladder]]
 - [[Soft commitment và hard commitment]]
 - [[Evidence ledger và provenance]]
+- [[Nguồn lực ngoài tiền - Bản đồ thuật ngữ]]
+- [[In-kind contribution]]
+- [[Multi-resource matching]]
+- [[Resource pledge lifecycle]]
 
 ## Nguồn tham khảo
 
 - European Commission — grants commonly use co-financing: https://commission.europa.eu/strategy-and-policy/eu-budget/how-it-works/annual-lifecycle/implementation/grants-and-procurement_en
+- 2 CFR 200.306 — conditions, valuation and documentation for third-party in-kind cost sharing: https://www.law.cornell.edu/cfr/text/2/200.306
 - World Bank — community and matching grant materials: https://documents.worldbank.org/
