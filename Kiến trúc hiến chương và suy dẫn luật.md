@@ -1,6 +1,6 @@
 ---
 type: kien-truc-de-xuat
-status: cho-duyet
+status: da-trien-khai
 updated: 2026-08-10
 tags:
   - goi-von-cong-dong
@@ -12,11 +12,11 @@ tags:
 # Kiến trúc hiến chương và suy dẫn luật
 
 > [!abstract] Vai trò của ghi chú
-> Đây là **bản kiến trúc đề xuất**, chưa phải hiến chương đã ban hành.
+> Đây là **bản thiết kế tổng** của tầng hiến chương: cỗ máy nạp tiên đề vào, ra được luật cụ thể, và có chỗ ghi lại phán quyết của con người khi hai tiên đề va nhau.
 >
-> Nó mô tả cỗ máy: nạp tiên đề vào, ra được luật cụ thể, và có chỗ ghi lại phán quyết của con người khi hai tiên đề va nhau.
+> Kiến trúc này **đã được triển khai** thành các văn bản riêng trong thư mục `Hiến chương/`. Cửa vào là [[Hiến chương - Bản đồ]].
 >
-> Cần được duyệt hoặc sửa trước khi bung thành các file riêng.
+> Giữ file này làm bản giải thích lý do thiết kế. Nội dung ràng buộc nằm ở các văn bản con.
 
 ## 1. Bài toán
 
@@ -234,7 +234,7 @@ B4. LẬT TIỀN LỆ
 
 ### Ví dụ chạy thử: ẩn danh vs chống Sybil
 
-**Xung đột:** `TĐ-05` danh dự tự nguyện (người góp được chọn ẩn danh hoàn toàn) chọi `TĐ-12` chống giả mạo cộng đồng (cơ chế thưởng theo số người phải kiểm soát danh tính duy nhất).
+**Xung đột:** `TĐ-05` ghi nhận phục vụ phẩm giá (người góp được chọn ẩn danh hoàn toàn) chọi `TĐ-09` cộng đồng không đồng nhất tổng tiền (độ rộng ủng hộ có trọng lượng, nên cơ chế thưởng theo số người phải kiểm soát danh tính duy nhất).
 
 **B0 — Xung đột thật không?**
 `TĐ-05` nói về *hiển thị công khai*. Chống Sybil nói về *xác minh nội bộ*. Hai miền khác nhau → phần lớn xung đột tan. Phần còn lại thật sự: người góp không muốn để lại dấu vết định danh cho **cả nền tảng**.
@@ -243,7 +243,7 @@ B4. LẬT TIỀN LỆ
 `LC-02` có liên quan (người góp giả là gian lận). Nhưng LC-02 cấm *hành vi tạo người góp giả*, không quy định *phải xác minh bằng phương pháp nào*. Chưa kết thúc, đi tiếp.
 
 **B2a — Mỗi bên bảo vệ gì?**
-`TĐ-05` bảo vệ quyền không bị phơi bày. `TĐ-12` bảo vệ tính toàn vẹn của tín hiệu "độ rộng ủng hộ" — thứ mà matching và quadratic funding dựa vào.
+`TĐ-05` bảo vệ quyền không bị phơi bày. `TĐ-09` bảo vệ tính toàn vẹn của tín hiệu "độ rộng ủng hộ" — thứ mà matching và quadratic funding dựa vào.
 
 **B2b — Giải pháp thứ ba:**
 Tách *chứng minh là người duy nhất* khỏi *danh tính*. Bên thứ ba xác minh tính duy nhất và cấp một token không liên kết ngược được; nền tảng đếm token mà không biết ai. Thỏa cả hai tiên đề.
@@ -251,7 +251,7 @@ Tách *chứng minh là người duy nhất* khỏi *danh tính*. Bên thứ ba 
 **B2c — Khi chưa có bên thứ ba (giai đoạn pilot):**
 Chọn phương án xâm hại ít nhất — người ẩn danh vẫn góp được bình thường, nhưng khoản của họ không được tính vào trọng số độ rộng. Hy sinh một phần hiệu lực của `TĐ-12` thay vì tước quyền ẩn danh.
 
-**B3 — Tiền lệ `TL-001`:**
+**B3 — Tiền lệ [[TL-001 Ẩn danh và chống Sybil|TL-001]]:**
 > Ẩn danh là quyền đối với công chúng, không phải quyền đối với hệ thống kiểm toán. Khi hệ thống chưa thể xác minh tính duy nhất, hãy loại khoản ẩn danh khỏi trọng số thay vì cấm ẩn danh.
 
 **Phạm vi ràng buộc:** mọi cơ chế thưởng hoặc matching tính theo số người.

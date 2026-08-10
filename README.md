@@ -14,6 +14,40 @@ Ghi chú trung tâm của dự án là:
 
 Từ ghi chú trung tâm, nội dung được tách sang các thư mục theo **vai trò tư duy** bên dưới.
 
+## Muốn tham gia đóng góp?
+
+Vào [`Hiến chương/Hiến chương - Bản đồ.md`](./Hi%E1%BA%BFn%20ch%C6%B0%C6%A1ng/Hi%E1%BA%BFn%20ch%C6%B0%C6%A1ng%20-%20B%E1%BA%A3n%20%C4%91%E1%BB%93.md). Đọc mục 1 và mục 4 là đủ để bắt đầu, không cần đọc hết whitepaper.
+
+Bốn đường vào, chọn một:
+
+| Đường | Việc làm | Cần biết trước |
+|---|---|---|
+| Nêu một vấn đề | Thấy tình huống chưa có luật, hoặc luật ra kết quả sai | Không cần gì |
+| Đặt một câu hỏi | Đọc một tiên đề mà chưa hiểu áp vào thực tế thế nào | Không cần gì |
+| Mang một ca thật | Có dự án hoặc tình huống thật để thử luật | Không cần gì |
+| Phản biện một dự thảo | Tìm cách **bẻ** một luật đang soạn | Đọc tiên đề lõi cứng |
+
+Mẫu điền sẵn nằm ở thư mục [`_Mẫu`](./_M%E1%BA%ABu/). Chép mẫu, đổi tên, điền.
+
+> **Vai đang thiếu người nhất: phản biện.** Một dự thảo không có người phản biện đứng tên sẽ không được ban hành.
+
+## Tầng hiến chương
+
+Tầng này nằm **trên** dây chuyền `00`–`06`, quy định điều gì không bao giờ được vi phạm và cách suy dẫn từ tiên đề ra luật cụ thể.
+
+- [`Hiến chương - Bản đồ`](./Hi%E1%BA%BFn%20ch%C6%B0%C6%A1ng/Hi%E1%BA%BFn%20ch%C6%B0%C6%A1ng%20-%20B%E1%BA%A3n%20%C4%91%E1%BB%93.md) — cửa vào, đọc đầu tiên.
+- [`Tiên đề lõi cứng`](./Hi%E1%BA%BFn%20ch%C6%B0%C6%A1ng/Ti%C3%AAn%20%C4%91%E1%BB%81%20l%C3%B5i%20c%E1%BB%A9ng.md) — `LC-01`…`LC-06`, tuyệt đối, không ngoại lệ.
+- [`Tiên đề vòng ngoài`](./Hi%E1%BA%BFn%20ch%C6%B0%C6%A1ng/Ti%C3%AAn%20%C4%91%E1%BB%81%20v%C3%B2ng%20ngo%C3%A0i.md) — `TĐ-01`…`TĐ-12`, không bác bỏ nhưng có thể cân bằng.
+- [`Giao thức suy dẫn luật`](./Hi%E1%BA%BFn%20ch%C6%B0%C6%A1ng/Giao%20th%E1%BB%A9c%20suy%20d%E1%BA%ABn%20lu%E1%BA%ADt.md) — phép kiểm hợp hiến 6 bước.
+- [`Giao thức xử lý xung đột`](./Hi%E1%BA%BFn%20ch%C6%B0%C6%A1ng/Giao%20th%E1%BB%A9c%20x%E1%BB%AD%20l%C3%BD%20xung%20%C4%91%E1%BB%99t.md) — khi hai tiên đề chỉ ngược nhau.
+- [`Vai trò và cặp vai bị cấm`](./Hi%E1%BA%BFn%20ch%C6%B0%C6%A1ng/Vai%20tr%C3%B2%20v%C3%A0%20c%E1%BA%B7p%20vai%20b%E1%BB%8B%20c%E1%BA%A5m.md) — ai làm gì, ai không được kiêm gì.
+
+Bản thiết kế và lý do đằng sau: [`Kiến trúc hiến chương và suy dẫn luật`](./Ki%E1%BA%BFn%20tr%C3%BAc%20hi%E1%BA%BFn%20ch%C6%B0%C6%A1ng%20v%C3%A0%20suy%20d%E1%BA%ABn%20lu%E1%BA%ADt.md).
+
+> **Nguyên tắc nhập môn:** Một luật không chỉ ra được nó thực thi tiên đề nào là luật vô hiệu, kể cả khi nội dung nghe hợp lý. Tiên đề lõi cứng không bao giờ được cân đo; tiên đề vòng ngoài không bị bác bỏ, nhưng khi va nhau thì được cân bằng có ghi lý do và thành tiền lệ.
+>
+> **Toàn bộ tầng này đang ở trạng thái chờ phê chuẩn.** Nội dung có thể sửa; điều không sửa được là *cách* sửa.
+
 ## Onboarding tài chính và quản lý quỹ
 
 Thành viên mới tham gia các phần tài chính, pháp lý, vận hành dòng tiền hoặc giám sát dự án nên bắt đầu tại:
@@ -104,6 +138,8 @@ Thành viên thiết kế charter, change control, refund, recovery, termination
 
 | Thư mục | Vai trò | Câu hỏi mà thư mục trả lời |
 |---|---|---|
+| [`Hiến chương`](./Hi%E1%BA%BFn%20ch%C6%B0%C6%A1ng/) | Tiên đề, giao thức suy dẫn luật, giao thức xử lý xung đột, vai trò và tiền lệ. Nằm **trên** dây chuyền, không phải một khâu trong đó. | **Điều gì không bao giờ được vi phạm?** |
+| [`_Mẫu`](./_M%E1%BA%ABu/) | Mẫu điền sẵn cho vấn đề, câu hỏi, dự thảo luật, phản biện và tiền lệ. | **Tôi đóng góp bằng cách nào?** |
 | [`00 Là gì`](./00%20L%C3%A0%20g%C3%AC/) | Định nghĩa các khái niệm, mô hình và tiền thân lịch sử trước khi sử dụng chúng trong lập luận. | **Nó là gì?** |
 | [`01 Nguồn`](./01%20Ngu%E1%BB%93n/) | Lưu dữ liệu gốc, tài liệu tham khảo, báo cáo thảo luận, phản hồi, bằng chứng và hồ sơ các tổ chức trong hệ sinh thái. | **Ta biết điều này từ đâu?** |
 | [`02 Mở rộng`](./02%20M%E1%BB%9F%20r%E1%BB%99ng/) | Không gian khám phá: giả thuyết, liên tưởng, phản biện, góc nhìn khác, khái niệm ứng viên và liên kết với các mô hình bên ngoài. | **Còn có thể nhìn và phát triển ý này theo hướng nào?** |
@@ -117,13 +153,18 @@ Thành viên thiết kế charter, change control, refund, recovery, termination
 ## Dòng vận hành
 
 ```text
+                        Hiến chương
+                  tiên đề — ràng buộc mọi tầng dưới
+                              ↓
                          00 Là gì
                     lớp định nghĩa nền
                               ↓
 01 Nguồn → 02 Mở rộng → 03 Vấn đề → 04 Giải pháp → 05 Phương án → 06 Thực làm
-    ↑                                                                    ↓
-    └────────────── kết quả, phản hồi và dữ liệu mới ────────────────────┘
+    ↑                                  (nguyên tắc)      (luật)              ↓
+    └────────────── kết quả, phản hồi và dữ liệu mới ────────────────────────┘
 ```
+
+Ba thư mục giữa của dây chuyền chính là chuỗi suy dẫn từ hiến chương: `03 Vấn đề` nêu điều cần xử lý, `04 Giải pháp` giữ nguyên tắc (`NT-xxx`), `05 Phương án` giữ luật cụ thể (`L-xxx`), và `06 Thực làm` là nơi luật gặp ca thật. Mọi luật phải truy nguyên được về một tiên đề.
 
 Đây không phải dây chuyền đi một lần rồi kết thúc. Mỗi thử nghiệm tạo ra dữ liệu mới; dữ liệu mới quay lại `01 Nguồn`, làm thay đổi giả thuyết, vấn đề, giải pháp và phương án tiếp theo.
 
