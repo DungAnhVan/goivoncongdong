@@ -2,7 +2,7 @@
 type: nguon-chinh-sach
 status: da-doi-chieu
 jurisdiction: Việt Nam
-date_event: 2026-06-30
+date_event: 2026-07-01
 updated: 2026-08-11
 tags:
   - public-fund
@@ -12,12 +12,13 @@ tags:
   - nic
   - high-tech
   - rd
+  - university
 ---
 
 # 2024–2026 — Các quỹ công, NIC và nguồn lực R&D/công nghệ cao
 
 > [!abstract] Vì sao cần file này?
-> Ngoài grant startup và venture fund, Việt Nam còn có nhiều **public resource channel** phục vụ nghiên cứu, đổi mới công nghệ, đầu tư công nghệ cao và hạ tầng đổi mới sáng tạo. Project routing phải nhìn thấy các lane này.
+> Ngoài grant startup và venture fund, Việt Nam còn có nhiều **public resource channel** phục vụ nghiên cứu, đổi mới công nghệ, đầu tư công nghệ cao, trường đại học và hạ tầng đổi mới sáng tạo. Project routing phải nhìn thấy các lane này.
 
 ## 1. Quỹ Đổi mới công nghệ quốc gia — Nghị định 77/2026/NĐ-CP
 
@@ -60,6 +61,16 @@ Scalable company
 ```
 
 Một project deep-tech có thể đi qua nhiều lane theo thời gian nhưng không nên trộn mục tiêu và evidence của chúng.
+
+### Dấu vết vận hành 2026
+
+Bộ KH&CN đã công bố kế hoạch tài trợ nghiên cứu cơ bản và nghiên cứu phát triển công nghệ năm 2026, trong đó ưu tiên các lĩnh vực công nghệ chiến lược theo Quyết định 21/2026/QĐ-TTg.
+
+Nguồn:
+- https://mst.gov.vn/thong-bao-ke-hoach-tai-tro-nghien-cuu-co-ban-nam-2026-197260714092003683.htm
+- https://mst.gov.vn/thong-bao-ke-hoach-tai-tro-nhiem-vu-nghien-cuu-phat-trien-cong-nghe-nam-2026-197260714093009277.htm
+
+Điều này là bằng chứng **program/call lane đang vận hành**, nhưng mỗi đợt tài trợ vẫn phải kiểm tra deadline, đối tượng, form và tiêu chí riêng.
 
 ## 3. Quỹ Hỗ trợ đầu tư — Nghị định 182/2024/NĐ-CP
 
@@ -128,7 +139,41 @@ workspace
 + credit/funding route
 ```
 
-## 5. Nghị định 260/2026/NĐ-CP — Luật Công nghệ cao
+## 5. Nghị định 125/2026/NĐ-CP — KHCN/ĐMST trong cơ sở giáo dục đại học
+
+- Ban hành và có hiệu lực: 06/04/2026.
+- Quy định hoạt động khoa học, công nghệ và đổi mới sáng tạo trong cơ sở giáo dục đại học.
+
+Nguồn: https://vanban.chinhphu.vn/?classid=1&docid=217673&orggroupid=2&pageid=27160
+
+### Vì sao liên quan đến SAMSTI?
+
+Trường đại học không chỉ là nơi “có sinh viên khởi nghiệp”. Đây có thể là nguồn:
+
+```text
+research
++ lab / equipment
++ IP
++ scientist / student team
++ technology transfer
++ startup formation
++ commercialization partner
+```
+
+Một project xuất phát từ trường có thể cần routing khác project thị trường thuần túy:
+
+```text
+Research result
+→ IP/right check
+→ TRL
+→ team/company formation
+→ commercialization
+→ customer / investor / public program
+```
+
+Liên kết với case TP.HCM: [[2025-2026 - Công nghệ chiến lược thương mại hóa tài sản trí tuệ và nhân lực]].
+
+## 6. Nghị định 260/2026/NĐ-CP — Luật Công nghệ cao
 
 - Ban hành: 30/06/2026.
 - Hiệu lực: 01/07/2026.
@@ -138,11 +183,30 @@ Nguồn: https://vanban.chinhphu.vn/?classid=1&docid=218694&pageid=27160&typegro
 
 Đây là một eligibility/status lane quan trọng vì nhiều chính sách TP.HCM — ví dụ NQ22/2026 — phân biệt **doanh nghiệp công nghệ cao** với các nhóm doanh nghiệp khác.
 
-## 6. Danh mục công nghệ chiến lược — Quyết định 1131/QĐ-TTg ngày 12/06/2025
+## 7. Danh mục công nghệ chiến lược hiện hành — Quyết định 21/2026/QĐ-TTg
 
-Thủ tướng ban hành Danh mục công nghệ chiến lược và sản phẩm công nghệ chiến lược.
+- Ban hành: 30/04/2026.
+- Hiệu lực: 01/07/2026.
+- Ban hành **Danh mục công nghệ chiến lược và Danh mục sản phẩm công nghệ chiến lược**.
+- **Thay thế Quyết định 1131/QĐ-TTg ngày 12/06/2025.**
 
-Nguồn: https://vanban.chinhphu.vn/?docid=213929&pageid=27160
+Nguồn chính thức: https://vanban.chinhphu.vn/?classid=1&docid=218002&orggroupid=3&pageid=27160
+
+Bộ KH&CN công bố 10 nhóm công nghệ chiến lược, bao gồm công nghệ số; mạng di động thế hệ sau; robot và tự động hóa; công nghệ sinh học/y sinh; năng lượng/vật liệu; chip bán dẫn; an ninh mạng/lượng tử; biển/đại dương/lòng đất; hàng không-vũ trụ; đường sắt tốc độ cao/đô thị.
+
+Nguồn giải thích: https://mst.gov.vn/viet-nam-xac-lap-10-nhom-cong-nghe-chien-luoc-197260506112216146.htm
+
+### Version history
+
+```text
+QĐ1131/QĐ-TTg (12/06/2025)
+→ danh mục giai đoạn trước
+
+QĐ21/2026/QĐ-TTg (hiệu lực 01/07/2026)
+→ danh mục hiện hành tại snapshot 11/08/2026
+```
+
+Không dùng QĐ1131 như danh mục hiện hành sau 01/07/2026.
 
 ### Dùng đúng cách
 
@@ -156,7 +220,7 @@ Project technology
 
 Nhưng nằm trong danh mục chiến lược **không tự động tạo quyền nhận vốn**.
 
-## 7. Resource routing mở rộng
+## 8. Resource routing mở rộng
 
 ```text
 Research excellence
@@ -171,14 +235,17 @@ Large/high-tech/R&D investment
 Innovation infrastructure/ecosystem
 → NIC
 
+University research/IP/team
+→ NĐ125 university innovation lane
+
 High-tech legal status
 → High-Tech Law + NĐ260
 
 Strategic technology
-→ priority taxonomy → relevant calls/programs
+→ QĐ21 taxonomy → relevant calls/programs
 ```
 
-## 8. SAMSTI nên lưu `resource provider type`
+## 9. SAMSTI nên lưu `resource provider type`
 
 ```text
 Grant fund
@@ -187,6 +254,7 @@ Innovation fund
 Venture fund
 Investment support fund
 Innovation center
+University / research institution
 Bank/credit program
 Public procurement authority
 Corporate sponsor
@@ -195,14 +263,15 @@ Community
 
 Không dùng một nhãn chung `Quỹ` vì governance, return expectation, eligible actor và evidence hoàn toàn khác nhau.
 
-## 9. Không được suy diễn
+## 10. Không được suy diễn
 
 - Tên “Quỹ” không cho biết tự động đó là grant, loan hay investment.
 - Hạ tầng của NIC không mặc nhiên miễn phí cho mọi startup.
 - Strategic technology status không phải funding approval.
 - Nghị định có hiệu lực không đồng nghĩa mọi chương trình/call luôn mở nhận hồ sơ.
+- University ownership/use rights đối với IP phải kiểm tra theo nguồn hình thành và quy định áp dụng; không giả định founder/student tự sở hữu toàn bộ.
 
-## 10. Liên kết repo
+## 11. Liên kết repo
 
 - [[Fund management]]
 - [[Grant và subsidy]]
@@ -210,3 +279,4 @@ Không dùng một nhãn chung `Quỹ` vì governance, return expectation, eligi
 - [[Asset and access contribution]]
 - [[Multi-resource matching]]
 - [[Bản đồ chính sách công Việt Nam và TP.HCM - 2026]]
+- [[2025-2026 - Công nghệ chiến lược thương mại hóa tài sản trí tuệ và nhân lực]]
