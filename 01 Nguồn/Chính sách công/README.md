@@ -58,17 +58,21 @@ Không được lấp khoảng trống này bằng suy đoán.
 01 Nguồn/Chính sách công/
 ├─ README.md
 ├─ Việt Nam/
+│  ├─ Chiến lược quốc gia khởi nghiệp sáng tạo
 │  ├─ Khung quốc gia KHCN/ĐMST/startup
 │  ├─ Kinh tế tư nhân/SME/vốn khởi nghiệp
+│  ├─ Quỹ công/NIC/R&D/công nghệ cao
 │  ├─ Công nghiệp công nghệ số
-│  └─ Sandbox/IFC/crowdfunding gap
+│  ├─ Sandbox/IFC/crowdfunding gap
+│  └─ Donation/quỹ xã hội/doanh nghiệp xã hội
 ├─ TPHCM/
 │  ├─ Hỗ trợ startup/SME
 │  ├─ NQ98/NQ31/thuế
 │  ├─ NQ20/NQ22/NQ23
 │  ├─ NQ24/QĐ36/recognition
 │  ├─ HCM VIF/kiều hối
-│  └─ Kế hoạch 141/Chương trình 2685
+│  ├─ Kế hoạch 141/Chương trình 2685
+│  └─ Công nghệ chiến lược/IP/TRL/chuyên gia/outcome
 ├─ Dự thảo và watchlist/
 │  └─ draft, consultation, policy gap
 └─ Quốc tế/
@@ -150,10 +154,13 @@ Nếu không khớp node nào, lúc đó mới cân nhắc tạo thuật ngữ m
 
 | Policy stack | Source record | Status 11/08/2026 |
 |---|---|---|
+| NQ86 — Chiến lược quốc gia khởi nghiệp sáng tạo | [[2026 - Chiến lược quốc gia về khởi nghiệp sáng tạo NQ86]] | Strategy / current |
 | Luật 93 + NĐ264/265/267/268 + TT36 + NQ193/NĐ88 | [[2025-2026 - Khung quốc gia KHCN đổi mới sáng tạo và startup]] | Current / cần kiểm tra chuyển tiếp theo cơ chế cụ thể |
 | NQ198 + NĐ20 + NĐ80 + NĐ38/210 | [[2025-2026 - Kinh tế tư nhân SME và vốn khởi nghiệp]] | Current |
+| NĐ77 + NĐ229 + NĐ182 + NĐ97 + NĐ125 + NĐ260 + QĐ21 | [[2024-2026 - Các quỹ công NIC và nguồn lực R&D công nghệ cao]] | Current / một số call operational |
 | Luật Công nghiệp công nghệ số 71/2025 | [[2025-2026 - Công nghiệp công nghệ số và hỗ trợ startup số]] | Current |
 | IFC + banking sandbox + crowdfunding legal gap | [[2025-2026 - Sandbox tài chính IFC và khoảng trống crowdfunding]] | Current + watchlist |
+| NĐ93 + NĐ03/2026 + doanh nghiệp xã hội | [[2021-2026 - Donation quỹ xã hội từ thiện và doanh nghiệp xã hội]] | Current / theo phạm vi từng lane |
 
 ## 8. Case registry — TP.HCM
 
@@ -164,6 +171,7 @@ Nếu không khớp node nào, lúc đó mới cân nhắc tạo thuật ngữ m
 | NQ24 + QĐ36 + recognition theo NĐ268 | [[2026 - NQ24 QD36 quản lý nhiệm vụ và công nhận actor hệ sinh thái]] | Current / operational |
 | HCM VIF + Kế hoạch 90 kiều hối | [[2026 - HCM VIF kiều hối và các kênh tài chính mới cho KHCN]] | VIF operational; Kế hoạch 90 = plan |
 | Kế hoạch 141 + QĐ2685 | [[2026 - Kế hoạch 141 và Chương trình 2685 hệ sinh thái đổi mới sáng tạo]] | Plan / program implementation |
+| Kế hoạch 122 + QĐ3053 + QĐ05 + QĐ18 | [[2025-2026 - Công nghệ chiến lược thương mại hóa tài sản trí tuệ và nhân lực]] | Plan + operational pilots/procedures |
 | Tin 11/08 về hỗ trợ startup/SME | [[2026-08-11 - Hỗ trợ startup SME đổi mới sáng tạo]] | Source event |
 
 ## 9. Watchlist registry
@@ -188,13 +196,14 @@ Nếu không khớp node nào, lúc đó mới cân nhắc tạo thuật ngữ m
 Văn bản chính thức ở đâu?
 Đang hiệu lực hay dự thảo?
 Ai thật sự đủ điều kiện?
-Đây là grant, subsidy, procurement, loan, investment hay sandbox?
+Đây là grant, subsidy, procurement, loan, investment, donation hay sandbox?
 Nguồn lực đi qua ai?
-Ai giữ tiền?
+Ai giữ tiền/tài sản/quyền?
 Ai quyết định?
 Ai xác minh?
 Bằng chứng nào kích hoạt hỗ trợ?
 Có đối ứng không?
+Có IP/data/right restriction không?
 Nếu thất bại thì hoàn/trả/xử lý thế nào?
 Nền tảng có thể tạo giá trị ở upstream, matching, evidence hay downstream?
 ```
@@ -222,6 +231,12 @@ Có quỹ
 
 Có sandbox
 ≠ mô hình của ta được phép thử
+
+Có strategic-tech tag
+≠ được ưu đãi tự động
+
+Có donation button
+≠ transaction thuộc donation law
 ```
 
 ## 13. Liên kết trung tâm
