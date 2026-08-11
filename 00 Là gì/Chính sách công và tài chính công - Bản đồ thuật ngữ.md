@@ -187,6 +187,74 @@ Thông tin nào phải công khai?
 - [[Additionality]]
 - [[Deadweight loss]]
 
+## 9. Nguồn sống và policy routing
+
+Glossary chỉ giúp hiểu khái niệm. Để dùng chính sách cho một project thật phải đi qua ba lớp dữ liệu sống khác:
+
+```text
+Glossary / ontology
+→ hiểu công cụ và ranh giới khái niệm
+
+[[Nguồn — Chính sách công]]
+→ biết policy stack, status hiện hành, draft/watchlist và source record
+
+[[Danh mục nguồn pháp luật Việt Nam hiện hành]]
+→ kiểm tra legal basis, sửa đổi, thay thế và hiệu lực
+
+[[Bản đồ chính sách công Việt Nam và TP.HCM - 2026]]
+→ route project sang resource/program/actor phù hợp
+```
+
+Vấn đề upstream liên quan:
+
+- [[Khoảng trống từ ý tưởng đến đủ điều kiện nhận hỗ trợ công]]
+
+### Bốn ranh giới bắt buộc khi đọc policy
+
+```text
+Recognition
+≠ Eligibility
+≠ Evaluation
+≠ Funding decision
+
+Strategy
+≠ Program
+≠ Open call
+
+Grant
+≠ Procurement
+≠ Investment
+≠ Donation
+
+Strategic-technology tag
+≠ Automatic benefit
+```
+
+### Policy routing thay vì “danh sách chính sách”
+
+Câu hỏi hệ thống nên trả lời không phải:
+
+> Startup có chính sách gì?
+
+Mà là:
+
+> **Project cụ thể này, ở trạng thái hiện tại, có thể phù hợp với resource/policy lane nào; vì sao; thiếu điều kiện hoặc evidence gì; ai có thẩm quyền; và bước tiếp theo là gì?**
+
+Policy routing cần đọc đồng thời:
+
+- actor/legal status;
+- location;
+- sector/technology;
+- project stage;
+- TRL/IP nếu là project công nghệ;
+- beneficiary/customer evidence;
+- budget/resource gap;
+- contribution/co-financing;
+- current legal version;
+- program/call status.
+
+Không được biến kết quả matching thành tuyên bố pháp lý “đủ điều kiện” nếu chưa có căn cứ hoặc xác nhận tương ứng.
+
 ## Nguồn tham khảo
 
 - OECD — Public finance: https://www.oecd.org/en/topics/sub-issues/public-finance.html
