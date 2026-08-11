@@ -52,21 +52,30 @@ TIN / VĂN BẢN / THÔNG BÁO
 
 Không được lấp khoảng trống này bằng suy đoán.
 
-## 3. Cấu trúc thư mục đề xuất
+## 3. Cấu trúc thư mục
 
 ```text
 01 Nguồn/Chính sách công/
 ├─ README.md
-├─ TPHCM/
-│  ├─ 2026-08-11 - Hỗ trợ startup SME đổi mới sáng tạo.md
-│  └─ ...
 ├─ Việt Nam/
-│  └─ ...
+│  ├─ Khung quốc gia KHCN/ĐMST/startup
+│  ├─ Kinh tế tư nhân/SME/vốn khởi nghiệp
+│  ├─ Công nghiệp công nghệ số
+│  └─ Sandbox/IFC/crowdfunding gap
+├─ TPHCM/
+│  ├─ Hỗ trợ startup/SME
+│  ├─ NQ98/NQ31/thuế
+│  ├─ NQ20/NQ22/NQ23
+│  ├─ NQ24/QĐ36/recognition
+│  ├─ HCM VIF/kiều hối
+│  └─ Kế hoạch 141/Chương trình 2685
+├─ Dự thảo và watchlist/
+│  └─ draft, consultation, policy gap
 └─ Quốc tế/
    └─ ...
 ```
 
-Phân loại theo **jurisdiction + date + policy event**, không theo cảm xúc “tin tốt/tin xấu”.
+Phân loại theo **jurisdiction + policy stack + status**, không theo cảm xúc “tin tốt/tin xấu”.
 
 ## 4. Template cho một policy source record
 
@@ -97,7 +106,29 @@ Nội dung tối thiểu:
 11. Câu hỏi nghiên cứu tiếp
 ```
 
-## 5. Cách gắn với ontology hiện tại
+## 5. Status taxonomy
+
+```text
+CURRENT / ĐANG HIỆU LỰC
+→ văn bản chính thức đang dùng
+
+OPERATIONAL
+→ chương trình/quỹ/thủ tục đã có dấu vết vận hành thực tế
+
+PLAN / STRATEGY
+→ kế hoạch, mục tiêu, roadmap; chưa đồng nghĩa mọi công cụ đã mở
+
+DRAFT / CONSULTATION
+→ chưa phải quy định cuối
+
+WATCHLIST
+→ khoảng trống hoặc thay đổi cần theo dõi
+
+REPLACED / EXPIRED
+→ giữ lịch sử nhưng không dùng như quy định hiện hành
+```
+
+## 6. Cách gắn với ontology hiện tại
 
 Một case chính sách nên thử phân loại bằng các node:
 
@@ -115,13 +146,42 @@ Một case chính sách nên thử phân loại bằng các node:
 
 Nếu không khớp node nào, lúc đó mới cân nhắc tạo thuật ngữ mới.
 
-## 6. Case registry
+## 7. Case registry — Việt Nam
 
-| Ngày | Jurisdiction | Case | Source record | Analysis | Problem |
-|---|---|---|---|---|---|
-| 2026-08-11 | TP.HCM | Hỗ trợ startup/SME đổi mới sáng tạo | [[2026-08-11 - Hỗ trợ startup SME đổi mới sáng tạo]] | [[TP.HCM 2026 - Nhà nước như một nguồn lực trong dự án]] | [[Khoảng trống từ ý tưởng đến đủ điều kiện nhận hỗ trợ công]] |
+| Policy stack | Source record | Status 11/08/2026 |
+|---|---|---|
+| Luật 93 + NĐ264/265/267/268 + TT36 + NQ193/NĐ88 | [[2025-2026 - Khung quốc gia KHCN đổi mới sáng tạo và startup]] | Current / cần kiểm tra chuyển tiếp theo cơ chế cụ thể |
+| NQ198 + NĐ20 + NĐ80 + NĐ38/210 | [[2025-2026 - Kinh tế tư nhân SME và vốn khởi nghiệp]] | Current |
+| Luật Công nghiệp công nghệ số 71/2025 | [[2025-2026 - Công nghiệp công nghệ số và hỗ trợ startup số]] | Current |
+| IFC + banking sandbox + crowdfunding legal gap | [[2025-2026 - Sandbox tài chính IFC và khoảng trống crowdfunding]] | Current + watchlist |
 
-## 7. Câu hỏi mặc định khi có tin chính sách mới
+## 8. Case registry — TP.HCM
+
+| Policy stack | Source record | Status 11/08/2026 |
+|---|---|---|
+| NQ98 sửa bởi NQ260 + NQ31 + ưu đãi thuế | [[2023-2026 - NQ98 NQ260 NQ31 và ưu đãi thuế đổi mới sáng tạo]] | Current |
+| NQ20 + NQ22 + NQ23 | [[2023-2026 - NQ20 NQ22 NQ23 và hỗ trợ dự án đổi mới sáng tạo]] | Current; NQ20 có draft reform đang theo dõi |
+| NQ24 + QĐ36 + recognition theo NĐ268 | [[2026 - NQ24 QD36 quản lý nhiệm vụ và công nhận actor hệ sinh thái]] | Current / operational |
+| HCM VIF + Kế hoạch 90 kiều hối | [[2026 - HCM VIF kiều hối và các kênh tài chính mới cho KHCN]] | VIF operational; Kế hoạch 90 = plan |
+| Kế hoạch 141 + QĐ2685 | [[2026 - Kế hoạch 141 và Chương trình 2685 hệ sinh thái đổi mới sáng tạo]] | Plan / program implementation |
+| Tin 11/08 về hỗ trợ startup/SME | [[2026-08-11 - Hỗ trợ startup SME đổi mới sáng tạo]] | Source event |
+
+## 9. Watchlist registry
+
+- [[2026 - Dự thảo hỗ trợ startup và policy watchlist]]
+  - dự thảo hỗ trợ không hoàn lại 3 stage TP.HCM;
+  - local sandbox;
+  - investment/equity crowdfunding framework;
+  - sửa Luật Hỗ trợ DNNVV;
+  - HCM VIF investment rules/portfolio data.
+
+## 10. Analysis registry
+
+- [[TP.HCM 2026 - Nhà nước như một nguồn lực trong dự án]]
+- [[Bản đồ chính sách công Việt Nam và TP.HCM - 2026]]
+- [[Khoảng trống từ ý tưởng đến đủ điều kiện nhận hỗ trợ công]]
+
+## 11. Câu hỏi mặc định khi có tin chính sách mới
 
 ```text
 Đây là chính sách hay chỉ là tuyên bố/định hướng?
@@ -139,8 +199,34 @@ Nếu thất bại thì hoàn/trả/xử lý thế nào?
 Nền tảng có thể tạo giá trị ở upstream, matching, evidence hay downstream?
 ```
 
-## 8. Liên kết trung tâm
+## 12. Quy tắc chống overclaim
+
+```text
+Có văn bản
+≠ có call đang mở
+
+Có chương trình
+≠ project đủ điều kiện
+
+Đủ điều kiện
+≠ được duyệt
+
+Được duyệt
+≠ đã giải ngân
+
+Đã giải ngân
+≠ đã tạo outcome
+
+Có quỹ
+≠ quỹ đã đầu tư project này
+
+Có sandbox
+≠ mô hình của ta được phép thử
+```
+
+## 13. Liên kết trung tâm
 
 - [[Chính sách công và tài chính công - Bản đồ thuật ngữ]]
+- [[Bản đồ chính sách công Việt Nam và TP.HCM - 2026]]
 - [[Liên kết mô hình khác]]
 - [[SIHUB - Tổng quan và bài học]]
