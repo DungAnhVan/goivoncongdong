@@ -59,10 +59,12 @@ Không được lấp khoảng trống này bằng suy đoán.
 ├─ README.md
 ├─ Việt Nam/
 │  ├─ Chiến lược quốc gia khởi nghiệp sáng tạo
+│  ├─ Chiến lược KHCN / công nghệ chiến lược
 │  ├─ Khung quốc gia KHCN/ĐMST/startup
-│  ├─ Kinh tế tư nhân/SME/vốn khởi nghiệp
+│  ├─ Kinh tế tư nhân/SME/vốn khởi nghiệp/scale-up
 │  ├─ Quỹ công/NIC/R&D/công nghệ cao
 │  ├─ Công nghiệp công nghệ số
+│  ├─ Mua sắm công/first-customer
 │  ├─ Sandbox/IFC/crowdfunding gap
 │  └─ Donation/quỹ xã hội/doanh nghiệp xã hội
 ├─ TPHCM/
@@ -155,10 +157,12 @@ Nếu không khớp node nào, lúc đó mới cân nhắc tạo thuật ngữ m
 | Policy stack | Source record | Status 11/08/2026 |
 |---|---|---|
 | NQ86 — Chiến lược quốc gia khởi nghiệp sáng tạo | [[2026 - Chiến lược quốc gia về khởi nghiệp sáng tạo NQ86]] | Strategy / current |
+| QĐ604 + QĐ21 + QĐ808 — chiến lược KHCN và công nghệ chiến lược | [[2026 - Chiến lược KHCN 2030 và giao nhiệm vụ công nghệ chiến lược]] | Strategy + current task framework |
 | Luật 93 + NĐ264/265/267/268 + TT36 + NQ193/NĐ88 | [[2025-2026 - Khung quốc gia KHCN đổi mới sáng tạo và startup]] | Current / cần kiểm tra chuyển tiếp theo cơ chế cụ thể |
-| NQ198 + NĐ20 + NĐ80 + NĐ38/210 | [[2025-2026 - Kinh tế tư nhân SME và vốn khởi nghiệp]] | Current |
+| NQ198 + NĐ20 + NĐ80 + NĐ38/210 + QĐ631 scale-up | [[2025-2026 - Kinh tế tư nhân SME và vốn khởi nghiệp]] | Current / scale-up program current |
 | NĐ77 + NĐ229 + NĐ182 + NĐ97 + NĐ125 + NĐ260 + QĐ21 | [[2024-2026 - Các quỹ công NIC và nguồn lực R&D công nghệ cao]] | Current / một số call operational |
 | Luật Công nghiệp công nghệ số 71/2025 | [[2025-2026 - Công nghiệp công nghệ số và hỗ trợ startup số]] | Current |
+| Luật Đấu thầu hợp nhất + NĐ214/2025 | [[2025-2026 - Mua sắm công đấu thầu và first-customer route]] | Current; draft sửa NĐ214 đang watch |
 | IFC + banking sandbox + crowdfunding legal gap | [[2025-2026 - Sandbox tài chính IFC và khoảng trống crowdfunding]] | Current + watchlist |
 | NĐ93 + NĐ03/2026 + doanh nghiệp xã hội | [[2021-2026 - Donation quỹ xã hội từ thiện và doanh nghiệp xã hội]] | Current / theo phạm vi từng lane |
 
@@ -181,7 +185,8 @@ Nếu không khớp node nào, lúc đó mới cân nhắc tạo thuật ngữ m
   - local sandbox;
   - investment/equity crowdfunding framework;
   - sửa Luật Hỗ trợ DNNVV;
-  - HCM VIF investment rules/portfolio data.
+  - HCM VIF investment rules/portfolio data;
+  - dự thảo sửa NĐ214/2025 về lựa chọn nhà thầu.
 
 ## 10. Analysis registry
 
@@ -237,11 +242,15 @@ Có strategic-tech tag
 
 Có donation button
 ≠ transaction thuộc donation law
+
+Có public problem/pilot
+≠ có procurement contract
 ```
 
 ## 13. Liên kết trung tâm
 
 - [[Chính sách công và tài chính công - Bản đồ thuật ngữ]]
 - [[Bản đồ chính sách công Việt Nam và TP.HCM - 2026]]
+- [[Danh mục nguồn pháp luật Việt Nam hiện hành]]
 - [[Liên kết mô hình khác]]
 - [[SIHUB - Tổng quan và bài học]]
