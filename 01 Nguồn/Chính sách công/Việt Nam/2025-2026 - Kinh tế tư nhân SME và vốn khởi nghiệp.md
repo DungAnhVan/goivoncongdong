@@ -2,7 +2,7 @@
 type: nguon-chinh-sach
 status: da-doi-chieu
 jurisdiction: Việt Nam
-date_event: 2026-01-15
+date_event: 2026-04-06
 updated: 2026-08-11
 tags:
   - sme
@@ -12,6 +12,7 @@ tags:
   - public-procurement
   - sme-fund
   - venture-capital
+  - scale-up
 ---
 
 # 2025–2026 — Kinh tế tư nhân, SME và vốn khởi nghiệp
@@ -64,6 +65,10 @@ Không được mô tả mọi khoản từ Quỹ là grant.
 
 Nghị quyết 198 có các ưu đãi thuế cho doanh nghiệp khởi nghiệp sáng tạo, nhà đầu tư/chuyên gia và SME theo điều kiện cụ thể; Nghị định 20/2026 là văn bản hướng dẫn áp dụng.
 
+Từ 24/04/2026 còn phải kiểm tra **Luật 09/2026/QH16** sửa TNCN, VAT, TNDN và thuế TTĐB cùng các văn bản hướng dẫn liên quan.
+
+Nguồn: https://vanban.chinhphu.vn/?docid=218095&pageid=27160&typegroupid=3
+
 Khi đưa vào hồ sơ dự án phải ghi:
 
 ```text
@@ -72,6 +77,7 @@ loại thuế
 → thời điểm bắt đầu ưu đãi
 → thời gian ưu đãi
 → điều kiện duy trì
+→ version pháp luật thuế
 → bằng chứng thuế/kế toán
 ```
 
@@ -91,7 +97,7 @@ Public procurement
 → cơ quan công mua hàng hóa/dịch vụ/công trình
 ```
 
-Liên kết: [[Public procurement]].
+Nguồn chi tiết: [[2025-2026 - Mua sắm công đấu thầu và first-customer route]].
 
 ### R&D và quỹ KHCN/ĐMST của doanh nghiệp
 
@@ -127,9 +133,85 @@ Quỹ đầu tư khởi nghiệp sáng tạo theo NĐ38/210
 ≠ crowdfunding platform
 ```
 
-## 5. Ý nghĩa đối với SAMSTI
+## 5. Quyết định 631/QĐ-TTg ngày 06/04/2026 — Chương trình 1.000 doanh nghiệp tiên phong 2026–2030
 
-Từ góc nhìn resource matching, một project có thể có nhiều policy-backed resource:
+Nguồn chính thức: https://vanban.chinhphu.vn/?classid=0&docid=217610&pageid=27160
+
+Đây là **scale-up / leading-enterprise lane**, không phải chương trình dành cho ý tưởng thô.
+
+Chính phủ công bố sáu nhóm hỗ trợ cho doanh nghiệp tiên phong:
+
+1. thủ tục đầu tư, hải quan, niêm yết chứng khoán;
+2. thử nghiệm, kiểm định và đặt hàng/mua sắm sản phẩm, dịch vụ;
+3. tài chính, tín dụng và tiếp cận nhiều quỹ công;
+4. KHCN, đổi mới sáng tạo, chuyển đổi số/xanh và IP;
+5. nâng cao năng lực quản trị, tài chính, nhân lực, sản phẩm, thị trường;
+6. xúc tiến thương mại, thương hiệu và phát triển thị trường.
+
+Nguồn giải thích Chính phủ: https://xaydungchinhsach.chinhphu.vn/doanh-nghiep-tien-phong-se-duoc-ho-tro-gi-119260410105807526.htm
+
+### Một cơ chế rất đáng chú ý: `Thẻ hỗ trợ doanh nghiệp tiên phong`
+
+Theo công bố Chính phủ, cơ quan/tổ chức hỗ trợ có thể thực hiện hỗ trợ tăng cường năng lực thông qua **Thẻ hỗ trợ doanh nghiệp tiên phong**, hoặc trực tiếp thực hiện/lựa chọn nhà cung cấp theo pháp luật đấu thầu.
+
+Đây là một mẫu policy instrument đáng nghiên cứu cho SAMSTI:
+
+```text
+Actor đủ status
+→ được phân quyền/hạn mức hỗ trợ
+→ chọn service/resource đủ điều kiện
+→ provider thực hiện
+→ evidence / settlement / monitoring
+```
+
+Không đồng nhất với tiền mặt tự do giải ngân cho doanh nghiệp.
+
+### Co-resource / anti-double-funding logic
+
+Chương trình yêu cầu doanh nghiệp được hỗ trợ cam kết **đối ứng nguồn lực**, đồng thời tránh chồng chéo/trùng lặp cùng nội dung hỗ trợ.
+
+Điều này rất sát hai capability:
+
+- [[Multi-resource matching]]
+- policy-level **double-funding control**.
+
+### First-customer route rõ hơn
+
+Chương trình có nội dung hỗ trợ thử nghiệm/kiểm định và ưu tiên đặt hàng, mua sắm sản phẩm/dịch vụ phù hợp nhu cầu của cơ quan công.
+
+Chuỗi bằng chứng cần tách:
+
+```text
+Eligible enterprise
+→ lab/test support
+→ product validation
+→ public need match
+→ order/procurement
+→ contract
+→ acceptance
+→ payment
+```
+
+Không được ghi “Nhà nước là khách hàng” trước khi có transaction evidence.
+
+## 6. Vòng đời doanh nghiệp và policy routing
+
+```text
+Idea / research result
+→ startup formation
+→ startup support
+→ prototype / traction
+→ SME / growth finance
+→ venture / market
+→ pioneer / scale-up lane
+→ national / international expansion
+```
+
+Một nền tảng có thể giữ **một project evidence history xuyên các stage**, thay vì mỗi chương trình lại bắt doanh nghiệp kể lại lịch sử từ đầu.
+
+## 7. Ý nghĩa đối với SAMSTI
+
+Từ góc nhìn resource matching, một project/company có thể có nhiều policy-backed resource:
 
 ```text
 Tax relief
@@ -139,6 +221,10 @@ Tax relief
 + public procurement opportunity
 + private startup investment fund
 + national/local venture fund
++ scale-up service voucher/card
++ lab/testing
++ IP support
++ market expansion
 ```
 
 Nền tảng nên lưu mỗi resource như một record riêng có:
@@ -150,19 +236,24 @@ Nền tảng nên lưu mỗi resource như một record riêng có:
 - restriction;
 - evidence;
 - application window;
-- lifecycle status.
+- lifecycle status;
+- co-resource requirement;
+- duplicate-support restriction.
 
-## 6. Không được suy diễn
+## 8. Không được suy diễn
 
 - Chính sách kinh tế tư nhân không biến mọi SME thành startup sáng tạo.
 - Ưu đãi thuế không phải tiền mặt được giải ngân.
 - Quyền tham gia procurement không phải cam kết cơ quan công sẽ mua.
 - Có quỹ/nguồn tín dụng không đồng nghĩa dự án đủ điều kiện vay hoặc nhận đầu tư.
+- Doanh nghiệp startup chưa trưởng thành không mặc nhiên là “doanh nghiệp tiên phong”.
+- Thẻ hỗ trợ không đồng nghĩa doanh nghiệp được rút tiền mặt tương ứng.
 
-## 7. Liên kết repo
+## 9. Liên kết repo
 
 - [[Grant và subsidy]]
 - [[Public procurement]]
+- [[2025-2026 - Mua sắm công đấu thầu và first-customer route]]
 - [[Matching fund]]
 - [[Multi-resource matching]]
 - [[Asset and access contribution]]
