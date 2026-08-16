@@ -1,4 +1,5 @@
 ---
+ai_authored: true
 type: kien-truc-de-xuat
 status: da-trien-khai
 updated: 2026-08-10

@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # Resource pledge lifecycle
 
 > **Định nghĩa làm việc của dự án:** *Resource pledge lifecycle* là chuỗi trạng thái dùng để theo dõi một nguồn lực từ lúc được đề nghị hoặc hứa cung cấp đến khi được giữ chỗ, kích hoạt, bàn giao, nghiệm thu, hoàn trả hoặc hết hiệu lực.

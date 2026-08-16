@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # Chuẩn quốc tế - FATF, IOSCO, UNCITRAL, OECD và PFMI
 
 > Cập nhật nghiên cứu: 10/08/2026.  

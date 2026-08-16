@@ -1,4 +1,5 @@
 ---
+ai_authored: true
 type: tien-le
 status: du-thao
 updated:

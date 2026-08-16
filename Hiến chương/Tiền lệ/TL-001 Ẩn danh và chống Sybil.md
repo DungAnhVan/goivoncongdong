@@ -1,4 +1,5 @@
 ---
+ai_authored: true
 type: tien-le
 status: mau-chay-thu
 updated: 2026-08-10

@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # Kiến trúc tuân thủ quốc tế cho nền tảng Việt Nam
 
 > Cập nhật: 10/08/2026.  

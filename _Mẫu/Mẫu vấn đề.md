@@ -1,4 +1,5 @@
 ---
+ai_authored: true
 type: van-de
 status: moi-neu
 updated:

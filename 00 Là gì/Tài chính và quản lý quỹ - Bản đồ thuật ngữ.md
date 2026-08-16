@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # Tài chính và quản lý quỹ — Bản đồ thuật ngữ
 
 > **Mục đích:** Đây là trang nhập môn cho thành viên mới của dự án. Nó giúp mọi người dùng cùng một ngôn ngữ trước khi thảo luận về huy động tiền, giữ tiền, phân bổ tiền, đầu tư hoặc quản lý quỹ.

@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # Doanh nghiệp, startup và quỹ đầu tư khởi nghiệp sáng tạo
 
 > Cập nhật: 10/08/2026.

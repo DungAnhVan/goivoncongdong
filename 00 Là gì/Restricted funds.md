@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # Restricted funds
 
 > **Định nghĩa ngắn:** *Restricted funds* là tiền hoặc tài sản chỉ được phép sử dụng cho một mục đích, chương trình, nhóm hưởng lợi hoặc điều kiện đã được xác định. Người đang giữ tiền không được tự do chuyển nó sang mục đích khác chỉ vì tổ chức đang thiếu tiền.

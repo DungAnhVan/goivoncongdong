@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # Ma trận phân loại mô hình crowdfunding tại Việt Nam
 
 > Cập nhật: 10/08/2026.

@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # Ranh giới pháp lý của nền tảng gọi vốn cộng đồng tại Việt Nam
 
 > Trạng thái: vấn đề mở — cần tiếp tục research + legal opinion trước khi vận hành tiền thật.

@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # Onboarding quản trị chiến dịch và xử lý thất bại
 
 > **Mục tiêu:** Giúp thành viên mới thiết kế và vận hành một chiến dịch có khả năng thay đổi, thất bại và đóng lại có trách nhiệm; không chỉ mô tả success path.

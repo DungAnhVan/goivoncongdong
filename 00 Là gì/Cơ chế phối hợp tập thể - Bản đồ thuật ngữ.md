@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # Cơ chế phối hợp tập thể — Bản đồ thuật ngữ
 
 > **Định nghĩa làm việc của dự án:** *Cơ chế phối hợp tập thể* là tập hợp quy tắc dùng để biến nhiều quyết định riêng lẻ, vốn có thể phụ thuộc và dè chừng lẫn nhau, thành một kết quả chung đủ điều kiện để dự án được kích hoạt, phân bổ nguồn lực hoặc tiếp tục thực hiện.

@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # Thiếu năng lực tài chính và quản lý quỹ
 
 ## 1. Vấn đề

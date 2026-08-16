@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # Proof of need và demand validation
 
 > **Định nghĩa ngắn:** *Proof of need* là gói bằng chứng cho thấy một vấn đề hoặc nhu cầu có thật, đủ rõ và đáng để can thiệp đối với một nhóm xác định. *Demand validation* là bằng chứng cho thấy một nhóm người cụ thể sẵn sàng sử dụng, cam kết, trả tiền hoặc thay đổi hành vi để nhận giải pháp.

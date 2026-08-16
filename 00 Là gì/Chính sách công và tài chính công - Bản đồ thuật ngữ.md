@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # Chính sách công và tài chính công — Bản đồ thuật ngữ
 
 > **Mục đích:** Ghi chú này là cửa vào cho người mới cần hiểu cách Nhà nước định hướng, hỗ trợ, mua sắm, đầu tư hoặc thử nghiệm cùng một dự án. Nó không thay thế tư vấn pháp lý hay quy định hiện hành tại Việt Nam.

@@ -1,4 +1,5 @@
 ---
+ai_authored: true
 type: nguon-chinh-sach
 status: da-doi-chieu
 jurisdiction: Việt Nam

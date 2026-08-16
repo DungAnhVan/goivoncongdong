@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # Campaign failure, recovery and termination
 
 > **Định nghĩa ngắn:** *Campaign failure* là trạng thái chiến dịch không còn đáp ứng một hoặc nhiều điều kiện cốt lõi đã cam kết. *Recovery* là quá trình khắc phục để đưa chiến dịch trở lại trạng thái khả thi và tuân thủ. *Termination* là quyết định chấm dứt thực hiện toàn bộ hoặc một phần chiến dịch khi phục hồi không còn hợp lý, được phép hoặc khả thi.

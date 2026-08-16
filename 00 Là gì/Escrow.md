@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # Escrow
 
 > **Định nghĩa ngắn:** *Escrow* là một cơ chế trong đó tiền, tài sản hoặc tài liệu được một bên thứ ba giữ thay cho các bên trong giao dịch và chỉ được giải phóng khi các điều kiện đã thỏa thuận được đáp ứng hoặc khi có quy tắc xử lý khác.

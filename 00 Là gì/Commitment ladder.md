@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # Commitment ladder
 
 > **Định nghĩa ngắn:** *Commitment ladder* — thang cam kết — là cách phân loại các hành vi tham gia theo mức độ nguồn lực, trách nhiệm và chi phí rút lui mà một người hoặc tổ chức đã thực sự đặt vào dự án.

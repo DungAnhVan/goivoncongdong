@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # Data contribution
 
 > **Định nghĩa ngắn:** *Data contribution* là việc một cá nhân hoặc tổ chức cung cấp dữ liệu, metadata, quyền truy cập dữ liệu hoặc khả năng tạo dữ liệu cho dự án theo mục đích và điều kiện xác định.

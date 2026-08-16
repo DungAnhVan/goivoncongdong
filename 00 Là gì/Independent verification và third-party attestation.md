@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # Independent verification và third-party attestation
 
 > **Định nghĩa ngắn:** *Independent verification* là việc một người hoặc đơn vị có mức độc lập phù hợp kiểm tra một claim và bằng chứng liên quan. *Third-party attestation* là tuyên bố xác nhận do một bên thứ ba phát hành về một claim, theo phạm vi, tiêu chí và công việc đã thực hiện.

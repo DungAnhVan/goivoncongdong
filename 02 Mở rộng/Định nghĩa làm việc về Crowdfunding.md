@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 Crowdfunding thường được định nghĩa về mặt kỹ thuật là việc huy động nhiều khoản đóng góp tương đối nhỏ từ một số đông để tài trợ cho dự án, doanh nghiệp, hoạt động xã hội hoặc tài sản chung, thường qua một nền tảng số. Tuy nhiên, định nghĩa này chỉ mô tả **cơ chế chuyển tiền**; nó chưa giải thích vì sao con người nên đóng góp, họ đang thiết lập quan hệ gì với nhau, điều gì làm cho lời kêu gọi trở nên chính đáng, và người nhận tiền có nghĩa vụ đạo đức nào sau khi chiến dịch thành công. Các nghiên cứu hiện đại cũng cho thấy crowdfunding không chỉ là tài chính: chất lượng dự án, mạng lưới xã hội, tín hiệu đáng tin cậy và cách người khởi xướng trình bày dự án đều liên quan đến khả năng huy động thành công[^1] 
 
 Báo cáo này cho rằng một nền tảng tư tưởng vững chắc cho crowdfunding phải kết hợp ít nhất bốn lớp:

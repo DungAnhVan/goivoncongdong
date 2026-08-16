@@ -1,4 +1,5 @@
 ---
+ai_authored: true
 type: giao-thuc
 status: cho-phe-chuan
 updated: 2026-08-10

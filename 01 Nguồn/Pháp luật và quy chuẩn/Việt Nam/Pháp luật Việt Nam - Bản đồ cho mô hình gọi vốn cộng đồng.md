@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # Pháp luật Việt Nam — Bản đồ cho mô hình gọi vốn cộng đồng
 
 > Cập nhật nghiên cứu: 10/08/2026.

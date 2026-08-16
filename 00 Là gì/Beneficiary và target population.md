@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # Beneficiary và target population
 
 > **Định nghĩa ngắn:** *Beneficiary* là người hoặc nhóm nhận lợi ích từ dự án. *Target population* là nhóm mà chương trình chủ ý hướng đến.

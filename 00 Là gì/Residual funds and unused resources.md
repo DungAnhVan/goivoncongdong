@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # Residual funds and unused resources
 
 > **Định nghĩa ngắn:** *Residual funds and unused resources* là tiền, tài sản, quyền, công suất hoặc nghĩa vụ còn lại sau khi một giai đoạn hoặc toàn bộ chiến dịch kết thúc, bị thu hẹp hoặc chấm dứt.

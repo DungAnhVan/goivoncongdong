@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # Consumer welfare
 
 > **Định nghĩa ngắn:** *Consumer welfare* là mức phúc lợi mà người tiêu dùng nhận được từ thị trường hoặc một chính sách, thường liên quan đến giá, chất lượng, lựa chọn, đổi mới, an toàn và khả năng tiếp cận.

@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # All-or-nothing và keep-it-all
 
 > **Định nghĩa ngắn:** *All-or-nothing* là cơ chế chỉ kích hoạt hoặc chuyển giao nguồn lực khi mục tiêu hay provision point được đáp ứng. *Keep-it-all* là cơ chế cho phép dự án giữ phần nguồn lực đã huy động dù chưa đạt mục tiêu ban đầu, theo các điều kiện được công bố trước.

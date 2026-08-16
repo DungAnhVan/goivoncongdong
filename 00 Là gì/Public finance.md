@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # Public finance
 
 > **Định nghĩa ngắn:** *Public finance* — tài chính công — nghiên cứu và quản lý doanh thu, chi tiêu, tài sản và nợ của Nhà nước, cùng tác động của chúng đối với nền kinh tế và xã hội.

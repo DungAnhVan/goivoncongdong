@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # Public goods
 
 > **Định nghĩa ngắn:** *Public goods* — hàng hóa công — là hàng hóa hoặc lợi ích có tính **không loại trừ** và **không cạnh tranh trong tiêu dùng**.

@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # Stakeholder engagement và grievance mechanism
 
 > **Định nghĩa ngắn:** *Stakeholder engagement* là quá trình cung cấp thông tin, lắng nghe, tham vấn và duy trì quan hệ với các bên liên quan. *Grievance mechanism* là cơ chế tiếp nhận, xử lý và theo dõi khiếu nại hoặc quan ngại.

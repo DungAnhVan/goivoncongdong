@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # Grant và subsidy
 
 > **Định nghĩa ngắn:** *Grant* là khoản tài trợ trực tiếp cho một dự án, hoạt động hoặc tổ chức theo mục tiêu và điều kiện xác định. *Subsidy* là khái niệm rộng hơn về hỗ trợ kinh tế của Nhà nước, có thể gồm tiền mặt, ưu đãi thuế, lãi suất, bảo lãnh, hàng hóa, dịch vụ hoặc các hình thức hỗ trợ khác.

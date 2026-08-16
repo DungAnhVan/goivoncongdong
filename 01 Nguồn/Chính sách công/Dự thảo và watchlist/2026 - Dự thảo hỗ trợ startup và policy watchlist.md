@@ -1,4 +1,5 @@
 ---
+ai_authored: true
 type: nguon-chinh-sach-watchlist
 status: can-cap-nhat
 jurisdiction: Việt Nam / TP.HCM

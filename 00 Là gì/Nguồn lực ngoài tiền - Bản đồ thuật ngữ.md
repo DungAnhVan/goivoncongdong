@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # Nguồn lực ngoài tiền — Bản đồ thuật ngữ
 
 > **Định nghĩa làm việc của dự án:** *Nguồn lực ngoài tiền* là các tài sản, năng lực, thời gian, dữ liệu, quyền sử dụng, quyền tiếp cận hoặc dịch vụ được huy động để giúp một dự án hình thành và triển khai mà không nhất thiết đi qua một khoản thanh toán bằng tiền.

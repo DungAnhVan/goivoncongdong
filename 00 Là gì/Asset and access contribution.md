@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # Asset and access contribution
 
 > **Định nghĩa ngắn:** *Asset and access contribution* là việc cung cấp tài sản vật chất, quyền sử dụng tài sản, địa điểm, hạ tầng hoặc quyền tiếp cận một mạng lưới, thị trường, cơ sở thử nghiệm hay nhóm đối tượng cho dự án.

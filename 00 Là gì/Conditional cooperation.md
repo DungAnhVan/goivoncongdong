@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # Conditional cooperation
 
 > **Định nghĩa ngắn:** *Conditional cooperation* — hợp tác có điều kiện — là hành vi một người sẵn sàng đóng góp nhiều hơn khi họ tin hoặc quan sát rằng người khác cũng sẽ đóng góp, tuân thủ hoặc chia sẻ gánh nặng.

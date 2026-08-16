@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # Campaign charter
 
 > **Định nghĩa ngắn:** *Campaign charter* — hiến chương chiến dịch — là văn bản quy tắc gốc xác định mục đích, phạm vi, quyền, nghĩa vụ, giới hạn thay đổi, cách xử lý thất bại và cách đóng một chiến dịch.

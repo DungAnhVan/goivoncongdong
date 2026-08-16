@@ -1,4 +1,5 @@
 ---
+ai_authored: true
 type: mo-rong
 status: dang-phat-trien
 updated: 2026-08-11

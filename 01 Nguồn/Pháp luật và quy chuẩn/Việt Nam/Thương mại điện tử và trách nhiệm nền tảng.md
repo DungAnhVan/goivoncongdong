@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # Thương mại điện tử và trách nhiệm nền tảng
 
 > Cập nhật: 10/08/2026.

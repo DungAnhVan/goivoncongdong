@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # Externality
 
 > **Định nghĩa ngắn:** *Externality* là chi phí hoặc lợi ích do hoạt động của một bên tạo ra cho bên khác nhưng không được phản ánh đầy đủ trong giá hoặc giao dịch giữa các bên chính.

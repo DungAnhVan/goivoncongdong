@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # Onboarding pháp luật quốc tế và FDI
 
 > Mục tiêu: giúp thành viên mới phân tích một campaign có investor/người dùng/nguồn vốn nước ngoài mà không nhảy thẳng từ `quốc gia` sang `được phép/không được phép`.  

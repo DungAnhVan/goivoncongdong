@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # Onboarding nguồn lực ngoài tiền
 
 > **Mục tiêu:** Giúp thành viên mới biến một câu chung chung như “dự án cần chuyên gia, dữ liệu và thiết bị” thành một hệ thống resource needs, offers, matches, commitments và bằng chứng sử dụng có thể vận hành.

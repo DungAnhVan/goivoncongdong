@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # Người tiêu dùng, hợp đồng và giao dịch điện tử
 
 > Cập nhật: 10/08/2026.

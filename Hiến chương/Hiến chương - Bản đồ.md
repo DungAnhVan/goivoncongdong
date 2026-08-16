@@ -1,4 +1,5 @@
 ---
+ai_authored: true
 type: ban-do
 status: cho-phe-chuan
 updated: 2026-08-10

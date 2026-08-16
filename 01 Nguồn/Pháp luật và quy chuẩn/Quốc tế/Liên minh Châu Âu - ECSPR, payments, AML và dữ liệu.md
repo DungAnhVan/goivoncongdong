@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # Liên minh Châu Âu - ECSPR, payments, AML và dữ liệu
 
 > Cập nhật nghiên cứu: 10/08/2026.  

@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # Provision point và threshold mechanism
 
 > **Định nghĩa ngắn:** *Provision point* là mức tối thiểu của tiền, nguồn lực, số người, quyền hoặc điều kiện mà tại đó một dự án hay kết quả chung trở nên khả thi. *Threshold mechanism* là quy tắc dùng ngưỡng đó để quyết định khi nào cam kết được kích hoạt, nguồn lực được giải phóng hoặc dự án được phép đi tiếp.

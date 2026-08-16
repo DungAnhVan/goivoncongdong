@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # FDI và crowdfunding xuyên biên giới vào Việt Nam
 
 > Cập nhật nghiên cứu: 10/08/2026.  

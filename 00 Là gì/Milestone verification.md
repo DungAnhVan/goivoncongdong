@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # Milestone verification
 
 > **Định nghĩa ngắn:** *Milestone verification* là quy trình kiểm tra có cấu trúc để xác định một mốc dự án đã đạt, đạt một phần hay chưa đạt theo tiêu chí được xác định trước.

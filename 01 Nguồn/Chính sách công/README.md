@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # Nguồn — Chính sách công
 
 > [!abstract] Vai trò thư mục

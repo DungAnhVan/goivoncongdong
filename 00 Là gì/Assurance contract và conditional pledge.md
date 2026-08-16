@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # Assurance contract và conditional pledge
 
 > **Định nghĩa ngắn:** *Assurance contract* là một cơ chế trong đó người tham gia cam kết đóng góp với điều kiện một provision point được đáp ứng trong thời hạn xác định; nếu điều kiện không đạt, cam kết không được kích hoạt hoặc nguồn lực được hoàn trả/release theo rule. *Conditional pledge* là cam kết cụ thể của một actor phụ thuộc vào các điều kiện đó.

@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # Distributional impact
 
 > **Định nghĩa ngắn:** *Distributional impact* là cách lợi ích, chi phí, thu nhập, rủi ro hoặc cơ hội do một dự án hay chính sách tạo ra được phân bổ giữa các nhóm khác nhau.

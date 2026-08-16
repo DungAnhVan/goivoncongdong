@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # Regulatory sandbox
 
 > **Định nghĩa ngắn:** *Regulatory sandbox* là môi trường thử nghiệm có giám sát, giới hạn thời gian và phạm vi, nơi sản phẩm, dịch vụ hoặc mô hình mới được thử trong điều kiện kiểm soát cùng cơ quan quản lý.

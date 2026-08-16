@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # Selective incentives và contributor benefits
 
 > **Định nghĩa ngắn:** *Selective incentives* là các lợi ích hoặc chi phí chỉ áp dụng cho người tham gia, nhằm thay đổi động lực đóng góp trong khi kết quả chung có thể được cả người không đóng góp hưởng. *Contributor benefits* là cách dự án mô tả cụ thể quyền lợi hoặc giá trị mà người đóng góp nhận được.

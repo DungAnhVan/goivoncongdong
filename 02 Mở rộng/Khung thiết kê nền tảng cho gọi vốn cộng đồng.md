@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 
 > ***Từ thiện ích, nghĩa vụ tương hỗ đến hiến pháp của quỹ***
 

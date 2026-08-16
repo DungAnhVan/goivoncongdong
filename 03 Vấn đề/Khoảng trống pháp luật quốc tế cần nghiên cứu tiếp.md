@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # Khoảng trống pháp luật quốc tế cần nghiên cứu tiếp
 
 > Cập nhật: 10/08/2026.  

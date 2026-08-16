@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # Public procurement
 
 > **Định nghĩa ngắn:** *Public procurement* — mua sắm công — là quá trình cơ quan nhà nước hoặc tổ chức công mua hàng hóa, dịch vụ hoặc công trình để thực hiện nhiệm vụ công.

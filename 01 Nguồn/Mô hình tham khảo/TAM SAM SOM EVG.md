@@ -1,4 +1,5 @@
 ---
+ai_authored: true
 loai: mô-hình-tham-khảo
 trang-thai: chờ-thảo-luận
 nguoi-de-xuat:

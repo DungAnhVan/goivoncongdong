@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # Fund management
 
 > **Định nghĩa ngắn:** *Fund management* có thể được dịch là **quản lý quỹ**, nhưng cụm từ này có nhiều nghĩa. Trong ngành đầu tư, nó thường liên quan đến việc quản lý tài sản hoặc danh mục đầu tư thay cho nhà đầu tư. Trong dự án cộng đồng, mọi người đôi khi dùng nó rộng hơn để chỉ quản trị mục đích, ngân sách, giữ tiền, giải ngân và báo cáo. Hai nghĩa này không được nhập làm một.

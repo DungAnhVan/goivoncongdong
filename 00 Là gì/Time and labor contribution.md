@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # Time and labor contribution
 
 > **Định nghĩa ngắn:** *Time and labor contribution* là việc một cá nhân hoặc tổ chức cung cấp thời gian, công việc hoặc năng lực chuyên môn cho dự án mà không nhất thiết nhận thanh toán đầy đủ bằng tiền.

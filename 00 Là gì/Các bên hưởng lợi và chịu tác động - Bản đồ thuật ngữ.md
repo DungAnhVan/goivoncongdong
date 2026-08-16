@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # Các bên hưởng lợi và chịu tác động — Bản đồ thuật ngữ
 
 > **Mục đích:** Ghi chú này giúp phân biệt ai hưởng lợi, ai sử dụng, ai trả tiền, ai chịu tác động và ai có quyền khiếu nại trong một dự án cộng đồng.

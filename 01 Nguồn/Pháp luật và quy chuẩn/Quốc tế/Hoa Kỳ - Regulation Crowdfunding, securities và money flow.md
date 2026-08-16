@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # Hoa Kỳ - Regulation Crowdfunding, securities và money flow
 
 > Cập nhật nghiên cứu: 10/08/2026.  

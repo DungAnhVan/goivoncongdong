@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # Onboarding bằng chứng và kiểm chứng
 
 > **Mục tiêu:** Giúp thành viên mới hiểu và sử dụng được lớp bằng chứng–kiểm chứng của dự án trong một tuần đầu, thay vì chỉ biết thuật ngữ.

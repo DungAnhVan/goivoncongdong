@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # Thang cam kết và tín hiệu — Bản đồ thuật ngữ
 
 > **Định nghĩa làm việc của dự án:** *Thang cam kết và tín hiệu* là lớp khái niệm dùng để phân loại hành vi tham gia theo mức độ cam kết, đánh giá thông tin mà hành vi đó truyền đi và xác định mức suy luận mà dự án được phép rút ra.

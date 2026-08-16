@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # SIHUB — Tổng quan và bài học
 
 > Hồ sơ nghiên cứu ngày 05/08/2026.  

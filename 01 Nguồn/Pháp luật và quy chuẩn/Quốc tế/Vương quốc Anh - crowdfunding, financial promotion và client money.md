@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # Vương quốc Anh - crowdfunding, financial promotion và client money
 
 > Cập nhật nghiên cứu: 10/08/2026.  

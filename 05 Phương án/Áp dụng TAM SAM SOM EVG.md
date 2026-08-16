@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # Áp dụng TAM SAM SOM EVG
 
 **Loại ghi chú:** Phương án  

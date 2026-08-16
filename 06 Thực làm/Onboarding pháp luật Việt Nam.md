@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # Onboarding pháp luật Việt Nam
 
 > Mục tiêu: giúp thành viên mới đọc khung pháp luật theo đúng thứ tự trước khi đề xuất campaign, money flow hoặc tính năng tài chính.

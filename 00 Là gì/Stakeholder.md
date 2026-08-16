@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # Stakeholder
 
 > **Định nghĩa ngắn:** *Stakeholder* là cá nhân, nhóm hoặc tổ chức có thể ảnh hưởng đến dự án, bị dự án ảnh hưởng hoặc có lợi ích chính đáng liên quan đến dự án.

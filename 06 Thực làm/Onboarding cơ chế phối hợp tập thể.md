@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # Onboarding cơ chế phối hợp tập thể
 
 > **Mục tiêu:** Giúp thành viên mới biến một câu chung chung như “đạt đủ người thì triển khai” thành một cơ chế có chẩn đoán vấn đề, provision point, eligibility, activation, allocation, refund/release và verification rule có thể vận hành.

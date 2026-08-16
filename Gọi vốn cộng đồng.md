@@ -1,4 +1,5 @@
 ---
+ai_authored: true
 type: y-tuong-goc
 status: dang-phat-trien
 updated: 2026-08-05

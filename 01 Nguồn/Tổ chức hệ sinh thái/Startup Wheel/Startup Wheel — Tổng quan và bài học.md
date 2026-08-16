@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # Startup Wheel — Tổng quan và bài học
 
 > Hồ sơ nghiên cứu cập nhật ngày 05/08/2026.  

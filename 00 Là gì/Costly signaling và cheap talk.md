@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # Costly signaling và cheap talk
 
 > **Định nghĩa ngắn:** *Cheap talk* là thông điệp dễ đưa ra, ít bị ràng buộc và ít tốn kém nếu sai hoặc không thực hiện. *Costly signaling* là hành vi tạo tín hiệu có chi phí, rủi ro hoặc nghĩa vụ đủ lớn để việc bắt chước trở nên khó hơn đối với người không thật sự có năng lực hoặc ý định tương ứng.

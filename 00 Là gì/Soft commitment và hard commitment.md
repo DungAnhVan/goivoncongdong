@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # Soft commitment và hard commitment
 
 > **Định nghĩa ngắn:** *Soft commitment* là cam kết có thể rút lại với chi phí hoặc hậu quả thấp. *Hard commitment* là cam kết bị ràng buộc mạnh hơn bởi tiền, thời gian, nghĩa vụ, danh tiếng, quyền lợi bị khóa hoặc hậu quả rõ khi không thực hiện.

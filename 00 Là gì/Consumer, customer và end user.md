@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # Consumer, customer và end user
 
 > **Định nghĩa ngắn:** *Customer* là bên mua hoặc ký hợp đồng; *consumer* là người tiêu dùng hàng hóa, dịch vụ; *end user* là người trực tiếp sử dụng sản phẩm cuối cùng.

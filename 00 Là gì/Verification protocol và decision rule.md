@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # Verification protocol và decision rule
 
 > **Định nghĩa ngắn:** *Verification protocol* là kế hoạch quy định trước cách một claim sẽ được kiểm tra. *Decision rule* là quy tắc chuyển kết quả kiểm tra thành hành động cụ thể như chấp nhận, yêu cầu bổ sung, giữ lại tiền, sửa phạm vi hoặc dừng dự án.

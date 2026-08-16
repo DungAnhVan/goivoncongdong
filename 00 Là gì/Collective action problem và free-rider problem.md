@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # Collective action problem và free-rider problem
 
 > **Định nghĩa ngắn:** *Collective action problem* là tình huống trong đó nhiều người cùng có lợi nếu một kết quả chung xuất hiện, nhưng các động lực, thông tin hoặc rủi ro riêng khiến nhóm không tự phối hợp để tạo ra kết quả đó. *Free-rider problem* là một dạng trong đó một người có thể hưởng lợi mà không chịu phần chi phí tương xứng.

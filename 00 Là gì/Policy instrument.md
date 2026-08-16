@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # Policy instrument
 
 > **Định nghĩa ngắn:** *Policy instrument* — công cụ chính sách — là phương tiện cụ thể mà cơ quan công sử dụng để thay đổi hành vi, phân bổ nguồn lực hoặc tạo ra kết quả phù hợp với mục tiêu của [[Public policy|chính sách công]].

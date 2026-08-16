@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 Ở Athens cổ đại, các liturgy yêu cần hoặc kỳ vọng những công dân giàu có tài trợ cho những nhiệm vụ công như trang bị chiến thuyền hoặc bảo trợ đoàn hợp xướng. Cơ chế này kết nối tài sản riêng với phục vụ công cộng, nhưng đồng thời gắn việc đóng góp với danh dự và vị thế - một tiền lệ vừa hữu ích vừa nguy hiểm cho crowdfunding hiện đại. [^1]
 
 Waqf trong truyền thống Hồi giáo là tài sản được dành riêng lâu dài cho mục đích tổn giáo, giáo dục, phúc lợi hoặc công cộng. Giá trị thiết kế của waqf nằm ở việc tách tài sản khởi sự tiêu dùng tùy tiện của người lập quỹ và ràng buộc nó với mục đích đã xác lập; nghiên cứu lịch sử còn ghi nhận việc một số waqf lập sổ tài khoản hằng năm. [^2]

@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # Bảo vệ dữ liệu cá nhân
 
 > Cập nhật: 10/08/2026.

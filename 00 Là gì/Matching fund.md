@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # Matching fund
 
 > **Định nghĩa ngắn:** *Matching fund* là cơ chế trong đó một nhà tài trợ cam kết đóng góp thêm khi dự án hoặc cộng đồng đã huy động được một phần nguồn lực khác theo tỷ lệ hoặc công thức xác định.

@@ -1,4 +1,5 @@
 ---
+ai_authored: true
 type: phan-bien
 status: dang-viet
 updated:

@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # Multi-resource matching
 
 > **Định nghĩa làm việc của dự án:** *Multi-resource matching* là quá trình ghép các nhu cầu nguồn lực của dự án với nhiều offer khác nhau về tiền, thời gian, kỹ năng, dữ liệu, tài sản, địa điểm và quyền tiếp cận, dựa trên mức tương thích, điều kiện và phụ thuộc giữa chúng.

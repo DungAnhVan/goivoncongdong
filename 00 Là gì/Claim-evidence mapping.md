@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # Claim–evidence mapping
 
 > **Định nghĩa ngắn:** *Claim–evidence mapping* là việc tách các lời tuyên bố của dự án thành những claim có thể kiểm tra, rồi liên kết từng claim với loại bằng chứng cần có, bằng chứng thực tế đã nộp, kết quả kiểm chứng và quyết định phụ thuộc vào claim đó.

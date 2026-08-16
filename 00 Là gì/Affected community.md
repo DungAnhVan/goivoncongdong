@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # Affected community
 
 > **Định nghĩa ngắn:** *Affected community* là cộng đồng hoặc nhóm người bị một dự án tác động trực tiếp hay gián tiếp, tích cực hoặc tiêu cực, trong hiện tại hoặc tương lai.

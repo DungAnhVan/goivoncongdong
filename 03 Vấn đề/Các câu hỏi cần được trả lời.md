@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 Đây là các câu hỏi mà mỗi bên sẽ đặt ra. Với mỗi một bộ câu trả lời khác nhau sẽ cho ta một nền tảng khác nhau.
 
 ## Câu hỏi chiến lược chung (từ Ooker)

@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # In-kind contribution
 
 > **Định nghĩa ngắn:** *In-kind contribution* là đóng góp cho dự án dưới dạng tài sản, hàng hóa, dịch vụ, thời gian, quyền sử dụng hoặc nguồn lực khác thay vì chuyển tiền mặt.

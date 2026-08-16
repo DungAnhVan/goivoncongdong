@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # Disbursement
 
 > **Định nghĩa ngắn:** *Disbursement* là việc giải ngân — đưa tiền đã được cam kết hoặc phê duyệt ra khỏi nơi đang giữ để thanh toán cho chủ dự án, nhà cung cấp, người thụ hưởng hoặc một bên đủ điều kiện.

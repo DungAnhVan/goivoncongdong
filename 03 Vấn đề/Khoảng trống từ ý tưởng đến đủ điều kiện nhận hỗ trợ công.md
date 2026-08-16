@@ -1,4 +1,5 @@
 ---
+ai_authored: true
 type: van-de
 status: mo
 updated: 2026-08-11

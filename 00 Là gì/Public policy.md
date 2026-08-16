@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # Public policy
 
 > **Định nghĩa ngắn:** *Public policy* — chính sách công — là định hướng và tập hợp quyết định có chủ đích của cơ quan công nhằm xử lý một vấn đề tập thể, phân bổ nguồn lực, thay đổi hành vi hoặc tạo ra một kết quả xã hội mong muốn.

@@ -1,4 +1,5 @@
 ---
+ai_authored: true
 type: luat
 status: du-thao
 updated:

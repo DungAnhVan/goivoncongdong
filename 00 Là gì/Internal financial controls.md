@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # Internal financial controls
 
 > **Định nghĩa ngắn:** *Internal financial controls* là các quy tắc, phân quyền, bước kiểm tra và bằng chứng được thiết kế để bảo vệ tiền và tài sản, giúp số liệu đáng tin, ngăn một người kiểm soát toàn bộ giao dịch và phát hiện sai sót hoặc gian lận đủ sớm.

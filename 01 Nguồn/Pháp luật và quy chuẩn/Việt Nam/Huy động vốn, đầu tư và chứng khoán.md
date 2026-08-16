@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # Huy động vốn, đầu tư và chứng khoán
 
 > Cập nhật: 10/08/2026.

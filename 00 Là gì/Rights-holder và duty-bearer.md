@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # Rights-holder và duty-bearer
 
 > **Định nghĩa ngắn:** *Rights-holder* là người hoặc nhóm có quyền; *duty-bearer* là chủ thể có nghĩa vụ tôn trọng, bảo vệ hoặc thực hiện quyền đó.

@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # Trung Quốc - crowdfunding, payments, capital controls và dữ liệu
 
 > Cập nhật nghiên cứu: 10/08/2026.  

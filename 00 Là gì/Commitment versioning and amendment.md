@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # Commitment versioning and amendment
 
 > **Định nghĩa ngắn:** *Commitment versioning and amendment* là cơ chế quản lý lịch sử của một lời hứa hoặc nghĩa vụ: phiên bản nào đang có hiệu lực, nội dung nào đã thay đổi, ai phê duyệt, ai bị ảnh hưởng và có cần thông báo, re-consent hoặc quyền rút hay không.

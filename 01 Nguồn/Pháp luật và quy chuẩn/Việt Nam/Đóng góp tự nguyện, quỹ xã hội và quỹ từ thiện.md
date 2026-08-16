@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # Đóng góp tự nguyện, quỹ xã hội và quỹ từ thiện
 
 > Cập nhật: 10/08/2026.

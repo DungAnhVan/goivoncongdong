@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # Danh mục nguồn pháp luật Việt Nam hiện hành
 
 > Snapshot nghiên cứu: 11/08/2026.

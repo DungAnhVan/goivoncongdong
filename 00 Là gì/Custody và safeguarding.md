@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # Custody và safeguarding
 
 > **Định nghĩa ngắn:** *Custody* là việc nắm giữ trực tiếp hoặc gián tiếp tài sản của người khác, hoặc có quyền tiếp cận và kiểm soát tài sản đó. *Safeguarding* là tập hợp cơ chế bảo vệ tiền hoặc tài sản được giao, đặc biệt bằng cách tách biệt, ghi nhận đúng và hạn chế việc sử dụng sai.

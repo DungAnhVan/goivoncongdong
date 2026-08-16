@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 
 
 > **Định nghĩa ngắn:** *Community benefit society* là một loại tổ chức đăng ký tại Vương quốc Anh, vận hành hoạt động kinh doanh vì lợi ích của một cộng đồng rộng hơn, thay vì chủ yếu tạo quyền lợi riêng cho thành viên hoặc lợi nhuận cho cổ đông.

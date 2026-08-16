@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # Campaign closure, wind-down and dissolution
 
 > **Định nghĩa ngắn:** *Campaign closure* là việc chiến dịch ngừng nhận cam kết mới. *Wind-down* là quá trình đóng dần hoạt động, xử lý nghĩa vụ và bàn giao tài sản/hồ sơ. *Dissolution* là việc giải thể pháp nhân hoặc thiết chế pháp lý, không đồng nhất với việc đóng một chiến dịch.

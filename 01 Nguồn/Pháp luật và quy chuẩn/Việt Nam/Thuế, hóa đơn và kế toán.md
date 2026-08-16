@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # Thuế, hóa đơn và kế toán
 
 > Cập nhật: 10/08/2026.

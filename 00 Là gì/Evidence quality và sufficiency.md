@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # Evidence quality và sufficiency
 
 > **Định nghĩa ngắn:** *Evidence quality* là mức độ một bằng chứng đáng tin, phù hợp và có thể dùng để đánh giá claim. *Evidence sufficiency* là việc tổng thể bằng chứng đã đủ về số lượng, độ phủ và sức nặng để đưa ra kết luận trong phạm vi đã xác định hay chưa.

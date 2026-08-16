@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # Bằng chứng và kiểm chứng — Bản đồ thuật ngữ
 
 > **Định nghĩa làm việc của dự án:** *Bằng chứng và kiểm chứng* là lớp cơ chế biến một lời tuyên bố về nhu cầu, việc sử dụng nguồn lực, tiến độ hoặc kết quả thành một đối tượng có thể truy nguồn, kiểm tra và dùng để ra quyết định.

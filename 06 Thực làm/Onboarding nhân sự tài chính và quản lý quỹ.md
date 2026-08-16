@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # Onboarding nhân sự tài chính và quản lý quỹ
 
 > **Mục tiêu:** Giúp một người có chuyên môn tài chính, kế toán, quản lý grant/quỹ, compliance hoặc đầu tư tham gia dự án nhanh mà không phải đọc toàn bộ kho ghi chú trước khi hiểu vấn đề.

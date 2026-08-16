@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # Singapore - crowdfunding, CMS, payments và dữ liệu
 
 > Cập nhật nghiên cứu: 10/08/2026.  

@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # Quadratic funding
 
 > **Định nghĩa ngắn:** *Quadratic funding* là một quy tắc phân bổ matching pool giữa nhiều dự án, trong đó độ rộng của sự ủng hộ từ nhiều contributor độc lập được coi trọng hơn việc chỉ cộng tổng số tiền trực tiếp.

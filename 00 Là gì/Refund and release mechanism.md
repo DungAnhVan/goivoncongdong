@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # Refund and release mechanism
 
 > **Định nghĩa ngắn:** *Refund and release mechanism* là tập hợp quy tắc xác định khi nào tiền phải được hoàn, authorization phải bị hủy, pledge hoặc reservation phải được giải phóng và actor nhận lại quyền kiểm soát đối với phần nguồn lực chưa sử dụng.

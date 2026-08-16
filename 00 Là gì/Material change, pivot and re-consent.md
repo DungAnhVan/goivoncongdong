@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # Material change, pivot and re-consent
 
 > **Định nghĩa ngắn:** *Material change* là thay đổi đủ quan trọng để có thể làm một người hợp lý thay đổi quyết định tham gia. *Pivot* là việc đổi hướng cách thực hiện, sản phẩm, thị trường hoặc mô hình. *Re-consent* là việc yêu cầu actor chấp thuận lại khi thay đổi làm biến đổi đáng kể nội dung cam kết ban đầu.

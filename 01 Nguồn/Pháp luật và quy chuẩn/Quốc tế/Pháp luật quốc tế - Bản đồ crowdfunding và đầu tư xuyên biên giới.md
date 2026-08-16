@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # Pháp luật quốc tế - Bản đồ crowdfunding và đầu tư xuyên biên giới
 
 > Cập nhật nghiên cứu: 10/08/2026.  

@@ -1,4 +1,5 @@
 ---
+ai_authored: true
 type: cau-hoi
 status: moi-neu
 updated:

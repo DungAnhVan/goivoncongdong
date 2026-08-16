@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # Social proof và authentic social proof
 
 > **Định nghĩa ngắn:** *Social proof* là việc con người dùng hành vi, lựa chọn hoặc đánh giá của người khác làm tín hiệu để quyết định trong điều kiện chưa chắc chắn. *Authentic social proof* là **thuật ngữ làm việc của dự án** để chỉ bằng chứng xã hội có thể truy nguồn, phân loại mức cam kết, công bố quan hệ lợi ích và hạn chế thao túng.

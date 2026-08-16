@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # Ma trận quốc gia x hoạt động crowdfunding
 
 > Cập nhật: 10/08/2026.  

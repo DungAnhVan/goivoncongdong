@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # Onboarding thang cam kết và tín hiệu
 
 > **Mục tiêu:** Giúp thành viên mới phân loại đúng hành vi tham gia, đánh giá tín hiệu và thiết kế cam kết có điều kiện mà không nhập nhằng với demand validation, evidence verification hoặc outcome.

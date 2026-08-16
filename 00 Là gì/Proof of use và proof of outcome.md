@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # Proof of use và proof of outcome
 
 > **Định nghĩa ngắn:** *Proof of use* là bằng chứng cho thấy tiền, vật tư, thời gian hoặc nguồn lực đã được sử dụng theo mục đích và quy trình đã cam kết. *Proof of outcome* là bằng chứng cho thấy một thay đổi có ý nghĩa đã xuất hiện ở người hưởng lợi, hệ thống hoặc môi trường mục tiêu.

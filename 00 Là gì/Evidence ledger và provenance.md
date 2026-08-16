@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # Evidence ledger và provenance
 
 > **Định nghĩa ngắn:** *Evidence ledger* là sổ chỉ mục có cấu trúc ghi nhận các bằng chứng, trạng thái kiểm tra và quyết định liên quan. *Provenance* là thông tin về nguồn gốc, quá trình tạo, biến đổi, chuyển giao và phiên bản của một bằng chứng.

@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # Legal gate và risk tiers quốc tế
 
 > Cập nhật: 10/08/2026.  

@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # Quản trị chiến dịch và xử lý thất bại — Bản đồ thuật ngữ
 
 > **Định nghĩa làm việc của dự án:** *Quản trị chiến dịch và xử lý thất bại* là tập hợp quy tắc xác định chiến dịch được phép làm gì, ai có quyền thay đổi lời hứa, thay đổi nào cần hỏi lại người tham gia, cách xử lý thất bại, hoàn trả, nguồn lực còn dư và cách đóng chiến dịch có trật tự.

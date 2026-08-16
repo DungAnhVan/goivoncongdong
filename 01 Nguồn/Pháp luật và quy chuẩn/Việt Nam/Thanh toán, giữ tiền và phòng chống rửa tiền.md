@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # Thanh toán, giữ tiền và phòng chống rửa tiền
 
 > Cập nhật: 10/08/2026.

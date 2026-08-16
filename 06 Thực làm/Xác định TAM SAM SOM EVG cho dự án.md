@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # Xác định TAM SAM SOM EVG cho dự án
 
 **Phương án sử dụng:** [[Áp dụng TAM SAM SOM EVG]]  

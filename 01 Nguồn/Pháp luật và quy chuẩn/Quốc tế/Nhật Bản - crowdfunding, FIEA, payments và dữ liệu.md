@@ -1,3 +1,7 @@
+---
+ai_authored: true
+---
+
 # Nhật Bản - crowdfunding, FIEA, payments và dữ liệu
 
 > Cập nhật nghiên cứu: 10/08/2026.  
