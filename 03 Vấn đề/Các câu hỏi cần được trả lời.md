@@ -35,3 +35,8 @@ ai_authored: true
 - Trong trường hợp nhóm đầu tư đưa tiền trực tiếp cho nhóm khởi tạo dự án mà không qua tôi thì phải làm sao?
 - Cộng đồng và những người thực sự tương tác với ý tưởng đó là hai cái khác nhau. Rốt cuộc thì tôi cần gì, và đạt được điều đó thế nào?
 - Làm sao để ngăn chặn việc lừa đảo, rửa tiền ở đây?
+
+## Công cụ dùng khi gặp dự án thật
+
+- [[Phỏng vấn founder dự án]] — bộ 30 câu hỏi lõi để chuyển lời kể của người khởi tạo thành claim, bằng chứng, khoảng trống, pilot và bước tiếp theo có owner.
+
