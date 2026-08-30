@@ -1,358 +1,451 @@
 ---
 ai_authored: true
-type: quy-trinh
-status: thu-nghiem
-updated: 2026-08-28
+type: giao-thuc
+status: chot-tam-cho-pilot
+updated: 2026-08-30
+review_trigger: sau-3-ca-thuc-hoac-truoc-2026-10-01
 tags:
   - goi-von-cong-dong
   - founder
   - phong-van
+  - ca-thuc
+  - hien-chuong
   - pilot
-  - tham-dinh
 ---
 
 # Phỏng vấn founder dự án
 
-> [!abstract] Phạm vi
-> Trong tài liệu này, **founder** là người khởi tạo hoặc đang chịu trách nhiệm chính cho một dự án muốn được Samsti hỗ trợ hình thành, kiểm chứng, ghép nguồn lực hoặc chuẩn bị pilot. Đây **không phải** bộ câu hỏi tuyển co-founder vào đội ngũ Samsti.
+> [!abstract] Địa vị của tài liệu
+> Đây là giao thức tiếp nhận **một ca thực** vào Samsti. Trong ngôn ngữ của [[Vai trò và cặp vai bị cấm]], founder là **người mang ca thực**; người phỏng vấn là người thu thập và **soạn dẫn** từ ca thực về tiên đề.
 >
-> Buổi phỏng vấn đầu tiên không phải cuộc thi pitch, không phải thẩm định pháp lý đầy đủ và không phải cam kết nhận dự án hay huy động vốn.
+> Founder không cần biết mã tiên đề. Rào cản đầu vào phải thấp. Nhưng phía Samsti không được giữ một câu hỏi nếu không chỉ ra được nó được suy từ tiên đề nào.
+>
+> Toàn bộ tầng hiến chương hiện còn ở trạng thái chờ phê chuẩn, vì vậy giao thức này được **chốt tạm cho pilot** và phải xem lại sau ba ca phỏng vấn thật hoặc trước ngày 01/10/2026, tùy điều kiện nào đến trước.
 
-## 1. Mục tiêu của buổi phỏng vấn
+## 1. Quy tắc vô hiệu
 
-Sau buổi nói chuyện, Samsti phải hiểu được:
+> [!warning] Không truy nguyên được thì bỏ
+> Một câu hỏi không chỉ ra được mã **LC-xx**, **TĐ-xx** hoặc một bước cụ thể của [[Giao thức suy dẫn luật]] là câu hỏi tiện tay, không thuộc giao thức này.
+>
+> Không được nghĩ ra một bộ thẩm định startup thông thường rồi dán mã tiên đề vào sau. Chuỗi đúng phải là:
+>
+> **tiên đề → kịch bản vi phạm cần ngăn → câu hỏi → bằng chứng → quyết định bị chặn**
 
-1. Vấn đề thật là gì và ai đang chịu vấn đề đó.
-2. Điều gì đã biết, điều gì mới là giả định và điều gì chưa biết.
-3. Founder đang có bằng chứng gì; bằng chứng đó hỗ trợ claim nào và còn giới hạn gì.
-4. Dự án đang ở bước ý tưởng, kiểm chứng nhu cầu, tạo đội, ghép nguồn lực hay pilot.
-5. Bước thử nhỏ nhất tiếp theo là gì, ai làm và khi nào có kết quả.
-6. Điều gì Samsti có thể hỗ trợ và điều gì chưa nên hứa.
+Bộ câu hỏi không dùng để chấm founder nói hay, có “máu” hay, học trường nào hoặc làm slide đẹp đến đâu. Nó dùng để xác định Samsti có cơ sở chính đáng cho **quyết định kế tiếp** hay chưa.
 
-Đầu ra của buổi phỏng vấn **không phải một điểm số chung**. Đầu ra là một bản đồ gồm claim, bằng chứng, khoảng trống, rủi ro, giai đoạn hiện tại và quyết định tiếp theo được phép đưa ra.
+## 2. Phân vai trong một ca phỏng vấn
 
-## 2. Nguyên tắc phỏng vấn
+| Chức năng trong ca | Vai theo Hiến chương | Được làm | Không được làm |
+|---|---|---|---|
+| Founder/chủ dự án | Người mang ca thực | Kể ca, đưa claim, bằng chứng và giới hạn | Tự xác nhận ca của mình đã đạt |
+| Người phỏng vấn | Người soạn dẫn | Hỏi, ghi claim, nối câu trả lời về tiên đề, đề xuất bước tiếp | Tự kiểm hợp hiến đề xuất do mình soạn |
+| Người phản biện | Người phản biện | Tìm cách bẻ kết luận hoặc pilot được đề xuất | Trùng với người soạn dẫn trong cùng ca |
+| Người kiểm | Verifier/người kiểm hợp hiến phù hợp phạm vi | Kiểm claim, evidence requirement hoặc chuỗi suy dẫn | Sửa câu trả lời để giúp ca “đạt” |
+| Người giữ hồ sơ | Người giữ sổ | Cấp mã CA-xxx, giữ phiên bản, ghi ai làm vai nào | Ra quyết định về ca |
 
-### Hỏi để hiểu sự thật, không hỏi để bắt lỗi
+Một người có thể hỗ trợ nhiều việc, nhưng các cặp vai bị cấm vẫn áp **theo từng ca**. Người phỏng vấn có thể đề xuất “pilot này có thể chạy”, nhưng không được một mình biến đề xuất đó thành kết luận cuối.
 
-- Không chấm khả năng nói chuyện, độ bóng của slide hoặc sự tự tin.
-- Không biến việc “chưa biết” thành lỗi đạo đức.
-- Không gợi đáp án mà người phỏng vấn muốn nghe.
-- Khi câu trả lời chung chung, xin một tình huống, con số, hành vi hoặc tài liệu cụ thể.
+## 3. Bản đồ truy nguyên
 
-### Đi theo chuỗi claim → evidence → limitation → decision
+### 3.1. Sáu lõi cứng — cửa phủ quyết
 
-Với một tuyên bố quan trọng, luôn hỏi tiếp:
+Lõi cứng không phải sáu chủ đề để cân điểm. Một vi phạm đã xác định là đủ để dừng quyết định liên quan.
+
+| Tiên đề | Giao thức phải phát hiện | Câu hỏi chính | Quyết định bị chặn nếu chưa rõ |
+|---|---|---|---|
+| **LC-01 — Không chiếm dụng** | Nguồn lực bị coi thành tài sản tự do của người giữ | Q23–Q25, Q29 | Nhận, giữ hoặc giải ngân nguồn lực |
+| **LC-02 — Không gian lận** | Bằng chứng giả, người góp giả, bên liên quan bị che | Q2, Q8, Q20–Q23, Q26 | Gắn nhãn verified, hiển thị social proof, mở rộng huy động |
+| **LC-03 — Không tự phán** | Người hưởng lợi tự xác nhận điều kiện có lợi cho mình | Q25–Q27 | Nghiệm thu, giải ngân, kết luận đạt |
+| **LC-04 — Không hồi tố bất lợi, không hạ chuẩn sau kết quả** | Đổi ngưỡng hoặc tiêu chí sau khi biết kết quả | Q22, Q27–Q28 | Công nhận test, milestone hoặc amendment |
+| **LC-05 — Không xâm phạm phẩm giá để huy động** | Cưỡng ép, gây xấu hổ, phơi bày dữ liệu hoặc nỗi đau | Q11–Q12, Q29 | Công bố câu chuyện, dữ liệu hoặc mở chiến dịch |
+| **LC-06 — Không lời hứa không thể phản bác** | Claim không có cách chứng minh sai | Q7–Q8, Q22, Q26–Q27 | Công nhận outcome, milestone hoặc success |
+
+“Chưa rõ” không có nghĩa founder đã vi phạm. Nó có nghĩa Samsti **chưa được phép ra quyết định** dựa trên phần đó.
+
+### 3.2. Mười hai tiên đề vòng ngoài — đường hình thành dự án
+
+| Miền | Tiên đề | Câu hỏi |
+|---|---|---|
+| Mục đích | **TĐ-01** Nghĩa vụ giải thích trước quyền huy động | Q1–Q4 |
+| Mục đích | **TĐ-02** Công ích phải có biên giới | Q5–Q6 |
+| Mục đích | **TĐ-03** Lời hứa tác động phải phản bác được | Q7–Q8 |
+| Quan hệ | **TĐ-04** Đóng góp là gia nhập một quan hệ | Q9–Q10 |
+| Quan hệ | **TĐ-05** Ghi nhận phục vụ phẩm giá | Q11–Q12 |
+| Quan hệ | **TĐ-06** Sự đáp lại hữu hạn và xác định | Q13–Q14 |
+| Điều phối | **TĐ-07** Thiện chí thành cam kết có điều kiện | Q15–Q16 |
+| Điều phối | **TĐ-08** Cơ chế phù hợp cách thiện ích được sản xuất | Q17–Q19 |
+| Điều phối | **TĐ-09** Cộng đồng không đồng nhất tổng tiền | Q20–Q21 |
+| Quản trị | **TĐ-10** Quỹ là lời hứa được vật chất hóa | Q23–Q24 |
+| Quản trị | **TĐ-11** Người giữ tiền là quản thác của mục đích | Q25–Q26 |
+| Quản trị | **TĐ-12** Thất bại được quản trị trước khi xảy ra | Q27–Q29 |
+
+Q22 nối miền mục đích với điều phối bằng một pilot có thể phản bác. Q30 dùng bước B4–B6 của giao thức suy dẫn để chọn hành động tiếp theo nhẹ nhất, kiểm tra được và có tỷ lệ.
+
+## 4. Cách nói với founder
+
+Không đọc mã tiên đề trong lúc hỏi, trừ khi founder muốn biết. Người phỏng vấn hỏi bằng ngôn ngữ đời thường và ghi mã ở biên bản nội bộ.
+
+> Buổi hôm nay chưa phải quyết định gọi vốn. Samsti muốn hiểu dự án như một ca thật: trạng thái anh/chị muốn tạo ra, ai chịu tác động, bằng chứng nào đã có, quan hệ nào sẽ hình thành nếu nhận đóng góp và cách xử lý nếu mọi việc không diễn ra như dự kiến. “Chưa biết” là câu trả lời hợp lệ. Phần chưa biết sẽ trở thành việc cần kiểm tra, không bị kể thành điều đã chứng minh.
+
+## 5. Bộ 30 câu hỏi có truy nguyên
+
+### I. Mục đích — TĐ-01 đến TĐ-03
+
+**Q1. Dự án muốn biến trạng thái nào thành trạng thái nào, cho ai, ở đâu và trong khoảng thời gian nào?**
+
+- **Truy nguyên:** TĐ-01.
+- **Bằng chứng cần xem:** mô tả hiện trạng, phạm vi, dữ liệu nền hoặc quan sát có ngày.
+- **Ngăn/chặn:** tránh xin nguồn lực cho một mục tiêu chỉ có khẩu hiệu; chưa rõ thì chưa bàn ngân sách.
+
+**Q2. Bằng chứng trực tiếp nhất cho thấy nhu cầu này có thật và đủ đáng kể là gì?**
+
+- **Truy nguyên:** TĐ-01; kiểm LC-02.
+- **Bằng chứng cần xem:** dữ liệu vận hành, quan sát hiện trường, phỏng vấn có phương pháp, hành vi tự xoay xở, hàng chờ, chi phí hoặc khiếu nại; ghi nguồn và ngày.
+- **Ngăn/chặn:** tránh biến trực giác của founder thành nhu cầu của cộng đồng; chưa đủ thì chỉ được quyết định làm proof of need.
+
+**Q3. Người liên quan hiện xử lý vấn đề bằng cách nào, và cách hiện tại thiếu gì?**
+
+- **Truy nguyên:** TĐ-01.
+- **Bằng chứng cần xem:** quy trình hiện tại, chi phí, thời gian, thất bại, mức hài lòng và switching cost.
+- **Ngăn/chặn:** tránh huy động cho giải pháp không tốt hơn phương án đang có.
+
+**Q4. Founder và đội ngũ hiện có khả năng thực hiện phần nào, phần nào mới là giả định và phần nào chưa có owner?**
+
+- **Truy nguyên:** TĐ-01 — nghĩa vụ giải thích cả năng lực, không chỉ mục tiêu.
+- **Bằng chứng cần xem:** việc đã làm, prototype, lịch sử thực hiện, thời gian cam kết, quyền sử dụng công nghệ và khoảng trống năng lực.
+- **Ngăn/chặn:** chưa được trình bày một khả năng dự kiến như năng lực đã tồn tại.
+
+**Q5. Ai thuộc cộng đồng hưởng lợi, ai không thuộc, và tiêu chí biên giới là gì?**
+
+- **Truy nguyên:** TĐ-02.
+- **Bằng chứng cần xem:** actor map, địa lý, thời gian, tiêu chí eligibility và quy mô sơ bộ.
+- **Ngăn/chặn:** không được dùng chữ “cộng đồng” nếu chưa chỉ ra cộng đồng nào.
+
+**Q6. Ai có thể chịu ngoại tác, bị loại khỏi lợi ích hoặc bị ảnh hưởng dù không tham gia, và họ có quyền lên tiếng bằng cách nào?**
+
+- **Truy nguyên:** TĐ-02; kiểm LC-05.
+- **Bằng chứng cần xem:** affected-community map, consent/consultation record, grievance route.
+- **Ngăn/chặn:** chưa được gọi là công ích nếu chỉ nhìn người hưởng lợi và bỏ người chịu tác động.
+
+**Q7. Dự án đang hứa output và outcome nào; mỗi claim có đơn vị, đối tượng và cửa sổ thời gian gì?**
+
+- **Truy nguyên:** TĐ-03; LC-06.
+- **Bằng chứng cần xem:** claim register, baseline, indicator, target, thời gian và phạm vi.
+- **Ngăn/chặn:** claim kiểu “nâng cao nhận thức”, “tạo tác động” chưa được dùng làm tiêu chí thành công.
+
+**Q8. Kết quả hoặc bằng chứng nào sẽ khiến anh/chị thừa nhận claim sai, nhỏ hơn dự kiến hoặc cần dừng?**
+
+- **Truy nguyên:** TĐ-03; LC-02; LC-06.
+- **Bằng chứng cần xem:** falsification condition, negative evidence, excluded cases và limitation.
+- **Ngăn/chặn:** không có điều kiện phản bác thì không được công nhận claim đạt.
+
+### II. Quan hệ — TĐ-04 đến TĐ-06
+
+**Q9. Mỗi loại người tham gia đang làm gì: tặng, đặt trước, mua, cho vay, đầu tư, góp công, góp thiết bị hay cấp quyền tiếp cận?**
+
+- **Truy nguyên:** TĐ-04.
+- **Bằng chứng cần xem:** actor-role map và contribution type cho từng nhóm.
+- **Ngăn/chặn:** không được gom các quan hệ pháp lý và đạo đức khác nhau vào một nút “ủng hộ”.
+
+**Q10. Với từng loại quan hệ, họ nhận quyền gì, chịu rủi ro gì, được rút khi nào và không có quyền gì?**
+
+- **Truy nguyên:** TĐ-04.
+- **Bằng chứng cần xem:** điều khoản, benefit, risk disclosure, withdrawal rule và quyền khiếu nại.
+- **Ngăn/chặn:** chưa được nhận cam kết khi bản chất quan hệ chưa được nói rõ.
+
+**Q11. Người góp được lựa chọn hiển thị danh tính, số tiền và hình thức ghi nhận như thế nào?**
+
+- **Truy nguyên:** TĐ-05; kiểm LC-05.
+- **Bằng chứng cần xem:** lựa chọn opt-in/opt-out, chế độ ẩn danh/nhóm/công khai và cách đổi lựa chọn.
+- **Ngăn/chặn:** không được dùng công khai mặc định hoặc bảng xếp hạng để tạo áp lực.
+
+**Q12. Câu chuyện hoặc bằng chứng nào liên quan người thụ hưởng là nhạy cảm; ai đồng ý cho sử dụng và có cách nhẹ hơn để chứng minh claim không?**
+
+- **Truy nguyên:** TĐ-05; LC-05; bước B4 xâm hại tối thiểu.
+- **Bằng chứng cần xem:** consent, data minimization, access level, redaction và phương án thay thế.
+- **Ngăn/chặn:** không được đổi phẩm giá và riêng tư lấy sức mạnh truyền thông.
+
+**Q13. Dự án hứa đáp lại người góp điều gì, với phạm vi và giới hạn nào?**
+
+- **Truy nguyên:** TĐ-06.
+- **Bằng chứng cần xem:** reward/benefit schedule, nghĩa vụ, điều kiện fulfil và giới hạn quyền lực của người góp.
+- **Ngăn/chặn:** quà tặng không được âm thầm tạo quyền chi phối dự án hoặc người nhận.
+
+**Q14. Quan hệ đó kết thúc khi nào; sau khi đóng dự án còn nghĩa vụ báo cáo, giao hàng, bảo hành, dữ liệu hoặc quyền biểu quyết nào?**
+
+- **Truy nguyên:** TĐ-06; hỗ trợ TĐ-12.
+- **Bằng chứng cần xem:** thời hạn, closure condition, surviving obligations và record retention.
+- **Ngăn/chặn:** không để nghĩa vụ hoặc quyền lực tồn tại vô thời hạn vì chưa ai viết điểm kết thúc.
+
+### III. Điều phối — TĐ-07 đến TĐ-09
+
+**Q15. Sau khi thấy một offer đủ cụ thể, người thuộc đúng nhóm mục tiêu đã thực hiện hành vi gì?**
+
+- **Truy nguyên:** TĐ-07.
+- **Bằng chứng cần xem:** offer version, giá/nghĩa vụ, hành vi, ngày, quyền rút và evidence record.
+- **Ngăn/chặn:** lượt thích, lời khen và đăng ký nhận tin không được kể thành cam kết giao dịch.
+
+**Q16. Cam kết chỉ được kích hoạt khi điều kiện nào đạt; trước thời điểm đó người tham gia còn quyền gì?**
+
+- **Truy nguyên:** TĐ-07.
+- **Bằng chứng cần xem:** conditional pledge, activation event, withdrawal/release rule, deadline và người xác minh.
+- **Ngăn/chặn:** thiện chí chưa đạt điều kiện không được biến sớm thành nguồn lực không thể đảo ngược.
+
+**Q17. Thiện ích của dự án được sản xuất liên tục, chia nhỏ được hay chỉ có giá trị khi đủ một chi phí cố định?**
+
+- **Truy nguyên:** TĐ-08.
+- **Bằng chứng cần xem:** cost structure, minimum viable scope, dependency và partial-delivery value.
+- **Ngăn/chặn:** chưa được chọn cơ chế huy động trước khi hiểu công nghệ sản xuất của dự án.
+
+**Q18. Tổ hợp nguồn lực tối thiểu để dự án tạo được giá trị là gì?**
+
+- **Truy nguyên:** TĐ-08; hỗ trợ TĐ-07.
+- **Bằng chứng cần xem:** provision point gồm tiền, người, thiết bị, địa điểm, dữ liệu, access, giấy phép, deadline và blocking conditions.
+- **Ngăn/chặn:** không được chỉ đặt một con số tiền nếu thiếu một nguồn lực khác vẫn làm dự án bất khả thi.
+
+**Q19. All-or-nothing, keep-it-all hay hybrid phù hợp hơn, và rủi ro thiếu nguồn lực được đặt lên ai?**
+
+- **Truy nguyên:** TĐ-08.
+- **Bằng chứng cần xem:** mechanism rationale, fallback scope, partial-achievement rule và phân bổ rủi ro.
+- **Ngăn/chặn:** không được chọn cơ chế chỉ vì nó dễ truyền thông hoặc giữ được nhiều tiền hơn.
+
+**Q20. Dự án có bao nhiêu người độc lập tham gia, thay vì chỉ có tổng bao nhiêu tiền?**
+
+- **Truy nguyên:** TĐ-09.
+- **Bằng chứng cần xem:** unique actor count, distribution, concentration và top-contributor share.
+- **Ngăn/chặn:** một khoản lớn từ một người không được kể thành sự đồng thuận của cộng đồng.
+
+**Q21. Có người liên quan, tài khoản chia nhỏ, cam kết được hoàn lại ngầm hoặc lợi ích nào làm méo tín hiệu không?**
+
+- **Truy nguyên:** TĐ-09; LC-02.
+- **Bằng chứng cần xem:** related-party disclosure, identity/uniqueness control có tỷ lệ, benefit received và source of contribution.
+- **Ngăn/chặn:** chưa được hiển thị social proof hoặc matching theo số người khi chưa kiểm soát tính độc lập phù hợp.
+
+**Q22. Pilot nhỏ nhất nào sẽ kiểm tra giả định trọng yếu, với ngưỡng tiếp tục/sửa/dừng được viết trước?**
+
+- **Truy nguyên:** TĐ-01, TĐ-03, TĐ-07, TĐ-08; LC-04; LC-06.
+- **Bằng chứng cần xem:** protocol có population, intervention/offer, thời gian, threshold, exclusions, evidence và decision rule.
+- **Ngăn/chặn:** không được đổi tiêu chí sau kết quả hoặc gọi một hoạt động không thể phản bác là pilot thành công.
+
+### IV. Quản trị — TĐ-10 đến TĐ-12
+
+**Q23. Với mỗi nguồn lực, có truy được nguồn, trạng thái, quyền sử dụng, đích đến và bằng chứng không?**
+
+- **Truy nguyên:** TĐ-10; kiểm LC-01 và LC-02.
+- **Bằng chứng cần xem:** resource/fund ledger, provenance, trạng thái promised–reserved–received–used–returned và evidence ID.
+- **Ngăn/chặn:** không nhận hoặc hiển thị một nguồn lực không truy được bản chất và trạng thái.
+
+**Q24. Ngân sách được tính sau khi xác định nhu cầu và cơ chế như thế nào; khoản nào được chi, không được chi, phí và dự phòng ra sao?**
+
+- **Truy nguyên:** TĐ-10, TĐ-11, trở lại trình tự TĐ-01.
+- **Bằng chứng cần xem:** budget line, basis/quote, restriction, contingency, fee treatment và biên độ điều chỉnh.
+- **Ngăn/chặn:** không bắt đầu bằng số tiền muốn gọi rồi tìm câu chuyện để hợp thức hóa.
+
+**Q25. Ai giữ tiền hoặc tài sản, và điều gì chứng minh người giữ chỉ quản thác mục đích chứ không sở hữu tự do?**
+
+- **Truy nguyên:** TĐ-11; LC-01.
+- **Bằng chứng cần xem:** custody/safeguarding arrangement, account ownership, restriction source, reconciliation và residual rule.
+- **Ngăn/chặn:** chưa được chuyển nguồn lực nếu quyền kiểm soát kỹ thuật có thể biến thành quyền đổi mục tiêu.
+
+**Q26. Ai đề nghị chi, ai phê duyệt, ai chuyển, ai ghi sổ và ai xác nhận milestone?**
+
+- **Truy nguyên:** TĐ-11; LC-03; [[Vai trò và cặp vai bị cấm]].
+- **Bằng chứng cần xem:** role matrix, prohibited overlaps, conflict disclosure, verification protocol và disbursement rule.
+- **Ngăn/chặn:** founder/người nhận nguồn lực không được là người duy nhất tự xác nhận điều kiện nhận tiếp nguồn lực.
+
+**Q27. Tiêu chí, bằng chứng yêu cầu và người kiểm đã được ghi trước khi xem kết quả chưa?**
+
+- **Truy nguyên:** TĐ-03; LC-04; LC-06.
+- **Bằng chứng cần xem:** timestamped protocol, version, acceptance criteria, missing-data rule và reviewer identity.
+- **Ngăn/chặn:** tiêu chí viết sau hoặc hạ sau kết quả không được dùng để công nhận milestone.
+
+**Q28. Thay đổi nào là nhỏ, thay đổi nào là trọng yếu; ai đánh giá và khi nào phải xin re-consent?**
+
+- **Truy nguyên:** TĐ-04, TĐ-12; LC-04.
+- **Bằng chứng cần xem:** material-change rule, amendment/version history, notification, re-consent và withdrawal route.
+- **Ngăn/chặn:** không được dùng quyền vận hành để đổi mục đích hoặc quan hệ đã cam kết.
+
+**Q29. Nếu không đạt ngưỡng, chậm, thất bại, còn dư nguồn lực hoặc phát sinh tranh chấp thì điều gì xảy ra?**
+
+- **Truy nguyên:** TĐ-12; hỗ trợ TĐ-06; kiểm LC-01 và LC-05.
+- **Bằng chứng cần xem:** pause, recovery, termination, refund/release, residual, closure và grievance rules.
+- **Ngăn/chặn:** chưa mở huy động nếu chỉ có success path mà không có failure path tương xứng.
+
+**Q30. Quyết định nhỏ nhất Samsti nên đưa ra sau buổi này là gì, và có phương án nhẹ hơn đạt cùng mục tiêu không?**
+
+- **Truy nguyên:** TĐ-01; bước B4 xâm hại tối thiểu, B5 kiểm tra được và B6 tỷ lệ.
+- **Bằng chứng cần xem:** next test, owner, deadline, output, decision rule, quy mô tiền, khả năng đảo ngược và mức dễ tổn thương.
+- **Ngăn/chặn:** không biến khoảng trống thông tin nhỏ thành yêu cầu hồ sơ quá mức; cũng không dùng pilot nhỏ để hợp thức hóa quyết định lớn.
+
+## 6. Chạy phép kiểm suy dẫn sau phỏng vấn
+
+Người phỏng vấn không được kết luận chỉ bằng cảm giác. Mọi đề xuất tiếp theo phải chạy sáu bước:
+
+### B1 — Truy nguyên
+
+Liệt kê các tiên đề thực sự bị kích hoạt bởi ca. Không cần kéo đủ 18 tiên đề nếu ca chưa chạm tới chúng.
+
+### B2 — Cần thiết
+
+Viết một kịch bản cụ thể cho từng yêu cầu mới:
 
 ~~~text
-Anh/chị đang khẳng định chính xác điều gì?
-→ Bằng chứng nào trực tiếp hỗ trợ điều đó?
-→ Bằng chứng do ai tạo, khi nào và bằng cách nào?
-→ Có phản chứng hoặc giới hạn nào?
-→ Với bằng chứng hiện tại, ta được phép quyết định điều gì?
+Nếu không yêu cầu ___,
+actor ___ có thể làm ___,
+khiến actor ___ chịu ___,
+và chỉ bị phát hiện khi ___.
 ~~~
 
-### Tách bốn trạng thái
+Không viết “để tăng minh bạch” hoặc “để chuyên nghiệp hơn”.
 
-- **Đã biết:** có bằng chứng đủ cho quyết định đang xét.
-- **Có dấu hiệu:** có bằng chứng sơ bộ nhưng chưa đủ kết luận.
-- **Đang giả định:** hợp lý nhưng chưa được kiểm tra.
-- **Chưa biết:** chưa có dữ liệu hoặc chưa xác định được.
+### B3 — Kiểm sáu lõi cứng
 
-Không cho phép founder hoặc người phỏng vấn kể một giả định như một sự kiện đã được xác minh.
+Với từng LC, ghi **không kích hoạt / chưa rõ / đạt / có dấu hiệu vi phạm / vi phạm đã xác định**.
 
-### Bằng chứng phải tương xứng với quyết định
+- “Chưa rõ” → chặn quyết định liên quan, yêu cầu bằng chứng có tỷ lệ.
+- “Có dấu hiệu” → nâng mức kiểm tra, chưa kết tội.
+- “Vi phạm đã xác định” → dừng; không cân lợi ích để cho qua.
 
-Mười cuộc phỏng vấn có thể đủ để tìm giả thuyết mới, nhưng chưa đủ để tuyên bố tỷ lệ toàn thị trường. Một pilot nhỏ không cần gánh bộ hồ sơ như một chiến dịch huy động lớn; ngược lại, tiền lớn và rủi ro cao đòi hỏi bằng chứng, kiểm soát và vai trò độc lập mạnh hơn.
+### B4 — Xâm hại tối thiểu
 
-### Tôn trọng phẩm giá và dữ liệu
+Tìm ít nhất một cách nhẹ hơn để giảm cùng rủi ro.
 
-Không yêu cầu người thụ hưởng phơi bày thông tin nhạy cảm chỉ để làm câu chuyện gây quỹ. Tài liệu cá nhân có thể được kiểm tra riêng; bản công khai chỉ hiển thị phần cần thiết để người khác đánh giá claim.
+Ví dụ: nếu cần xác nhận có nhu cầu, trước tiên chạy một demand test nhỏ; không bắt founder làm ngay bộ hồ sơ gọi vốn đầy đủ. Nếu cần kiểm một milestone kỹ thuật nhỏ, dùng một reviewer độc lập phù hợp; không mặc định thuê kiểm toán toàn diện.
 
-## 3. Chuẩn bị trước buổi gặp
+### B5 — Kiểm tra được
 
-Founder không cần làm pitch deck hoàn chỉnh. Nếu có, đề nghị gửi trước tối đa:
+Bước tiếp theo phải có:
 
-- Một trang mô tả vấn đề, nhóm liên quan, giải pháp và trạng thái hiện tại.
-- Link hoặc bản mẫu của sản phẩm, quy trình hay can thiệp đang đề xuất.
-- Bằng chứng hiện có về nhu cầu hoặc hành vi cam kết.
-- Danh sách thành viên, vai trò và người có quyền quyết định.
-- Dự toán sơ bộ và các nguồn lực đã có.
-- Các rủi ro, giấy phép, IP hoặc quan hệ bên liên quan đã biết.
+- giá trị hoặc trạng thái cần quan sát;
+- đơn vị;
+- cửa sổ thời gian;
+- bằng chứng;
+- người kiểm;
+- người không được kiểm;
+- kết quả nào dẫn tới quyết định nào.
 
-Người phỏng vấn ghi trước các giả định cần kiểm tra, nhưng không biến chúng thành kết luận.
+### B6 — Tỷ lệ
 
-## 4. Nhịp buổi phỏng vấn 60 phút
+Xét đồng thời:
 
-| Thời gian | Nội dung | Kết quả cần có |
+1. Quy mô nguồn lực.
+2. Khả năng đảo ngược.
+3. Mức dễ tổn thương của người chịu tác động.
+4. Bất cân xứng thông tin.
+5. Mức trọng yếu nếu claim sai.
+
+Không áp bộ máy của chiến dịch lớn lên một pilot nhỏ; không hạ chuẩn cho một quyết định lớn chỉ vì founder là người quen hoặc kể chuyện thuyết phục.
+
+## 7. Kết quả hợp lệ của một ca
+
+| Kết quả | Khi dùng | Ý nghĩa |
 |---|---|---|
-| 0–5 phút | Mở khung và thống nhất cách dùng thông tin | Founder hiểu đây là buổi khám phá, chưa phải cam kết tài trợ |
-| 5–15 phút | Founder, vấn đề và các bên liên quan | Problem statement + actor map sơ bộ |
-| 15–30 phút | Bằng chứng, giải pháp và demand | Claim–evidence map sơ bộ |
-| 30–45 phút | Đội ngũ, pilot, milestone và nguồn lực | Pilot frame + resource gaps |
-| 45–55 phút | Tiền, kiểm soát, thay đổi và thất bại | Các điều kiện tin cậy tối thiểu |
-| 55–60 phút | Đọc lại và chốt bước tiếp theo | Owner + deadline + bằng chứng cần tạo |
-
-Không nhất thiết hỏi đủ từng câu theo đúng thứ tự. Nếu một câu đã được trả lời rõ và có bằng chứng, không hỏi lại chỉ để hoàn thành checklist.
-
-## 5. Bộ 30 câu hỏi lõi
-
-### A. Mở câu chuyện và xác định trạng thái
-
-**1. Nếu bỏ tên sản phẩm và mọi câu quảng bá, dự án muốn thay đổi trạng thái nào, cho ai, ở đâu và trong khoảng thời gian nào?**
-
-Câu trả lời tốt phải nói được trạng thái trước–sau, đối tượng và phạm vi; không chỉ nói “tạo tác động”, “kết nối cộng đồng” hoặc “ứng dụng công nghệ”.
-
-**2. Điều gì khiến anh/chị bắt đầu dự án này, và anh/chị đã trực tiếp nhìn thấy hay trải qua điều gì?**
-
-Hỏi để hiểu nguồn gốc insight và mức tiếp xúc thực tế, không dùng câu chuyện cá nhân để tự động suy ra nhu cầu của toàn bộ cộng đồng.
-
-**3. Tính đến hôm nay, dự án đã thực sự làm được gì?**
-
-Tách rõ: ý tưởng, nghiên cứu, prototype, thử nghiệm, người dùng thử, cam kết, giao dịch, đối tác, giấy phép và kết quả. Xin ngày, số lượng và tài liệu nếu có.
-
-### B. Vấn đề và các bên liên quan
-
-**4. Ai đang gặp vấn đề này một cách cụ thể?**
-
-Làm rõ tiêu chí nhận diện, địa điểm, thời điểm, quy mô sơ bộ và nhóm nào không thuộc phạm vi.
-
-**5. Beneficiary, end user, customer, payer, decision-maker và affected community có phải cùng một nhóm không?**
-
-Nếu không, ai nhận lợi ích, ai dùng, ai trả tiền, ai cho phép và ai có thể chịu tác động ngoài ý muốn?
-
-**6. Bằng chứng trực tiếp nhất cho thấy vấn đề tồn tại và đủ đáng kể là gì?**
-
-Có thể là hành vi tự xoay xở, chi phí hiện tại, dữ liệu vận hành, hàng chờ, khiếu nại, quan sát hiện trường hoặc phỏng vấn có cấu trúc. Hỏi cách chọn mẫu và thời điểm thu thập.
-
-**7. Hiện nay họ giải quyết vấn đề bằng cách nào, và phương án hiện tại thất bại ở đâu?**
-
-Làm rõ chi phí tiền, thời gian, rủi ro, mức hài lòng và chi phí chuyển sang giải pháp mới.
-
-**8. Có bằng chứng nào cho thấy vấn đề nhỏ hơn anh/chị nghĩ, giải pháp chưa cần thiết hoặc một nhóm không muốn thay đổi không?**
-
-Câu này kiểm tra khả năng nhìn nhận phản chứng. “Chưa tìm” là một câu trả lời cần ghi nhận; “không thể có phản chứng” là dấu hiệu nguy hiểm.
-
-### C. Giải pháp và ranh giới dự án
-
-**9. Can thiệp nhỏ nhất mà dự án đề xuất là gì, và cơ chế nào khiến nó có thể tạo ra thay đổi?**
-
-Không chỉ mô tả tính năng; phải nối được hoạt động → output → outcome dự kiến.
-
-**10. Vì sao người liên quan sẽ chọn giải pháp này thay cho phương án hiện tại hoặc một giải pháp khác?**
-
-Hỏi về giá, độ tin cậy, thói quen, quyền quyết định, khả năng tiếp cận và switching cost; không chỉ hỏi “điểm khác biệt”.
-
-**11. Trong mô hình hiện tại, phần nào đã biết, phần nào đang giả định và phần nào chưa biết?**
-
-Yêu cầu founder tự chia tối thiểu ba cột. Đây là câu kiểm tra độ trung thực trí tuệ, không phải kiểm tra việc biết hết mọi thứ.
-
-**12. Dự án chủ động không làm gì và không hứa điều gì trong giai đoạn này?**
-
-Phải có minimum scope, out-of-scope và giới hạn địa lý/thời gian. Một dự án không có ranh giới rất khó kiểm chứng và rất dễ đổi lời hứa.
-
-### D. Nhu cầu, hành vi và cam kết
-
-**13. Đã có ai thuộc đúng nhóm mục tiêu nhìn thấy một offer đủ cụ thể — giải pháp, giá hoặc nghĩa vụ, điều kiện và thời điểm — chưa?**
-
-Nếu chỉ hỏi “anh/chị có thích ý tưởng này không?”, đó chưa phải demand test.
-
-**14. Sau khi thấy offer, họ đã thực hiện hành vi gì?**
-
-Phân loại riêng: xem, thích, để lại thông tin, tham gia thử, ký thư quan tâm, dành lịch, đặt cọc, trả tiền, góp thiết bị, ký pilot hoặc sử dụng lặp lại. Không gộp tất cả thành “người ủng hộ”.
-
-**15. Các tín hiệu đó đến từ bao nhiêu actor độc lập, có bao nhiêu người liên quan tới founder và có bị tập trung vào một actor lớn không?**
-
-Ghi thêm offer version, quyền rút, ngày hết hạn và lợi ích đổi lại. Founder tự bỏ tiền là skin in the game, không phải bằng chứng độc lập của user demand.
-
-**16. Trước khi làm test tiếp theo, ngưỡng nào sẽ dẫn tới tiếp tục, sửa hoặc dừng?**
-
-Ngưỡng phải được viết trước khi biết kết quả. Hỏi luôn trường hợp nào không được tính và bằng chứng nào có thể bác bỏ giả thuyết.
-
-### E. Founder, đội ngũ và quyền quyết định
-
-**17. Ai đang chịu trách nhiệm cho từng phần việc và từng loại quyết định quan trọng?**
-
-Tối thiểu tách: project lead, chuyên môn, vận hành, tài chính, kiểm chứng và xử lý xung đột. Một chức danh đẹp không thay thế quyền và trách nhiệm rõ.
-
-**18. Founder và đội ngũ đã cam kết nguồn lực gì, trong bao lâu và đang bị giới hạn bởi điều gì?**
-
-Có thể là thời gian, tiền, thiết bị, dữ liệu, uy tín hoặc cơ hội khác. Hỏi khả năng duy trì cam kết, không ca ngợi hy sinh mù quáng.
-
-**19. Năng lực, quan hệ hoặc nguồn lực nào còn thiếu đến mức có thể chặn pilot?**
-
-Xác định single point of failure, người phụ thuộc, nhà cung cấp duy nhất và việc nào chưa có owner.
-
-**20. Có vấn đề nào về pháp nhân, IP, giấy phép, an toàn, dữ liệu cá nhân, hợp đồng hoặc xung đột lợi ích cần công bố ngay không?**
-
-Hỏi cả nhà cung cấp liên quan tới founder, người thân đóng góp, quyền sử dụng dữ liệu và quyền đại diện của đối tác. Chưa hoàn tất pháp lý có thể là khoảng trống; cố tình che giấu là vấn đề integrity khác hẳn.
-
-### F. Pilot, kết quả và kiểm chứng
-
-**21. Thành công có nghĩa là thay đổi gì đối với người dùng hoặc cộng đồng, ngoài việc “đã làm xong sản phẩm”?**
-
-Tách proof of use, output và outcome. Hóa đơn chứng minh một khoản chi, không tự chứng minh tác động.
-
-**22. Pilot nhỏ nhất có thể kiểm tra giả định quan trọng nhất là gì?**
-
-Ghi rõ đối tượng, phạm vi, thời gian, offer/intervention, quy mô, giới hạn và quyết định sẽ được đưa ra sau pilot. Pilot không phải phiên bản thu nhỏ của mọi tham vọng.
-
-**23. Mỗi milestone sẽ được đo bằng đơn vị nào, trong cửa sổ thời gian nào, bằng bằng chứng gì và ai xác nhận?**
-
-Tiêu chí phải có khả năng đạt hoặc không đạt. Người nhận nguồn lực không được là người duy nhất xác nhận điều kiện để nhận tiếp nguồn lực.
-
-**24. Thông tin nào sẽ được công khai, thông tin nào chỉ được kiểm tra riêng, ai được quyền xem và người liên quan khiếu nại bằng cách nào?**
-
-Cần cân bằng khả năng kiểm chứng với phẩm giá, bảo mật, IP và dữ liệu cá nhân. Không dùng nhãn “nội bộ” để che điều khoản làm thay đổi quyền của contributor.
-
-### G. Nguồn lực và tiền
-
-**25. Để pilot chạy được, dự án cần toàn bộ tổ hợp nguồn lực nào — không chỉ tiền?**
-
-Liệt kê nhân lực, giờ chuyên môn, thiết bị, địa điểm, dữ liệu, quyền tiếp cận, pháp lý, kênh phân phối và tiền. Ghi rõ nguồn đã có, đã hứa, đã reserve hay mới đang tìm.
-
-**26. Provision point tối thiểu là gì?**
-
-Dự án chỉ nên kích hoạt khi tổ hợp tối thiểu nào đã đủ? Điều kiện nào là blocking condition, ai đo và deadline là khi nào?
-
-**27. Số tiền cần dùng được tính từ đâu và bị ràng buộc vào những hạng mục nào?**
-
-Yêu cầu budget line, đơn giá/giả định, báo giá nếu trọng yếu, dự phòng, phí, khoản không được chi và biên độ điều chỉnh. Không bắt đầu bằng định giá doanh nghiệp.
-
-**28. Ai giữ tiền hoặc tài sản, ai đề nghị chi, ai phê duyệt, ai đối soát, khi nào giải ngân và bằng chứng nào cho phép giải ngân?**
-
-Hỏi tiếp cách xử lý thiếu tiền, chậm tiến độ, dư tiền, nguồn lực chưa dùng, refund/release và residual resources. Không để một người vừa nhận, chi, ghi sổ và tự xác nhận milestone.
-
-### H. Quan hệ với Samsti và bước tiếp theo
-
-**29. Ở bước hiện tại, dự án thực sự cần Samsti làm gì và không nên làm gì?**
-
-Tách rõ: làm rõ vấn đề, thiết kế test, tìm đội, phản biện, verifier, pháp lý, thiết bị, địa điểm, dữ liệu, đối tác, nguồn công, cộng đồng hay tiền. Không mặc định mọi nhu cầu đều là gọi vốn.
-
-**30. Trong 14 ngày tới, thử nghiệm hoặc bằng chứng nhỏ nhất nào có thể làm giảm bất định lớn nhất?**
-
-Chốt một việc có owner, deadline, đầu ra và quy tắc đọc kết quả. Nếu chưa thể chốt bước nhỏ, chưa nên mở một kế hoạch lớn hơn.
-
-## 6. Cách ghi biên bản
-
-Không chép nguyên văn toàn bộ cuộc nói chuyện. Với mỗi claim quan trọng, ghi theo mẫu:
+| **Hoãn vì thiếu ca thực/bằng chứng** | Chưa đủ dữ liệu để suy dẫn | Không bác bỏ dự án; ghi điều kiện kích hoạt lại |
+| **Đề xuất test** | Có một bất định chính và cách kiểm nhẹ | Chưa nhận nguồn lực cho triển khai rộng |
+| **Đề xuất pilot chốt tạm** | B1–B5 đạt, B6 đủ cho pilot | Phải có phạm vi và ngày hết hạn xem lại |
+| **Chuyển phản biện độc lập** | Đã có đề xuất pilot/quy tắc cụ thể | Người soạn dẫn không tự phản biện |
+| **Hold** | Rủi ro integrity, pháp lý, an toàn hoặc phẩm giá chưa đủ rõ | Dừng quyết định có thể gây hại, không kết tội khi chưa xác minh |
+| **Dừng do vi phạm lõi cứng** | Có bằng chứng xác định một LC bị vi phạm | Không cân bằng bằng lợi ích hoặc tiềm năng |
+
+Không dùng một tổng điểm để cho phép một điểm mạnh bù một vi phạm lõi cứng.
+
+## 8. Biên bản ca thực
 
 ~~~text
-claim_id:
-claim_text:
-claim_status: da-biet / co-dau-hieu / gia-dinh / chua-biet
-founder_answer:
-supporting_evidence:
-contradictory_evidence:
-source_and_date:
-limitations:
-missing_evidence:
-verification_needed:
-decision_currently_allowed:
-next_test:
+case_id: CA-xxx
+project:
+case_carrier:
+interviewer_drafter:
+independent_critic:
+constitutional_checker_or_verifier:
+record_keeper:
+interviewed_at:
+protocol_version:
+
+plain_language_summary:
+
+axioms_triggered:
+  - code:
+    reason:
+
+claims:
+  - claim_id:
+    claim_text:
+    status: da-biet | co-dau-hieu | gia-dinh | chua-biet
+    supporting_evidence:
+    contradictory_evidence:
+    provenance:
+    limitations:
+    decision_currently_allowed:
+
+core_checks:
+  LC-01:
+  LC-02:
+  LC-03:
+  LC-04:
+  LC-05:
+  LC-06:
+
+derivation:
+  B1_truy_nguyen:
+  B2_kich_ban_vi_pham:
+  B3_kiem_loi_cung:
+  B4_phuong_an_nhe_hon:
+  B5_tieu_chi_kiem:
+  B6_nguong_ty_le:
+
+proposed_next_action:
 owner:
 deadline:
+review_date:
+decision_after_result:
+status:
 ~~~
 
-Cuối buổi phải tạo được tối thiểu:
+Người giữ sổ không sửa âm thầm bản cũ. Bản mới thay thế phải giữ liên kết tới phiên bản trước.
 
-- Một câu mô tả dự án không mang tính quảng bá.
-- Actor map sơ bộ.
-- Ba đến năm claim quan trọng nhất.
-- Danh sách bằng chứng đã xem và bằng chứng còn thiếu.
-- Pilot hoặc demand test nhỏ nhất tiếp theo.
-- Các rủi ro và xung đột lợi ích đã biết.
-- Người chịu trách nhiệm và deadline của bước tiếp theo.
+## 9. Bản rút gọn 30 phút
 
-## 7. Kết luận sau phỏng vấn
+Bản rút gọn không được bỏ B1, B3 và B5. Hỏi 12 câu sau:
 
-Không dùng “đạt/trượt” làm kết luận mặc định. Xác định dự án đang ở một trong các bước:
+1. Trạng thái nào cần được tạo ra, cho ai? — TĐ-01.
+2. Bằng chứng nhu cầu mạnh nhất và phản chứng là gì? — TĐ-01, TĐ-03.
+3. Ai hưởng lợi, ai chịu ngoại tác? — TĐ-02.
+4. Các claim thành công bị chứng minh sai bằng cách nào? — TĐ-03, LC-06.
+5. Người tham gia đang tặng, mua, đặt trước, cho vay, đầu tư hay góp nguồn lực gì? — TĐ-04.
+6. Có dữ liệu hoặc cách ghi nhận nào xâm phạm phẩm giá không? — TĐ-05, LC-05.
+7. Cam kết kích hoạt khi điều kiện nào đạt? — TĐ-07.
+8. Thiện ích chia nhỏ được không và provision point là gì? — TĐ-08.
+9. Có bao nhiêu actor độc lập, bên liên quan và mức tập trung ra sao? — TĐ-09, LC-02.
+10. Nguồn lực được truy vết, giữ và chi theo mục đích thế nào? — TĐ-10, TĐ-11, LC-01.
+11. Ai kiểm milestone; tiêu chí có được đặt trước kết quả không? — LC-03, LC-04, LC-06.
+12. Failure, refund/release và bước thử nhỏ nhất tiếp theo là gì? — TĐ-12, B4–B6.
 
-| Giai đoạn | Dấu hiệu chính | Bước tiếp theo |
-|---|---|---|
-| Problem framing | Chưa xác định rõ vấn đề hoặc actor | Quan sát, phỏng vấn, dựng actor map |
-| Evidence building | Vấn đề hợp lý nhưng proof of need còn yếu | Tạo evidence requirement và thu bằng chứng |
-| Demand testing | Có need sơ bộ nhưng offer chưa tạo hành vi thật | Chạy test có ngưỡng viết trước |
-| Team formation | Bài toán có tín hiệu nhưng thiếu owner/năng lực | Ghép người và thử cộng tác nhỏ |
-| Resource assembly | Pilot rõ nhưng tổ hợp nguồn lực chưa đủ | Lập provision point và ghép nguồn lực |
-| Pilot-ready | Scope, milestone, owner, evidence và nguồn lực tối thiểu đã rõ | Phê duyệt pilot có giới hạn |
-| Campaign design | Pilot tạo đủ căn cứ để cân nhắc huy động rộng hơn | Soạn charter, kiểm soát tiền, change/failure/refund rules |
-| Hold | Có vấn đề integrity, pháp lý, an toàn hoặc phẩm giá chưa xử lý | Dừng mở rộng cho đến khi được giải quyết |
+Sau đó chỉ được đưa ra một trong các kết quả tại mục 7.
 
-Với sáu chiều bên dưới, chỉ ghi trạng thái **chưa biết / self-claim / bằng chứng sơ bộ / đủ cho quyết định kế tiếp**; không cộng thành một điểm tổng:
+## 10. Definition of done
 
-1. Problem clarity.
-2. Proof of need.
-3. Demand/commitment evidence.
-4. Team và governance.
-5. Pilot verifiability.
-6. Resource và fund controls.
+Một buổi phỏng vấn chỉ hoàn thành khi:
 
-## 8. Dấu hiệu phải dừng hoặc nâng mức kiểm tra
+- Có mã CA-xxx hoặc đã giao người giữ sổ cấp mã.
+- Mỗi yêu cầu tiếp theo có mã tiên đề truy nguyên.
+- Có ít nhất một phản chứng hoặc ghi rõ chưa tìm phản chứng.
+- Sáu lõi cứng đều được ghi trạng thái, không để trống.
+- Không có người vừa soạn dẫn vừa tự kết luận hợp hiến.
+- Bước tiếp theo nhẹ nhất đã được cân nhắc.
+- Bước tiếp theo có evidence requirement và decision rule.
+- Mức kiểm tra được giải thích theo tính tỷ lệ.
+- Có owner, deadline và ngày xem lại.
+- Bản cũ được giữ nếu biên bản được sửa.
 
-- Bằng chứng bị tạo, chỉnh hoặc chọn lọc để khớp tiêu chí.
-- Che quan hệ bên liên quan, người góp giả hoặc cam kết được bồi hoàn ngầm.
-- Muốn nhận tiền trước khi xác định mục đích, restriction, người giữ và rule giải ngân.
-- Founder muốn là người duy nhất tự xác nhận milestone và tự giải ngân.
-- Tiêu chí thành công không thể bị chứng minh sai.
-- Muốn đổi ngưỡng sau khi đã thấy kết quả.
-- Dùng xấu hổ, cưỡng ép hoặc phơi bày người thụ hưởng để huy động.
-- Từ chối nói về thất bại, thay đổi trọng yếu, hoàn/trả nguồn lực hoặc đóng dự án.
-- Rủi ro an toàn, pháp lý hoặc dữ liệu có thể gây thiệt hại nhưng bị xem nhẹ.
+## 11. Liên kết
 
-Những điều sau **không tự động là red flag**: dự án còn sớm, mẫu nhỏ, chưa có pháp nhân, chưa có đủ đội, chưa biết TAM, chưa có mô hình tài chính 5 năm hoặc founder thừa nhận chưa biết. Chúng chỉ cho biết dự án đang ở giai đoạn nào.
-
-## 9. Bản rút gọn cho cuộc gặp đầu 30 phút
-
-Nếu chỉ có 30 phút, dùng 12 câu sau:
-
-1. Dự án muốn thay đổi trạng thái nào, cho ai?
-2. Ai đang gặp vấn đề và ai là người dùng, người trả tiền, người quyết định?
-3. Bằng chứng trực tiếp nhất của nhu cầu là gì?
-4. Họ đang giải quyết bằng cách nào và vì sao sẽ chuyển đổi?
-5. Can thiệp nhỏ nhất dự án đề xuất là gì?
-6. Offer cụ thể nào đã được thử?
-7. Người liên quan đã thực hiện hành vi cam kết nào?
-8. Ai chịu trách nhiệm và năng lực nào còn thiếu?
-9. Pilot nhỏ nhất kiểm tra được giả định quan trọng nhất là gì?
-10. Tổ hợp nguồn lực và provision point tối thiểu là gì?
-11. Nếu thiếu nguồn lực, chậm, đổi hướng hoặc thất bại thì xử lý thế nào?
-12. Trong 14 ngày tới, bằng chứng nhỏ nhất cần tạo là gì?
-
-Chỉ mở buổi thẩm định sâu hơn khi kết quả 30 phút cho thấy có một quyết định thực sự cần thêm bằng chứng.
-
-## 10. Lời mở đầu gợi ý
-
-> Buổi hôm nay không nhằm xem anh/chị pitch hay đến mức nào và cũng chưa phải quyết định gọi vốn. Samsti muốn hiểu dự án đang ở đâu: điều gì đã biết, điều gì còn là giả định, bằng chứng nào đã có và bước thử nhỏ nhất tiếp theo là gì. “Chưa biết” là câu trả lời hợp lệ; điều quan trọng là mình phân biệt được chưa biết với điều đã được chứng minh.
-
-## 11. Cách kết thúc buổi gặp
-
-Người phỏng vấn đọc lại trong hai phút:
-
-> Em hiểu dự án hiện đang muốn giải quyết ___ cho ___. Ba claim quan trọng là ___. Bằng chứng hiện có là ___; phần còn thiếu hoặc mâu thuẫn là ___. Hiện dự án đang ở giai đoạn ___. Bước tiếp theo đã thống nhất là ___, do ___ phụ trách, hoàn thành trước ___; kết quả sẽ dẫn tới quyết định ___.
-
-Founder được sửa bản đọc lại ngay. Sau buổi gặp, mọi thay đổi về claim, bằng chứng hoặc quyết định phải được ghi thành phiên bản mới, không sửa âm thầm biên bản cũ.
-
-## 12. Những thứ chưa cần ưu tiên trong buổi đầu
-
-- Định giá doanh nghiệp và chia cổ phần.
-- Dự báo doanh thu năm năm chỉ để làm slide đẹp.
-- TAM lớn nhưng chưa chỉ ra nhóm có thể tiếp cận.
-- Số follower, lượt thích hoặc logo đối tác không rõ vai trò.
-- Một pitch deck hoàn hảo.
-- Lời hứa rằng Samsti sẽ gọi được tiền.
-
-Chỉ hỏi sâu các nội dung này khi quyết định kế tiếp thực sự phụ thuộc vào chúng.
-
-## 13. Liên kết nội bộ
-
-- [[Proof of need và demand validation]]
-- [[Evidence quality và sufficiency]]
-- [[Costly signaling và cheap talk]]
-- [[Campaign charter]]
-- [[Provision point và threshold mechanism]]
-- [[Restricted funds]]
-- [[Disbursement]]
-- [[Refund and release mechanism]]
-- [[Campaign failure, recovery and termination]]
+- [[Hiến chương - Bản đồ]]
 - [[Tiên đề lõi cứng]]
+- [[Tiên đề vòng ngoài]]
+- [[Giao thức suy dẫn luật]]
+- [[Giao thức xử lý xung đột]]
+- [[Vai trò và cặp vai bị cấm]]
+- [[Proof of need và demand validation]]
+- [[Campaign charter]]
+- [[Verification protocol và decision rule]]
