@@ -1,29 +1,19 @@
 ---
-ai_authored: true
----
-
-<<<<<<< HEAD
-
-[[Startup Wheel — Tổng quan và bài học]]
-
-[[SIHUB - Tổng quan và bài học]] 
-
-=======
----
 type: mo-rong
 status: dang-phat-trien
-updated: 2026-08-05
+updated: 2026-09-06
 tags:
   - he-sinh-thai
   - doi-tac
   - chien-luoc
   - mo-hinh
+ai_authored: true
 ---
 
 # Liên kết với các mô hình và tổ chức khác
 
 > [!abstract] Vai trò của ghi chú
-> Đây không phải nơi lưu toàn bộ thông tin về từng tổ chức. Dữ liệu gốc, chương trình, bằng chứng và tài liệu tham khảo nằm trong `Nguồn/Tổ chức hệ sinh thái/`.
+> Đây không phải nơi lưu toàn bộ thông tin về từng tổ chức. Dữ liệu gốc, chương trình, bằng chứng và tài liệu tham khảo nằm trong `01 Nguồn/Tổ chức hệ sinh thái/`.
 >
 > Ghi chú này là **bàn chiến lược** để trả lời:
 > - Họ đang làm được điều gì?
@@ -65,13 +55,12 @@ Nguồn lực không chỉ là tiền mà còn có thể là:
 
 Liên kết nền tảng:
 
-- [[Ý tưởng gọi vốn cộng đồng]]
-- [[Tóm tắt buổi thảo luận ngày 2-8]]
+- [[Gọi vốn cộng đồng]]
 - [[Các câu hỏi cần được trả lời]]
+- [[Multi-resource matching]]
+- [[Commitment ladder]]
 
 ## 2. Bản đồ vòng đời dự án
-
-Các tổ chức khác nhau không nhất thiết thay thế nhau. Mỗi bên thường mạnh ở một đoạn khác nhau của vòng đời dự án.
 
 ```text
 Phát hiện vấn đề
@@ -89,11 +78,13 @@ Phát hiện vấn đề
 
 | Chủ thể | Vị trí chính trong chuỗi |
 |---|---|
-| **Mô hình của chúng ta** | Từ vấn đề và ý tưởng thô; tạo bằng chứng, đội dự án, cam kết nguồn lực và theo dõi xuyên suốt |
+| **Samsti / mô hình của chúng ta** | Từ vấn đề và ý tưởng thô; tạo bằng chứng, đội dự án, cam kết nguồn lực và theo dõi xuyên suốt |
+| **ABG** | Leadership/talent engine; tuyển chọn, mentor, alumni, network và project practice |
 | **SIHUB** | Hỗ trợ công, tiền ươm tạo, ươm tạo, tăng tốc, chuyển giao công nghệ và kết nối hệ sinh thái |
 | **Startup Wheel** | Thu hút startup, sàng lọc theo vòng, mentoring, trình diễn, truyền thông và kết nối đầu tư |
-| **FundingVN** | Tổ chức chiến dịch huy động từ cộng đồng và các cơ chế đóng góp hoặc phần thưởng |
-| **HCM VIF** | Nguồn vốn đầu tư mạo hiểm cho dự án đủ trưởng thành và phù hợp tiêu chí |
+| **Dream Lab** | Founder engine, AI venture building và capital pipeline |
+| **FundingVN** | Chiến dịch crowdfunding và hạ tầng huy động |
+| **HCM VIF / quỹ** | Vốn đầu tư cho dự án đủ trưởng thành |
 | **Doanh nghiệp / viện trường / địa phương** | Bài toán thực tế, chuyên môn, thử nghiệm, sản xuất, mua hàng hoặc ứng dụng kết quả |
 
 > [!important] Nguyên tắc
@@ -124,318 +115,336 @@ Một tổ chức có thể đồng thời nằm trong cả bốn vùng.
 
 ---
 
-## 4. SIHUB
+## 4. ABG Leadership Institute
+
+**Hồ sơ nguồn:** [[ABG - Tổng quan và bài học]]
+
+### Họ đang giải quyết vấn đề gì?
+
+ABG tập trung vào **phát triển con người có tố chất lãnh đạo**, không trực tiếp bắt đầu từ project hay fundraising.
+
+Mô hình quan sát được:
+
+```text
+Potential leader
+→ tuyển chọn
+→ leadership development
+→ mentor / peer group
+→ project/action
+→ alumni identity
+→ network lâu dài
+```
+
+### Họ sở hữu tài sản gì?
+
+- Talent pipeline đã qua tuyển chọn.
+- Mentor và expert network.
+- Alumni community liên thế hệ.
+- Quan hệ public–private–academic.
+- Các chương trình theo lĩnh vực như education, agribiz và mentoring.
+- ABG Alumni Connect với directory, introduction và matching.
+- Reputation layer từ cohort/alumni identity.
+
+### Chúng ta học gì từ ABG?
+
+- Không chỉ tuyển người cho một project; phải nuôi một **talent community** dài hạn.
+- Alumni là tài sản hệ sinh thái nếu có identity, contribution history và lý do quay lại.
+- Mentor không nên chỉ tồn tại trong buổi nói chuyện; có thể gắn với project thật và follow-up.
+- Một network có giá trị hơn khi giúp tạo introduction và collaboration, không chỉ event attendance.
+- Có thể dùng cohort để tạo trust boundary ban đầu cho người tham gia.
+
+### ABG có thể cung cấp gì cho Samsti?
+
+- Project lead và operator.
+- Mentor / verifier theo ngành.
+- Policy, education, social-impact và community expertise.
+- Talent cho các work package ngắn hạn.
+- Distribution qua alumni network.
+- Một môi trường để tìm những người có năng lực nhưng chưa có project riêng.
+
+### Samsti có thể cung cấp gì cho ABG?
+
+- Project thật để học viên/alumni thực hành leadership.
+- Problem pipeline từ doanh nghiệp, cộng đồng và địa phương.
+- Work package có scope, deadline và acceptance criteria rõ.
+- Evidence và milestone để đo contribution thật.
+- Contributor → work-package lead → project lead pathway.
+- Portfolio đóng góp có thể tích lũy qua nhiều project.
+
+### Điểm giao nhau
+
+- Mentor matching.
+- Community network.
+- Project mentoring.
+- Contribution/reputation signal.
+- Phát triển người thành project lead.
+
+### Khác biệt cốt lõi
+
+> **ABG nuôi người. Samsti hình thành dự án.**
+
+ABG bắt đầu từ con người và phát triển họ thành lãnh đạo. Samsti có thể bắt đầu từ một vấn đề chưa có người sở hữu rồi tập hợp những người phù hợp thành một project.
+
+```text
+ABG talent graph
+        ↓
+Samsti project graph
+        ↓
+project execution
+        ↓
+portfolio / reputation / community outcome
+```
+
+### Rủi ro phụ thuộc
+
+Không nên để một partner talent network sở hữu hoàn toàn:
+
+- Project pipeline.
+- Contributor identity graph.
+- Lịch sử đóng góp.
+- Evidence và milestone data.
+- Tiêu chuẩn project readiness.
+
+### Quan hệ đề xuất
+
+> [!success] Định hướng
+> **Đối tác talent + mentor + project practice.** Không mở bằng một đề nghị partnership chung chung. Nên đề xuất một pilot cụ thể: một project thật, 3–5 alumni phù hợp, một mentor, các work package rõ và 4–8 tuần thực hiện.
+
+### Giả thuyết cần kiểm chứng
+
+- Alumni ABG có muốn tham gia project ngoài mạng ABG không?
+- ABG có cần project thật làm môi trường thực hành leadership không?
+- Alumni Connect có cho phép matching/introduction với partner ngoài hệ thống không?
+- Contribution history có giá trị với alumni career/portfolio không?
+- ABG Mentoring Lab muốn nhận project ở stage nào?
+
+---
+
+## 5. SIHUB
 
 **Hồ sơ nguồn:** [[SIHUB - Tổng quan và bài học]]
 
 ### Họ làm được gì?
 
-SIHUB có lợi thế mà một nền tảng tư nhân mới gần như không thể tự tạo nhanh:
-
 - Vị thế và tính chính danh của một đầu mối công.
 - Kết nối chính sách và các chương trình hỗ trợ của Thành phố.
 - Phân tầng dự án theo tiền ươm tạo, ươm tạo và tăng tốc.
 - Mạng lưới chuyên gia, trường đại học, viện nghiên cứu và doanh nghiệp.
-- Không gian, sự kiện và hạ tầng hệ sinh thái.
-- Chuyển giao công nghệ và kết nối các bài toán khu vực công.
-- Nền tảng H.OIP để tập hợp startup, chuyên gia, nhà đầu tư và vườn ươm.
-- Liên kết đầu ra với các chương trình, BSSC, Startup Wheel và nguồn vốn phù hợp.
+- Chuyển giao công nghệ và các bài toán khu vực công.
+- H.OIP và hạ tầng kết nối hệ sinh thái.
+- Liên kết downstream với BSSC, Startup Wheel và nguồn vốn phù hợp.
 
 ### Chúng ta học gì từ SIHUB?
 
-- Không nên dùng một quy trình giống nhau cho mọi dự án.
-- Cần phân biệt rõ **ý tưởng**, **tiền ươm tạo**, **ươm tạo** và **tăng tốc**.
-- Mỗi giai đoạn cần điều kiện đầu vào, loại hỗ trợ và tiêu chí hoàn thành riêng.
-- Một dự án có thể cần hỗ trợ kỹ thuật hoặc thử nghiệm trước khi cần tiền đầu tư.
-- Tổ chức trung gian có thể quản lý chương trình và nguồn lực mà không nhất thiết sở hữu dự án.
-- Nhà nước và khu vực công có thể là người đưa bài toán, người bảo trợ hoặc khách hàng đầu tiên.
-
-### SIHUB có thể hỗ trợ chúng ta gì?
-
-- Hiểu rõ chính sách và chương trình hỗ trợ hiện hành.
-- Kết nối chuyên gia và tổ chức ươm tạo.
-- Đưa dự án phù hợp vào chương trình tiền ươm tạo, ươm tạo hoặc tăng tốc.
-- Cung cấp không gian thử nghiệm, sự kiện hoặc mạng lưới giới thiệu.
-- Kết nối dự án với bài toán của cơ quan công, viện trường hoặc doanh nghiệp.
-- Tạo tín hiệu chính danh cho những dự án đã có bằng chứng ban đầu.
-- Mở đường đến các nguồn vốn hoặc chương trình downstream.
-
-### Chúng ta có thể cung cấp gì cho SIHUB?
-
-- Dòng dự án đầu nguồn đã được làm rõ vấn đề.
-- Hồ sơ nhu cầu có người hưởng lợi và bằng chứng thực tế.
-- Lịch sử đóng góp và vai trò của từng thành viên.
-- Dữ liệu phản biện, thử nghiệm và cam kết sử dụng.
-- Hồ sơ milestone và bằng chứng tiến độ.
-- Công cụ theo dõi dự án sau khi được chọn vào chương trình.
-- Cộng đồng giúp phát hiện vấn đề địa phương mà hệ thống hành chính khó quan sát sớm.
-
-### Điểm giao nhau
-
-- Tiếp nhận và chuẩn hóa dự án.
-- Sàng lọc dự án.
-- Kết nối chuyên gia và nguồn lực.
-- Theo dõi tiến độ chương trình.
-- Xây dựng cơ sở dữ liệu hệ sinh thái.
-
-### Khác biệt cần giữ
-
-SIHUB chủ yếu tiếp nhận **hồ sơ dự án** vào các chương trình đã định hình. Mô hình của chúng ta có thể đi xa hơn về phía đầu nguồn:
-
-```text
-Vấn đề chưa có người sở hữu
-→ cộng đồng xác nhận
-→ người đóng góp xuất hiện
-→ hình thành đội
-→ mới trở thành hồ sơ dự án
-```
-
-Niềm tin của SIHUB dựa nhiều vào **thể chế, hội đồng và chương trình**. Niềm tin của chúng ta cần dựa thêm vào:
-
-- Nguồn gốc của từng tuyên bố.
-- Bằng chứng nhu cầu.
-- Cam kết nguồn lực thật.
-- Lịch sử thay đổi của dự án.
-- Trách nhiệm của từng người.
-- Kết quả sau từng milestone.
+- Không dùng một quy trình giống nhau cho mọi dự án.
+- Mỗi stage cần điều kiện đầu vào, loại hỗ trợ và tiêu chí hoàn thành riêng.
+- Một dự án có thể cần hỗ trợ kỹ thuật, pilot hoặc policy access trước khi cần investment.
+- Tổ chức trung gian có thể quản lý chương trình mà không sở hữu project.
 
 ### Quan hệ đề xuất
 
-> [!success] Định hướng
-> **Đối tác hạ tầng và downstream.** Không xây một “SIHUB tư nhân”. Hãy trở thành lớp tạo dự án sạch, dữ liệu rõ và bằng chứng tốt trước khi đưa dự án vào hệ sinh thái SIHUB.
+> [!success] **Đối tác hạ tầng và downstream.** Không xây một “SIHUB tư nhân”. Hãy tạo project sạch, evidence rõ và đủ điều kiện trước khi chuyển vào chương trình công.
 
 ---
 
-## 5. Startup Wheel
+## 6. Startup Wheel
 
 **Hồ sơ nguồn:** [[Startup Wheel — Tổng quan và bài học]]
 
 ### Họ làm được gì?
 
-- Thu hút số lượng lớn startup và dự án tham gia.
+- Thu hút lượng lớn startup.
 - Tạo funnel sàng lọc bằng nhiều vòng.
-- Tổ chức đào tạo, mentoring và cố vấn.
-- Giúp dự án luyện cách trình bày và tiếp cận thị trường.
-- Tạo tín hiệu uy tín thông qua Top, giải thưởng và hội đồng giám khảo.
-- Tạo sân khấu truyền thông, triển lãm và pitching.
-- Kết nối startup với doanh nghiệp, quỹ, accelerator và nhà đầu tư.
-- Duy trì alumni và đưa một số startup quay lại hỗ trợ hệ sinh thái.
+- Mentoring, training và pitching.
+- Tạo tín hiệu uy tín qua Top, giải thưởng và hội đồng.
+- Tạo sân khấu truyền thông, triển lãm và kết nối investor/corporate.
+- Duy trì alumni và tái sử dụng thành network asset.
 
-### Chúng ta học gì từ Startup Wheel?
+### Chúng ta học gì?
 
-- Deal flow phải được tổ chức thành các vòng, không xử lý mọi dự án như nhau.
-- Một vòng tuyển chọn không chỉ loại dự án yếu mà còn tạo động lực để dự án tự hoàn thiện.
-- Mentor và hội đồng là tài sản mạng lưới quan trọng.
-- Sự kiện tạo điểm hội tụ cho truyền thông, doanh nghiệp và vốn.
-- Danh hiệu hoặc việc được lựa chọn có thể trở thành tín hiệu tin cậy.
-- Alumni có thể quay lại làm mentor, đối tác, nhà tài trợ hoặc khách hàng.
-
-### Startup Wheel có thể hỗ trợ chúng ta gì?
-
-- Mentoring và hoàn thiện hồ sơ trình bày.
-- Tiếp cận doanh nghiệp và đối tác thị trường.
-- Sân khấu pitching và triển lãm.
-- Truyền thông và tín hiệu uy tín.
-- Tiếp cận quỹ, accelerator hoặc nhà đầu tư phù hợp.
-- Quan sát tiêu chí mà hệ sinh thái dùng để chọn dự án.
-
-### Chúng ta có thể cung cấp gì cho Startup Wheel?
-
-- Những dự án chưa từng có founder nhưng đã được hình thành thành đội.
-- Bằng chứng nhu cầu trước khi dự án đi thi.
-- Người sử dụng hoặc khách hàng thử nghiệm đầu tiên.
-- Dữ liệu phản biện và lịch sử phát triển dự án.
-- Hồ sơ vai trò đội ngũ rõ ràng.
-- Kết quả pilot và bằng chứng thực hiện.
-- Một nguồn dự án đầu vào có chất lượng hơn hồ sơ tự khai thông thường.
-
-### Điểm giao nhau
-
-- Sàng lọc và làm rõ dự án.
-- Tạo uy tín.
-- Cố vấn.
-- Kết nối nguồn lực.
-- Kết nối doanh nghiệp và nhà đầu tư.
+- Deal flow phải có stage gate.
+- Selection có thể vừa sàng lọc vừa tạo động lực hoàn thiện.
+- Mentor, judges và alumni là network assets.
+- Sự kiện là distribution layer, không phải toàn bộ project formation.
 
 ### Khác biệt cần giữ
 
-Startup Wheel thường bắt đầu từ một startup hoặc đội đã chủ động đăng ký và vận hành theo mùa. Chúng ta có thể bắt đầu sớm hơn và hoạt động liên tục:
-
-| Khía cạnh | Startup Wheel | Chúng ta |
+| Khía cạnh | Startup Wheel | Samsti |
 |---|---|---|
 | Điểm bắt đầu | Startup hoặc đội đăng ký | Vấn đề, nhu cầu hoặc ý tưởng thô |
-| Nhịp hoạt động | Theo mùa và vòng thi | Liên tục theo vòng đời dự án |
-| Tín hiệu chính | Được chọn, giải thưởng, hội đồng | Bằng chứng nhu cầu, cam kết và kết quả |
-| Nguồn lực | Mentor, sự kiện, đối tác, vốn | Tiền, công, thiết bị, dữ liệu, địa điểm, người dùng |
-| Theo dõi | Chủ yếu trong chương trình | Trước, trong và sau khi huy động |
+| Nhịp hoạt động | Theo mùa/vòng thi | Liên tục theo vòng đời project |
+| Tín hiệu chính | Ranking, selection, judges | Evidence, commitment và outcome |
+| Nguồn lực | Mentor, event, partner, capital | Tiền, công, thiết bị, dữ liệu, access |
+| Theo dõi | Trong chương trình | Trước, trong và sau huy động |
 
 ### Quan hệ đề xuất
 
-> [!success] Định hướng
-> **Coopetition — hợp tác thật và cạnh tranh ở tầng dữ liệu.** Dùng Startup Wheel như kênh mentoring, trình diễn và kết nối; đồng thời giữ quyền sở hữu lớp đầu nguồn, cộng đồng, lịch sử dự án và evidence graph.
+> [!success] **Coopetition.** Dùng Startup Wheel cho mentoring, trình diễn và investor access; giữ quyền sở hữu lớp đầu nguồn, community, lịch sử project và evidence graph.
 
 ---
 
-## 6. FundingVN và các nền tảng crowdfunding
+## 7. Dream Lab
 
 ### Họ làm được gì?
 
-- Đưa dự án thành một chiến dịch có mục tiêu vốn và thời hạn.
-- Thiết kế các mức đóng góp hoặc phần thưởng.
-- Tạo trang công khai để dự án truyền thông và nhận hỗ trợ.
-- Có thể kết nối thanh toán và quản lý giao dịch.
-- Tạo dữ liệu về mức độ quan tâm hoặc khả năng huy động cộng đồng.
+Dream Lab đang xây một founder/venture pipeline:
+
+```text
+Talent
+→ founder development
+→ idea / validation
+→ AI product
+→ venture building
+→ capital
+```
 
 ### Chúng ta học gì?
 
-- Một chiến dịch cần mục tiêu cụ thể, thời gian rõ và đề nghị giá trị dễ hiểu.
-- Người đóng góp cần biết họ nhận lại gì hoặc tác động nào sẽ được tạo ra.
-- Phải phân biệt tiền thật, tiền mô phỏng, lượt ủng hộ và cam kết sử dụng.
-- Cần có quy định về hoàn tiền, thất bại, thay đổi mục tiêu và thực hiện phần thưởng.
-- Thành công huy động không đồng nghĩa dự án có khả năng thực hiện.
+- Founder formation có thể được productize thành một pipeline.
+- AI có thể hỗ trợ người chưa có idea rõ đi qua từng nhiệm vụ.
+- Venture builder cần visibility rất sớm vào founder/project pipeline.
 
-### Phần họ có thể hỗ trợ
+### Điểm giao nhau
 
-- Hạ tầng chiến dịch.
-- Thanh toán.
-- Cơ chế phần thưởng.
-- Truyền thông cộng đồng.
-- Kinh nghiệm vận hành crowdfunding.
+Dream Lab giao Samsti ở tầng đầu nguồn mạnh hơn Startup Wheel: cả hai đều quan tâm cách biến người và ý tưởng còn thô thành project/startup.
 
-### Phần chúng ta phải giữ
+### Khác biệt cốt lõi
 
-- Kiểm chứng dự án trước khi mở chiến dịch.
-- Bằng chứng về nhu cầu và người hưởng lợi.
-- Trách nhiệm của đội dự án.
-- Giải ngân hoặc sử dụng nguồn lực theo milestone.
-- Nhật ký tiến độ.
-- Xác minh bằng chứng hoàn thành.
-- Cơ chế can thiệp khi dự án lệch cam kết.
+Dream Lab hiện thiên founder + AI/web startup. Samsti có thể rộng hơn:
+
+- Project chưa có founder.
+- Hardware/manufacturing/deep-tech.
+- Civic/community/social impact.
+- Multi-resource formation.
 
 ### Quan hệ đề xuất
 
-> [!warning] Định hướng
-> Xem nền tảng crowdfunding như **một mô-đun giao dịch hoặc kênh huy động**, không xem nó là toàn bộ mô hình. Phần khó hơn và có giá trị hơn nằm trước và sau giao dịch.
+> [!warning] **Partner ở interface, không giao pipeline.** Có thể handoff project founder-ready sang Dream Lab; không giao quyền sở hữu community/project history hay mechanism lõi.
 
 ---
 
-## 7. HCM VIF và các quỹ đầu tư
+## 8. FundingVN và các nền tảng crowdfunding
 
 ### Họ làm được gì?
 
-- Cung cấp nguồn vốn đầu tư cho dự án đủ trưởng thành.
-- Đánh giá khả năng tăng trưởng, đội ngũ, thị trường và hiệu quả sử dụng vốn.
-- Hỗ trợ quản trị, quan hệ và mở rộng thị trường.
-- Có thể đồng đầu tư với các nguồn vốn khác.
+- Biến project thành campaign có mục tiêu và thời hạn.
+- Thiết kế contribution/reward tiers.
+- Kết nối thanh toán và truyền thông campaign.
 
 ### Chúng ta học gì?
 
-- Một dự án đáng quan tâm chưa chắc là một khoản đầu tư phù hợp.
-- Nhà đầu tư cần dữ liệu về thị trường, đội ngũ, sở hữu, tài chính và rủi ro.
-- Bằng chứng cộng đồng chỉ là một lớp dữ liệu, không thay thế due diligence.
-- Cần tách dự án tác động xã hội, dự án cộng đồng và startup tăng trưởng cao vì chúng dùng các loại vốn khác nhau.
-
-### Chúng ta có thể cung cấp gì cho quỹ?
-
-- Deal flow sớm có nguồn gốc rõ.
-- Dữ liệu nhu cầu và hành vi người dùng.
-- Lịch sử đội ngũ và đóng góp.
-- Kết quả pilot.
-- Các giả thuyết đã được kiểm chứng hoặc bác bỏ.
-- Hồ sơ rủi ro và bằng chứng theo milestone.
-
-### Quỹ có thể hỗ trợ gì?
-
-- Vốn tăng trưởng.
-- Kỷ luật tài chính và quản trị.
-- Mạng lưới doanh nghiệp.
-- Kiến thức thị trường và mở rộng.
-- Uy tín cho vòng phát triển tiếp theo.
+- Campaign cần objective, deadline, benefit và failure rule rõ.
+- Phải phân biệt tiền thật, pledge, vote, interest và demand.
+- Fundraising success không tự chứng minh execution capacity.
 
 ### Quan hệ đề xuất
 
-> [!success] Định hướng
-> Quỹ là **đầu ra vốn**, không phải nơi gửi mọi ý tưởng. Nền tảng cần giúp dự án tiến đến đúng mức trưởng thành và dùng đúng loại vốn trước khi giới thiệu cho quỹ.
+> [!warning] Xem crowdfunding platform như **transaction/campaign module**, không xem nó là toàn bộ mô hình. Giá trị cốt lõi nằm ở project readiness trước campaign và accountability sau campaign.
 
 ---
 
-## 8. Ma trận trao đổi giá trị
+## 9. HCM VIF và các quỹ đầu tư
 
-| Tổ chức | Họ cung cấp cho chúng ta | Chúng ta cung cấp cho họ | Quan hệ chính |
+### Họ làm được gì?
+
+- Cung cấp capital cho project đủ trưởng thành.
+- Thực hiện due diligence.
+- Đưa discipline về governance, finance và growth.
+
+### Samsti có thể cung cấp gì?
+
+- Deal flow sớm nhưng có provenance.
+- Demand evidence.
+- Team history.
+- Pilot results.
+- Assumption log.
+- Milestone evidence.
+
+### Quan hệ đề xuất
+
+> [!success] Quỹ là **đầu ra vốn**, không phải nơi gửi mọi ý tưởng. Samsti cần giúp project đạt đúng maturity và dùng đúng loại capital trước khi giới thiệu.
+
+---
+
+## 10. Ma trận trao đổi giá trị
+
+| Tổ chức | Họ cung cấp cho Samsti | Samsti cung cấp cho họ | Quan hệ chính |
 |---|---|---|---|
-| **SIHUB** | Chính sách, chương trình, chuyên gia, hạ tầng, hỗ trợ công | Dự án đầu nguồn, bằng chứng nhu cầu, milestone data | Bổ sung + hợp tác |
-| **Startup Wheel** | Mentoring, truyền thông, pitching, doanh nghiệp, nhà đầu tư | Dự án đã làm sạch, pilot, đội rõ, dữ liệu tin cậy | Hợp tác + giao nhau + cạnh tranh |
-| **FundingVN** | Hạ tầng chiến dịch và thanh toán | Dự án được xác minh, quy trình theo dõi sau huy động | Bổ sung + giao nhau |
-| **HCM VIF / quỹ** | Vốn, quản trị và mạng lưới | Deal flow đủ trưởng thành và hồ sơ bằng chứng | Đầu ra chiến lược |
-| **Doanh nghiệp** | Bài toán, khách hàng, thiết bị, thị trường | Giải pháp, thử nghiệm, nhà cung cấp mới | Hợp tác thị trường |
-| **Viện trường** | Chuyên môn, nghiên cứu, nhân lực | Bài toán thực tế và con đường thương mại hóa | Hợp tác tri thức |
-| **Cộng đồng địa phương** | Vấn đề, nhu cầu, dữ liệu và nguồn lực nhỏ | Cơ chế hình thành dự án và quyền theo dõi | Đối tác nền tảng |
+| **ABG** | Talent, mentor, alumni network, leadership development | Project thật, work package, contribution evidence | Bổ sung + hợp tác |
+| **SIHUB** | Chính sách, chương trình, chuyên gia, hạ tầng, hỗ trợ công | Project đầu nguồn, demand evidence, milestone data | Bổ sung + hợp tác |
+| **Startup Wheel** | Mentoring, truyền thông, pitching, corporate, investor | Project đã làm sạch, pilot, team rõ, evidence | Hợp tác + giao nhau + cạnh tranh |
+| **Dream Lab** | Founder development, venture building, capital network | Founder-ready/project-ready pipeline | Hợp tác + cạnh tranh đầu nguồn |
+| **FundingVN** | Campaign/payment infrastructure | Project được xác minh, post-funding accountability | Bổ sung + giao nhau |
+| **HCM VIF / quỹ** | Capital, governance và network | Mature deal flow và evidence dossier | Đầu ra chiến lược |
+| **Doanh nghiệp** | Problem, customer, equipment, market | Solution, pilot, supplier/project | Hợp tác thị trường |
+| **Viện trường** | Research, expertise, talent | Problem thực và commercialization path | Hợp tác tri thức |
 
-## 9. Những năng lực nên liên kết thay vì tự xây
+## 11. Những năng lực nên liên kết thay vì tự xây
 
-Không nên tự xây lại mọi thứ. Các năng lực sau nên ưu tiên dùng đối tác:
-
-- Không gian tổ chức sự kiện và làm việc.
-- Chương trình đào tạo khởi nghiệp cơ bản.
-- Hội đồng chuyên môn cho các ngành đặc thù.
+- Không gian sự kiện/làm việc.
+- Leadership/founder training cơ bản.
+- Mentor chuyên ngành.
 - Hạ tầng thanh toán được cấp phép.
-- Dịch vụ pháp lý, kế toán và kiểm toán.
-- Quỹ đầu tư và hoạt động quản lý vốn.
+- Legal/accounting/audit.
+- Fund management và capital allocation.
 - Truyền thông đại chúng.
-- Các phòng thí nghiệm, trung tâm thử nghiệm và cơ sở nghiên cứu.
-- Hệ thống mua sắm hoặc triển khai của cơ quan công.
-- Mạng lưới phân phối sẵn có của doanh nghiệp.
+- Phòng lab/trung tâm thử nghiệm.
+- Procurement/public implementation.
+- Distribution network của doanh nghiệp.
 
-## 10. Những năng lực bắt buộc phải giữ
+## 12. Những năng lực bắt buộc phải giữ
 
-Đây là phần tạo nên lý do tồn tại và lợi thế dài hạn của mô hình:
-
-1. **Dữ liệu đầu nguồn** — vấn đề xuất hiện từ đâu, ai chịu ảnh hưởng và bằng chứng ban đầu là gì.
-2. **Quy trình hình thành dự án** — cách một ý tưởng chuyển thành đội, mục tiêu, ngân sách và trách nhiệm.
-3. **Evidence ledger** — từng tuyên bố được hỗ trợ bởi bằng chứng nào, do ai cung cấp và được cập nhật khi nào.
-4. **Lịch sử đóng góp** — ai đã góp ý tưởng, chuyên môn, công việc, tiền hoặc tài sản.
-5. **Bằng chứng nhu cầu** — phân biệt quan tâm, đồng tình, đăng ký, dùng thử, đặt trước và trả tiền.
-6. **Cam kết nguồn lực** — không chỉ tiền mà cả công, thiết bị, dữ liệu, địa điểm và đầu ra thị trường.
-7. **Milestone và outcome** — dự án đã hứa gì, hoàn thành gì, thất bại ở đâu và học được gì.
-8. **Quan hệ với cộng đồng** — không để một đối tác downstream sở hữu toàn bộ người dùng và lịch sử dự án.
-9. **Tiêu chuẩn chuyển giai đoạn** — khi nào ý tưởng thành dự án, khi nào dự án đủ thử nghiệm, đủ huy động hoặc đủ đầu tư.
-10. **Khả năng tương tác nhiều hệ sinh thái** — dự án có thể đi SIHUB, Startup Wheel, quỹ, doanh nghiệp hoặc kênh khác mà không bị khóa vào một tổ chức.
+1. **Dữ liệu đầu nguồn** — problem xuất hiện từ đâu, ai bị ảnh hưởng và evidence ban đầu.
+2. **Quy trình hình thành project** — từ idea → team → scope → resource → responsibility.
+3. **Evidence ledger** — claim nào được hỗ trợ bởi bằng chứng nào.
+4. **Lịch sử đóng góp** — ai đã đóng góp gì, trong điều kiện nào.
+5. **Demand evidence** — phân biệt attention, trial, commitment và transaction.
+6. **Resource commitments** — money, labor, equipment, data, access.
+7. **Milestone và outcome** — project đã hứa gì, hoàn thành gì và fail ở đâu.
+8. **Quan hệ với community** — không để downstream partner sở hữu toàn bộ user/project history.
+9. **Stage criteria** — khi nào idea thành project, khi nào project đủ pilot/huy động/investment.
+10. **Interoperability** — project có thể đi ABG, SIHUB, Startup Wheel, Dream Lab, quỹ hoặc kênh khác mà không bị khóa.
 
 > [!danger] Ranh giới chiến lược
-> Có thể chia sẻ hồ sơ dự án cho đối tác, nhưng không nên giao quyền sở hữu hoàn toàn **cộng đồng, dữ liệu nguồn, lịch sử phát triển và tiêu chuẩn đánh giá**.
+> Có thể chia sẻ hồ sơ project cho đối tác, nhưng không nên giao quyền sở hữu hoàn toàn **community, source data, lịch sử phát triển và tiêu chuẩn đánh giá**.
 
-## 11. Giả thuyết hợp tác cần kiểm chứng
+## 13. Giả thuyết hợp tác cần kiểm chứng
+
+### Với ABG
+
+- Có thể thử project practice cho alumni không?
+- Alumni Connect có mở introduction cho partner ngoài hệ thống không?
+- Mentor có sẵn sàng review milestone cụ thể không?
+- Contribution history có giá trị như portfolio không?
 
 ### Với SIHUB
 
-- SIHUB có cần một pipeline dự án trước tiền ươm tạo không?
-- Họ có cần công cụ theo dõi bằng chứng và milestone sau tuyển chọn không?
-- Có thể chọn một dự án cộng đồng làm pilot chung không?
-- H.OIP có khả năng tích hợp hoặc nhận dữ liệu có cấu trúc từ bên ngoài không?
+- Họ có cần pipeline trước tiền ươm tạo không?
+- Có cần evidence/milestone tracking sau selection không?
+- H.OIP có thể nhận dữ liệu có cấu trúc từ ngoài không?
 
 ### Với Startup Wheel
 
-- Họ có muốn nhận các dự án đã có demand evidence và pilot không?
-- Các tiêu chí tuyển chọn có thể được chuyển thành checklist chuẩn bị dự án không?
-- Có thể theo dõi outcome của alumni sau cuộc thi bằng một hồ sơ sống không?
-- Nền tảng có thể trở thành nguồn cung dự án cho một track riêng không?
+- Có muốn nhận project đã có demand evidence và pilot không?
+- Có thể dùng project living profile để theo dõi alumni outcome không?
+
+### Với Dream Lab
+
+- Project phải đạt stage nào để trở thành founder-ready/venture-ready?
+- Có thể handoff project physical/community mà họ không ưu tiên không?
 
 ### Với FundingVN
 
-- Nền tảng còn vận hành giao dịch tiền thật đến mức nào?
-- Có thể dùng họ như payment/campaign partner thay vì tự xử lý dòng tiền không?
-- Dữ liệu chiến dịch và cập nhật tiến độ có thể đồng bộ ra ngoài không?
+- Hạ tầng giao dịch hiện hoạt động đến đâu?
+- Có thể dùng làm campaign/payment partner không?
 
-### Với HCM VIF và quỹ
+### Với HCM VIF / quỹ
 
-- Quỹ cần những trường dữ liệu nào trước khi xem một dự án?
-- Loại bằng chứng cộng đồng nào thực sự có giá trị trong due diligence?
-- Dự án cần đạt milestone nào trước khi được giới thiệu?
-- Có thể xây một “investment readiness dossier” chuẩn không?
+- Quỹ cần field dữ liệu nào trước first look?
+- Loại community evidence nào có giá trị trong due diligence?
+- Có thể chuẩn hóa investment readiness dossier không?
 
-## 12. Mẫu bổ sung tổ chức mới
-
-Khi thêm một tổ chức mới vào ghi chú này, dùng cấu trúc sau:
+## 14. Mẫu bổ sung tổ chức mới
 
 ```markdown
 ## Tên tổ chức
@@ -443,51 +452,42 @@ Khi thêm một tổ chức mới vào ghi chú này, dùng cấu trúc sau:
 **Hồ sơ nguồn:** [[Tên hồ sơ trong Nguồn]]
 
 ### Họ đang giải quyết vấn đề gì?
-
 ### Họ sở hữu tài sản gì?
-
 ### Họ làm tốt điều gì?
-
 ### Chúng ta học được gì?
-
 ### Họ có thể cung cấp gì cho chúng ta?
-
 ### Chúng ta có thể cung cấp gì cho họ?
-
 ### Điểm giao nhau
-
 ### Khác biệt cốt lõi
-
 ### Rủi ro phụ thuộc
-
 ### Quan hệ đề xuất
-
 ### Giả thuyết cần kiểm chứng
 ```
 
-## 13. Kết luận hiện tại
+## 15. Kết luận hiện tại
 
-Mô hình không cần thắng mọi tổ chức bằng cách tự làm toàn bộ chuỗi giá trị. Vai trò phù hợp hơn là trở thành **lớp hình thành và chứng minh dự án**, sau đó kết nối dự án với đúng hệ sinh thái downstream.
+Samsti không cần thắng mọi tổ chức bằng cách tự làm toàn bộ chuỗi giá trị. Vai trò phù hợp hơn là trở thành **lớp hình thành và chứng minh project**, sau đó kết nối project với đúng network downstream hoặc đúng talent source.
 
 ```text
-Chúng ta
-= phát hiện vấn đề
-+ hình thành dự án
-+ bằng chứng nhu cầu
-+ cộng đồng và cam kết
-+ tiến độ và outcome
+Samsti
+= problem discovery
++ project formation
++ evidence
++ people/resources
++ commitment
++ milestone/outcome
 
-Đối tác
-= chính sách
-+ chuyên gia
-+ không gian
-+ truyền thông
-+ thanh toán
-+ doanh nghiệp
-+ vốn đầu tư
+Partners
+= talent
++ policy
++ expertise
++ space
++ distribution
++ payments
++ venture building
++ capital
 ```
 
-Chiến lược không phải chỉ là hợp tác hoặc đối đầu. Đó là:
+Chiến lược không phải chỉ là hợp tác hoặc đối đầu:
 
-> **Hợp tác ở những năng lực đã có người làm tốt; giao nhau có kiểm soát; cạnh tranh ở lớp dữ liệu và quy trình cốt lõi; giữ quyền tự do đưa dự án đến nhiều đầu ra khác nhau.**
->>>>>>> origin/main
+> **Hợp tác ở những năng lực đã có người làm tốt; giao nhau có kiểm soát; cạnh tranh ở lớp dữ liệu và quy trình cốt lõi; giữ quyền tự do đưa project đến nhiều đầu ra khác nhau.**
