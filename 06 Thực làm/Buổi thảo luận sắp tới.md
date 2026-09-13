@@ -2,6 +2,10 @@
 ai_authored: true
 ---
 
+# Buổi thảo luận sắp tới
+
+> Trước buổi họp, xem [[Hồ sơ đồng hành và vai trò thử nghiệm]] để cùng có một điểm xuất phát về hành trình của từng người, giá trị đang góp vào ý chí Samsti, các điểm giao giữa vai trò và những vùng năng lực nhóm còn cần bồi đắp.
+
 # 1. Nền tảng tạo ra kết quả cuối cùng là gì?
 ## Vấn đề cần làm rõ
 ## Các quan điểm được đưa ra
@@ -28,3 +32,7 @@ ai_authored: true
 - Nhóm hiểu mô hình theo cùng một cách.
 - Xác định mô hình liên quan đến phần nào của dự án.
 - Quyết định giữ làm nguồn, phát triển tiếp hay không sử dụng.
+
+## Liên kết
+
+- [[Hồ sơ đồng hành và vai trò thử nghiệm]]
