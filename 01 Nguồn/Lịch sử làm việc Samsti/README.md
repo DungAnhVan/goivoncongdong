@@ -6,6 +6,7 @@
 
 | Ngày | Nội dung | Trạng thái |
 |---|---|---|
+| 06/09/2026 | [Tổng hợp nội dung buổi họp Samsti - 06/09/2026](./T%E1%BB%95ng%20h%E1%BB%A3p%20n%E1%BB%99i%20dung%20bu%E1%BB%95i%20h%E1%BB%8Dp%20Samsti%20-%2006-09-2026.md) — chọn pilot Quả Cầu, CEO thử nghiệm, nguồn lực và cách làm việc | Bản tổng hợp lần 1 đã soạn trước; chờ thành viên rà soát |
 | 13/09/2026 | [Tổng hợp nội dung buổi họp Samsti - 13/09/2026](./T%E1%BB%95ng%20h%E1%BB%A3p%20n%E1%BB%99i%20dung%20bu%E1%BB%95i%20h%E1%BB%8Dp%20Samsti%20-%2013-09-2026.md) — vai trò đồng hành, pilot Quả Cầu, nguồn lực và cách tổ chức | Tổng hợp từ phụ đề; chờ thành viên rà soát |
 
 ## Cách lưu
