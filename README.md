@@ -14,6 +14,14 @@ Ghi chú trung tâm của dự án là:
 
 Từ ghi chú trung tâm, nội dung được tách sang các thư mục theo **vai trò tư duy** bên dưới.
 
+## Tổng hợp các buổi họp Samsti
+
+Quy ước tên file: `Tổng hợp nội dung buổi họp Samsti - dd-mm-yyyy.md`. Tiêu đề trong tài liệu dùng ngày `dd/mm/yyyy`; tên file dùng dấu `-` vì `/` phân cách thư mục. Bản biên bản nằm trong `01 Nguồn`; phần nhận xét và đề xuất riêng nằm trong `02 Mở rộng`. Khi liên kết trong Obsidian, dùng đầy đủ đường dẫn thư mục để phân biệt hai phần cùng ngày.
+
+| Ngày họp | Biên bản | Nhận xét và đề xuất |
+|---|---|---|
+| 13/09/2026 | [Đọc biên bản](./01%20Ngu%E1%BB%93n/T%E1%BB%95ng%20h%E1%BB%A3p%20n%E1%BB%99i%20dung%20bu%E1%BB%95i%20h%E1%BB%8Dp%20Samsti%20-%2013-09-2026.md) | [Đọc nhận xét](./02%20M%E1%BB%9F%20r%E1%BB%99ng/T%E1%BB%95ng%20h%E1%BB%A3p%20n%E1%BB%99i%20dung%20bu%E1%BB%95i%20h%E1%BB%8Dp%20Samsti%20-%2013-09-2026.md) |
+
 ## Muốn tham gia đóng góp?
 
 Vào [`Hiến chương/Hiến chương - Bản đồ.md`](./Hi%E1%BA%BFn%20ch%C6%B0%C6%A1ng/Hi%E1%BA%BFn%20ch%C6%B0%C6%A1ng%20-%20B%E1%BA%A3n%20%C4%91%E1%BB%93.md). Đọc mục 1 và mục 4 là đủ để bắt đầu, không cần đọc hết whitepaper.

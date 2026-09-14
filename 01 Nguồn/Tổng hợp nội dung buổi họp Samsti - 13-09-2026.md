@@ -1,4 +1,6 @@
-# Biên bản tổng hợp buổi họp Samsti — 13/09/2026
+# Tổng hợp nội dung buổi họp Samsti - 13/09/2026
+
+**Phần nội dung:** Biên bản tổng hợp từ phụ đề.
 
 **Tình trạng:** Bản tổng hợp từ phụ đề, dùng để các thành viên rà soát; chưa phải biên bản đã được toàn nhóm duyệt.
 
@@ -281,7 +283,7 @@ Không chuyển các hàng ở bảng này thành nhiệm vụ đã giao hoặc 
 
 ## Phân tích liên quan
 
-Phần nhận xét và đề xuất riêng của trợ lý được lưu tại [Nhận xét sau buổi họp Samsti - 2026-09-13](../02%20M%E1%BB%9F%20r%E1%BB%99ng/Nh%E1%BA%ADn%20x%C3%A9t%20sau%20bu%E1%BB%95i%20h%E1%BB%8Dp%20Samsti%20-%202026-09-13.md). Đây không phải quyết định của cuộc họp.
+Phần nhận xét và đề xuất riêng của trợ lý được lưu tại [Tổng hợp nội dung buổi họp Samsti - 13/09/2026 — Nhận xét và đề xuất](../02%20M%E1%BB%9F%20r%E1%BB%99ng/T%E1%BB%95ng%20h%E1%BB%A3p%20n%E1%BB%99i%20dung%20bu%E1%BB%95i%20h%E1%BB%8Dp%20Samsti%20-%2013-09-2026.md). Đây không phải quyết định của cuộc họp.
 
 ---
 

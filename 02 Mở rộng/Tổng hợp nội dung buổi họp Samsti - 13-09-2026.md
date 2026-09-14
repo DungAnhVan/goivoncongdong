@@ -1,8 +1,10 @@
-# Nhận xét sau buổi họp Samsti — 13/09/2026
+# Tổng hợp nội dung buổi họp Samsti - 13/09/2026
+
+**Phần nội dung:** Nhận xét và đề xuất của trợ lý.
 
 **Tình trạng:** Phân tích và đề xuất của trợ lý, chưa được nhóm thông qua.
 
-**Nguồn:** [Biên bản họp Samsti - 2026-09-13](../01%20Ngu%E1%BB%93n/Bi%C3%AAn%20b%E1%BA%A3n%20h%E1%BB%8Dp%20Samsti%20-%202026-09-13.md), tổng hợp từ phụ đề do Văn cung cấp.
+**Nguồn:** [Tổng hợp nội dung buổi họp Samsti - 13/09/2026 — Biên bản](../01%20Ngu%E1%BB%93n/T%E1%BB%95ng%20h%E1%BB%A3p%20n%E1%BB%99i%20dung%20bu%E1%BB%95i%20h%E1%BB%8Dp%20Samsti%20-%2013-09-2026.md), tổng hợp từ phụ đề do Văn cung cấp.
 
 
 ## 1. Khác biệt trọng tâm cần được gọi đúng tên
