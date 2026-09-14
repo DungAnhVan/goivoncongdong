@@ -16,11 +16,13 @@ Từ ghi chú trung tâm, nội dung được tách sang các thư mục theo **
 
 ## Tổng hợp các buổi họp Samsti
 
-Quy ước tên file: `Tổng hợp nội dung buổi họp Samsti - dd-mm-yyyy.md`. Tiêu đề trong tài liệu dùng ngày `dd/mm/yyyy`; tên file dùng dấu `-` vì `/` phân cách thư mục. Bản biên bản nằm trong `01 Nguồn`; phần nhận xét và đề xuất riêng nằm trong `02 Mở rộng`. Khi liên kết trong Obsidian, dùng đầy đủ đường dẫn thư mục để phân biệt hai phần cùng ngày.
+[Lịch sử làm việc Samsti](./01%20Ngu%E1%BB%93n/L%E1%BB%8Bch%20s%E1%BB%AD%20l%C3%A0m%20vi%E1%BB%87c%20Samsti/README.md) lưu diễn tiến làm việc thực tế, người tham gia, quyết định, cam kết và những điểm còn chưa thống nhất qua từng buổi.
+
+Quy ước tên file: `Tổng hợp nội dung buổi họp Samsti - dd-mm-yyyy.md`. Tiêu đề trong tài liệu dùng ngày `dd/mm/yyyy`; tên file dùng dấu `-` vì `/` phân cách thư mục. Bản biên bản nằm trong `01 Nguồn/Lịch sử làm việc Samsti`; phần nhận xét và đề xuất riêng nằm trong `02 Mở rộng`. Khi liên kết trong Obsidian, dùng đầy đủ đường dẫn thư mục để phân biệt hai phần cùng ngày.
 
 | Ngày họp | Biên bản | Nhận xét và đề xuất |
 |---|---|---|
-| 13/09/2026 | [Đọc biên bản](./01%20Ngu%E1%BB%93n/T%E1%BB%95ng%20h%E1%BB%A3p%20n%E1%BB%99i%20dung%20bu%E1%BB%95i%20h%E1%BB%8Dp%20Samsti%20-%2013-09-2026.md) | [Đọc nhận xét](./02%20M%E1%BB%9F%20r%E1%BB%99ng/T%E1%BB%95ng%20h%E1%BB%A3p%20n%E1%BB%99i%20dung%20bu%E1%BB%95i%20h%E1%BB%8Dp%20Samsti%20-%2013-09-2026.md) |
+| 13/09/2026 | [Đọc biên bản](./01%20Ngu%E1%BB%93n/L%E1%BB%8Bch%20s%E1%BB%AD%20l%C3%A0m%20vi%E1%BB%87c%20Samsti/T%E1%BB%95ng%20h%E1%BB%A3p%20n%E1%BB%99i%20dung%20bu%E1%BB%95i%20h%E1%BB%8Dp%20Samsti%20-%2013-09-2026.md) | [Đọc nhận xét](./02%20M%E1%BB%9F%20r%E1%BB%99ng/T%E1%BB%95ng%20h%E1%BB%A3p%20n%E1%BB%99i%20dung%20bu%E1%BB%95i%20h%E1%BB%8Dp%20Samsti%20-%2013-09-2026.md) |
 
 ## Muốn tham gia đóng góp?
 

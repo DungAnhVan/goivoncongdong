@@ -4,7 +4,7 @@
 
 **Tình trạng:** Phân tích và đề xuất của trợ lý, chưa được nhóm thông qua.
 
-**Nguồn:** [Tổng hợp nội dung buổi họp Samsti - 13/09/2026 — Biên bản](../01%20Ngu%E1%BB%93n/T%E1%BB%95ng%20h%E1%BB%A3p%20n%E1%BB%99i%20dung%20bu%E1%BB%95i%20h%E1%BB%8Dp%20Samsti%20-%2013-09-2026.md), tổng hợp từ phụ đề do Văn cung cấp.
+**Nguồn:** [Tổng hợp nội dung buổi họp Samsti - 13/09/2026 — Biên bản](../01%20Ngu%E1%BB%93n/L%E1%BB%8Bch%20s%E1%BB%AD%20l%C3%A0m%20vi%E1%BB%87c%20Samsti/T%E1%BB%95ng%20h%E1%BB%A3p%20n%E1%BB%99i%20dung%20bu%E1%BB%95i%20h%E1%BB%8Dp%20Samsti%20-%2013-09-2026.md), tổng hợp từ phụ đề do Văn cung cấp.
 
 
 ## 1. Khác biệt trọng tâm cần được gọi đúng tên
